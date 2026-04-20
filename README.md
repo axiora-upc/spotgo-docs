@@ -1,2 +1,3 @@
-# spotgo-docs
-Documentation of SpotGo App
+# SpotGo by Axiora
+
+Documentation
