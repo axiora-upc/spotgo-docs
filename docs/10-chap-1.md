@@ -4,7 +4,35 @@
 
 ### 1.1.1. Descripción del startup
 
+**Nombre de la startup**
 
+Axiora
+
+**Descripción**
+
+Axiora es un ecosistema de desarrollo tecnológico de código abierto especializado en la convergencia del Internet de las Cosas (IoT) y la Inteligencia Artificial. Nos dedicamos a construir soluciones web y sistemas inteligentes que actúan como el tejido conectivo entre los datos del mundo real y la toma de decisiones automatizada. En Axiora, democratizamos el acceso a tecnología de vanguardia, creando herramientas que no solo analizan el presente, sino que están diseñadas para adaptarse a la infraestructura del futuro.
+
+**Visión**
+
+Liderar la transición global hacia un ecosistema digital abierto, donde la interconexión entre humanos, objetos y algoritmos sea fluida, ética y accesible, estableciendo el estándar para la próxima generación de infraestructuras inteligentes.
+
+**Misión**
+
+Facilitar la innovación tecnológica mediante el desarrollo de software open-source de alto impacto que integre hardware y software de forma coherente. Buscamos empoderar a organizaciones y desarrolladores con herramientas que utilicen el IoT y la IA para resolver retos complejos, garantizando la transparencia, la seguridad y la visión a largo plazo.
+
+**Propuesta de Valor**
+
+"Tecnología Abierta para un Mundo Conectado"
+
+Axiora se posiciona en la frontera de la innovación colaborativa. A diferencia de las soluciones cerradas, ofrecemos transparencia total y flexibilidad mediante el desarrollo de código abierto, permitiendo que las aplicaciones IoT y las implementaciones de IA sean verdaderamente personalizables y seguras. Nuestra propuesta radica en eliminar las barreras entre el mundo físico y la web, transformando datos latentes en activos estratégicos con una perspectiva de escalabilidad infinita.
+
+**Características principales**
+
+* Ecosistema Web-IoT Unificado: Especialización en el desarrollo de interfaces web de baja latencia que interactúan en tiempo real con redes de sensores y actuadores, permitiendo el control y monitoreo total del entorno físico desde cualquier navegador.
+* IA Predictiva y Prospección de Datos: Implementación de modelos de Inteligencia Artificial que no solo reaccionan a los datos actuales, sino que realizan prospección a futuro, permitiendo a las empresas anticipar fallos, tendencias y comportamientos del mercado.
+* Filosofía Open Source y Colaboración: Desarrollo basado en la transparencia y la mejora continua. Al crear soluciones de código abierto, garantizamos que nuestras herramientas sean auditables, libres de vendor lock-in y alimentadas por la innovación de una comunidad global.
+* Diseño de Sistemas Resilientes y Modulares: Arquitecturas preparadas para el crecimiento exponencial del tráfico de datos, utilizando tecnologías modernas que aseguran que las aplicaciones sean ligeras, seguras y capaces de operar en entornos de borde.
+* Seguridad de Datos en el Borde: Enfoque riguroso en la protección de la información desde el dispositivo físico hasta la nube, aplicando protocolos de cifrado de última generación y prácticas de soberanía de datos para un mundo interconectado.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
