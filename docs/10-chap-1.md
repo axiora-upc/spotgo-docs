@@ -44,4 +44,32 @@
 
 ## 1.3. Segmentos objetivo
 
+En esta sección se detallarán los segmentos objetivos a tener en cuenta en nuestra propuesta de solución de problemática.
 
+**Primer Segmento Objetivo (Administradores o personal operativo de estacionamiento)**
+
+* Datos demográficos
+  * Edad: Adultos entre 25 y 60 años.
+  * Ocupación: Personal de seguridad, supervisores o administradores de estacionamientos.
+  * País de residencia: Perú.
+
+* Datos conductuales
+  * Dominio: Conocimientos básicos en gestión de estacionamientos y control de accesos.
+  * Beneficios buscados: Mejorar la organización del estacionamiento, controlar el flujo de vehículos y asignar espacios según el tipo de usuario.
+
+* Interacción con la plataforma
+  * Frecuencia de uso: Uso constante durante la jornada laboral para registrar ingresos y gestionar los espacios disponibles.
+
+**Segundo Segmento Objetivo (Conductores y usuarios finales (clientes))**
+
+* Datos demográficos
+  * Edad: Adultos entre 18 y 65 años.
+  * Ocupación: Diversa (visitantes, compradores, usuarios ocasionales, etc.).
+  * País de residencia: Perú.
+
+* Datos conductuales
+  * Dominio: Conocimientos básicos del uso de estacionamientos.
+  * Beneficios buscados: Encontrar rápidamente un espacio disponible, reducir el tiempo de búsqueda y evitar congestión.
+
+* Interacción con la plataforma
+  * Frecuencia de uso: Uso frecuente al acceder a estacionamientos en distintos establecimientos.
