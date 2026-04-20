@@ -37,6 +37,10 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | --- | --- | --- | --- |
 | 0.1.0 | 19/4/26 | @AdrixRyz | docs: agregar los puntos previos al capitulo 1 |
+| 0.1.1 | 20/4/26 | @johancg04 | docs: añadir descripcion del startup |
+| 0.1.2 | 20/4/26 | @usuario_de_pol | docs: añadir antecedentes y problematica |
+| 0.1.3 | 20/4/26 | @CesarJrCR | docs: añadir todos los puntos de lean ux process |
+| 0.1.4 | 20/4/26 | @nes-ro | docs: añadir segmentos objetivo |
 
 # Project Report Collaboration Insights
 
