@@ -48,7 +48,44 @@ Axiora se posiciona en la frontera de la innovación colaborativa. A diferencia 
 
 ### 1.2.1. Antecedentes y problemática
 
+**Técnica 5W2H**
 
+1. ¿Quiénes están involucrados o afectados? (Who?)
+
+Este problema afecta tanto a los conductores, taxistas o transporte autorizado, colaboradores que pierden tiempo y se frustran al no encontrar espacios disponibles, como a los administradores de estacionamientos y personal de seguridad, que enfrentan complicaciones en la gestión del flujo de vehículos. También se ven perjudicadas las empresas o instituciones que brindan el servicio de estacionamiento, ya que una mala experiencia puede impactar en la satisfacción de los clientes y en la imagen del establecimiento.
+
+2. ¿Qué ocurre o qué problema se presenta? (What?)
+
+En la actualidad, los estacionamientos con alta afluencia presentan dificultades no solo en la gestión de espacios disponibles, sino también en la organización según el tipo de usuario. No existe una adecuada clasificación entre usuarios como clientes, taxistas, personal interno o administración, lo que genera desorden, uso ineficiente de los espacios y conflictos en la asignación de zonas.
+
+Además, los conductores enfrentan demoras para encontrar un lugar adecuado según su necesidad, lo que provoca congestión, pérdida de tiempo y mala experiencia.
+
+3. ¿Cuándo se presenta el problema? (When?)
+
+Este problema ocurre principalmente en horas de alta demanda, como en las mañanas o tardes durante los días laborales, y con mayor frecuencia los fines de semana o feriados, cuando los centros comerciales, oficinas y estacionamientos privados reciben un gran número de vehículos. 
+También se presenta en momentos de eventos especiales, como conciertos, partidos o ferias, donde la afluencia de personas se incrementa de manera significativa. En estas situaciones , la falta de información real sobre los espacios disponibles provoca demoras, congestión vehicular dentro del estacionamiento y desorganización en la gestión de los accesos. 
+
+4. ¿Dónde sucede? (Where?)
+
+Este problema se presenta en estacionamientos con gran afluencia de vehículos, como los centros comerciales, supermercados, aeropuertos, universidades, oficinas corporativas y hospitales. También ocurre en estacionamientos privados o públicos de alta rotación donde no existe un sistema  automatizado de control de espacios disponibles.
+
+5. ¿Por qué ocurre? (Why?)
+
+Por qué es importante para nosotros:
+Reducir el tiempo perdido en la búsqueda de estacionamiento.
+Mejor distribución por tipo de usuario
+Reducción de conflictos entre usuarios
+Favorecer una gestión más moderna y alineada. 
+Mejorar la eficiencia en la administración de los espacios.
+Disminuir la congestión vehicular y la contaminación ambiental. 
+
+6. ¿Cómo se manifiesta el problema? (How?)
+
+El problema ocurre debido a la falta de un sistema organizado que permita registrar y gestionar los vehículos según su tipo de usuario. Actualmente, el control se realiza de forma manual sin una estructura clara de clasificación, lo que dificulta asignar espacios adecuados y genera desorden en momentos de alta demanda.
+
+7. ¿Cuánto cuesta o cuál es la magnitud? (How much?)
+
+La magnitud varía según el tamaño del problema y la afluencia del estacionamiento, pero se presenta con mayor frecuencia en lugares con alta rotación de vehículos y durante las horas pico o fechas específicas. Se estima en estos escenarios que los conductores tardan entre 5 a 20 min para encontrar un espacio libre, lo que nos lleva a traducir esto en pérdida de tiempo, mayor gasto en combustible y malestar generalizado.
 
 ### 1.2.2. Lean UX Process
 
