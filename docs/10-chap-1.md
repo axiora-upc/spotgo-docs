@@ -89,23 +89,117 @@ La magnitud varía según el tamaño del problema y la afluencia del estacionami
 
 ### 1.2.2. Lean UX Process
 
+Queremos saber si el uso constante de nuestra aplicación puede mejorar la organización y gestión de los estacionamientos mediante la clasificación de usuarios y asignación de zonas específicas, permitiendo a los administradores registrar y controlar eficientemente el ingreso de vehículos.
 
+Esto debería reflejarse en una reducción en los tiempos de búsqueda, una mejor distribución de los espacios según el tipo de usuario y una experiencia más ordenada y satisfactoria tanto para conductores como para el personal administrativo.
 
 #### *1.2.2.1. Lean UX Problem Statements*
 
+**Contexto**
 
+Un estudio de IBM indica que los conductores pueden gastar entre el 25% y 30% de su tiempo buscando estacionamiento, llegando en algunos casos a más de 600 minutos perdidos al mes. En distritos como San Isidro, donde la afluencia vehicular es muy alta, esta situación se intensifica. Según el INEUR, la demanda de estacionamiento se divide en estadías largas (más de 4 horas) y cortas (menos de 4 horas). En el centro financiero, la demanda de corta estadía supera los 5,000 espacios en la mañana, lo que dificulta que vecinos y abonados encuentren lugares disponibles para estadías prolongadas.
+ 
+**Problema**
+
+La alta demanda y la falta de información en tiempo real sobre la disponibilidad de espacios provoca pérdida de tiempo para los conductores, congestión vehicular y dificultades en la administración de los estacionamientos. Esto impacta tanto en la experiencia de los usuarios como en la eficiencia de la gestión de los espacios disponibles.
+ 
+**Pregunta clave**
+
+¿De qué manera una aplicación de estacionamientos inteligentes, basada en sensores y notificaciones en tiempo real, puede optimizar la administración de espacios y mejorar la experiencia tanto de conductores como de administradores en zonas de alta demanda como San Isidro o Cercado de Lima? 
 
 #### *1.2.2.2. Lean UX Assumptions*
 
+**Assumptions**
 
+1. ¿Quiénes son nuestros usuarios?
+* Personal administrativo de estacionamiento
+* Usuarios (clientes y colaboradores)
+
+2. ¿Dónde encaja nuestro servicio en su trabajo o vida?
+* Ayuda a los usuarios a encontrar y ubicarse en el estacionamiento de forma ordenada.
+* Permite a los administradores gestionar y supervisar el estacionamiento por zonas.
+* Facilita el control del uso adecuado de los espacios según el tipo de usuario.
+
+3. ¿Qué problemas tiene nuestro producto?
+* Requiere inversión inicial en sensores o cámaras.
+* Depende del registro correcto de usuarios por parte del administrador.
+* Necesita mantenimiento técnico periódico.
+* Puede existir resistencia al cambio en el uso del sistema.
+
+4. ¿Cómo y cuándo es usado nuestro producto?
+* Se utiliza al momento de ingresar al estacionamiento para guiar al usuario.
+* Funciona durante toda la permanencia del vehículo en el lugar.
+* Los administradores lo utilizan constantemente para monitoreo y control.
+
+5. ¿Qué características son importantes?
+* Monitoreo en tiempo real por zonas
+* Registro de usuarios
+* Alertas por uso indebido de espacios
+* Interfaz simple y clara
+* Panel de control para administradores
+* Sistema confiable y fácil de usar
+
+6. ¿Cómo debe verse nuestro producto y cómo comportarse?
+* Interfaz intuitiva y fácil de interpretar
+* Visualización clara de zonas disponibles
+* Respuesta rápida del sistema
+* Alertas precisas y oportunas
+* Funcionamiento continuo y estable
+
+**Business outcomes**
+
+* Reducción del tiempo de búsqueda de estacionamiento.
+* Mejora en la organización y distribución de espacios.
+* Disminución de conflictos por uso indebido de zonas.
+* Mayor control y monitoreo en tiempo real para administradores.
+* Optimización del uso de espacios disponibles.
+* Mejora en la experiencia de los usuarios.
+
+**Users**
+
+* Administradores o personal operativo de estacionamiento
+* Conductores y usuarios finales (clientes)
+
+**Users outcomes**
+
+* Administradores o personal operativo de estacionamiento
+  * Encontrar espacios disponibles de forma rápida
+  * Ubicarse en la zona que les corresponde
+  * Reducir el tiempo de búsqueda y el estrés
+
+* Conductores y usuarios finales (clientes)
+  * Mejor control y supervisión del estacionamiento
+  * Organización eficiente por tipo de usuario
+  * Reducción de conflictos por uso indebido de zonas
+  * Mejor toma de decisiones
+
+**Features**
+
+* Monitoreo de ocupación por zonas (sensores o cámaras)
+* Registro manual de usuarios (clientes y taxistas)
+* Asignación de zonas según tipo de usuario
+* Sistema de alertas por uso indebido de espacios
+* Panel de control para administradores
+* Visualización en tiempo real
+* Reportes de ocupación
 
 #### *1.2.2.3. Lean UX Hypothesis Statements*
 
+**Business Hypothesis**
 
+Creemos que al optimizar la gestión de estacionamientos mediante el monitoreo por zonas y la organización de usuarios (clientes y taxistas), impulsaremos una mayor eficiencia en el uso de los espacios y en la movilidad dentro de estos entornos.
+Sabremos que hemos logrado nuestra visión cuando observemos que el sistema es adoptado en estacionamientos de alta demanda y se reduce significativamente el tiempo de búsqueda, la congestión interna y los conflictos por uso indebido de zonas.
+
+**User Hypothesis**
+
+Creemos que al ofrecer información en tiempo real sobre la ocupación por zonas y una organización clara de usuarios (clientes y taxistas), mejoraremos la experiencia de los usuarios y la gestión del personal administrativo.
+Sabremos que hemos mejorado el servicio cuando los usuarios reduzcan el tiempo de búsqueda de estacionamiento y se ubiquen correctamente en sus zonas asignadas, mientras que los administradores logren un mayor control y orden en el uso de los espacios.
 
 #### *1.2.2.4. Lean UX Canvas*
 
+Link: https://canva.link/i0pin0nnlvbg3rd
 
+![Lean Product Canvas](../assets/images/figures/01-lean_canvas.jpg)
 
 ## 1.3. Segmentos objetivo
 
