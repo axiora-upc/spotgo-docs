@@ -38,9 +38,10 @@
 | --- | --- | --- | --- |
 | 0.1.0 | 19/4/26 | @AdrixRyz | docs: agregar los puntos previos al capitulo 1 |
 | 0.1.1 | 20/4/26 | @johancg04 | docs: añadir descripcion del startup |
-| 0.1.2 | 20/4/26 | @usuario_de_pol | docs: añadir antecedentes y problematica |
-| 0.1.3 | 20/4/26 | @CesarJrCR | docs: añadir todos los puntos de lean ux process |
-| 0.1.4 | 20/4/26 | @nes-ro | docs: añadir segmentos objetivo |
+| 0.1.2 | 20/4/26 | @CesarJrCR | docs: añadir todos lo puntos de solution profile |
+| 0.1.3 | 20/4/26 | @nes-ro | docs: añadir segmentos objetivo |
+| 0.1.4 | 21/4/26 | @R3memo | docs: añadir todos los puntos de competidores |
+| 0.1.5 | 21/4/26 | @R3memo | docs: añadir todos los puntos de entrevistas |
 
 # Project Report Collaboration Insights
 
