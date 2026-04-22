@@ -42,6 +42,7 @@
 | 0.1.3 | 20/4/26 | @nes-ro | docs: añadir segmentos objetivo |
 | 0.1.4 | 21/4/26 | @R3memo | docs: añadir todos los puntos de competidores |
 | 0.1.5 | 21/4/26 | @R3memo | docs: añadir todos los puntos de entrevistas |
+| 0.1.6 | 22/4/26 | @R3memo | docs: añadir las imagenes del needfinding |
 
 # Project Report Collaboration Insights
 

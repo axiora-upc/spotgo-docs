@@ -271,17 +271,51 @@ Se trata de conductores que utilizan estacionamientos en centros comerciales, un
 
 ### 2.3.1. User Personas
 
+**Primer Segmento Objetivo (Administradores o personal operativo de estacionamiento)**
 
+*Figura 2 (User Persona 1)*
+![User Persona 1](../assets/images/figures/02-user-persona-1.png)
+
+**Segundo Segmento Objetivo (Conductores y usuarios finales (clientes))**
+
+*Figura 3 (User Persona 2)*
+![User Persona 2](../assets/images/figures/03-user-persona-2.png)
 
 ### 2.3.2. User Task Matrix
 
+**Primer Segmento Objetivo (Administradores o personal operativo de estacionamiento)**
 
+*Figura 4 (User Task Matrix 1)*
+![User Task Matrix 1](../assets/images/figures/04-u-task-matrix-1.png)
+
+**Segundo Segmento Objetivo (Conductores y usuarios finales (clientes))**
+
+*Figura 5 (User Task Matrix 2)*
+![User Task Matrix 2](../assets/images/figures/05-u-task-matrix-2.png)
 
 ### 2.3.3. User Journey Mapping
 
+**Primer Segmento Objetivo (Administradores o personal operativo de estacionamiento)**
 
+*Figura 6 (User Journey Mapping 1)*
+![User Journey Mapping 1](../assets/images/figures/06-u-journey-mapping-1.png)
+
+**Segundo Segmento Objetivo (Conductores y usuarios finales (clientes))**
+
+*Figura 7 (User Journey Mapping 2)*
+![User Journey Mapping 2](../assets/images/figures/07-u-journey-mapping-2.png)
 
 ### 2.3.4. Empathy Mapping
+
+**Primer Segmento Objetivo (Administradores o personal operativo de estacionamiento)**
+
+*Figura 8 (Empathy Mapping 1)*
+![User Empathy Mapping 1](../assets/images/figures/08-empathy-mapping-1.png)
+
+**Segundo Segmento Objetivo (Conductores y usuarios finales (clientes))**
+
+*Figura 9 (Empathy Mapping 2)*
+![User Empathy Mapping 2](../assets/images/figures/09-empathy-mapping-2.png)
 
 
 
