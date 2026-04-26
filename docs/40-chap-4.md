@@ -410,7 +410,33 @@ Miro Board Link: https://miro.com/welcomeonboard/V2xyaEY4TCtuVTdxSEYvWlJwdFNGZkk
 
 ### 4.6.4. Software Architecture Components Diagrams
 
+*Figura 36 (C4 Context Diagram)*
+![C4 Context Diagram](../assets/images/figures/XX-context-diagram.png)
 
+### 4.6.3. Software Architecture Container Diagrams
+
+*Figura 37 (C4 Container Diagram)*
+![C4 Container Diagram](../assets/images/figures/XX-container-diagram.png)
+
+### 4.6.4. Software Architecture Components Diagrams
+
+*Figura 38 (C4 Component Diagram 1)*
+![C4 Component Diagram 1](../assets/images/figures/XX-component-diagram-001.png)
+
+*Figura 39 (C4 Component Diagram 2)*
+![C4 Component Diagram 1](../assets/images/figures/XX-component-diagram-002.png)
+
+*Figura 40 (C4 Component Diagram 3)*
+![C4 Component Diagram 1](../assets/images/figures/XX-component-diagram-003.png)
+
+*Figura 41 (C4 Component Diagram 4)*
+![C4 Component Diagram 1](../assets/images/figures/XX-component-diagram-004.png)
+
+*Figura 41 (C4 Component Diagram 5)*
+![C4 Component Diagram 1](../assets/images/figures/XX-component-diagram-005.png)
+
+*Figura 43 (C4 Component Diagram 6)*
+![C4 Component Diagram 1](../assets/images/figures/XX-component-diagram-006.png)
 
 ## 4.7. Software Object-Oriented Design
 
