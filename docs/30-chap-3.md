@@ -67,4 +67,43 @@ Para este mapa, hemos definido la siguiente estructura:
 
 ## 3.3. Product Backlog
 
+**Trello Link:** https://trello.com/invite/b/69e856b61220b5d84b4ffd87/ATTI66ce9755129e9e397e849ef831c6e4484184A503/spotgo-product-backlog
 
+| \# Orden | User Story Id | Título | Descripción | Story Points |
+| --- | --- | --- | --- | --- |
+| 1 | US28 | Landing Page Value Proposition | **As a** Visitor,<br>**I want** to see the main features of SpotGo on the landing page,<br>**so that** I understand how the smart parking system works. | 3 |
+| 2 | US29 | Call to Action Routing | **As a** Visitor,<br>**I want** to click on clear call-to-action buttons,<br>**so that** I can be redirected to download the app or access the Web App. | 2 |
+| 3 | US30 | View About-the-Product Video | **As a** Visitor,<br>**I want** to watch the promotional video on the landing page,<br>**so that** I can quickly grasp the business model and user experience. | 2 |
+| 4 | US36 | Vanilla JS Language Switcher | **As a** Visitor,<br>**I want** toggle the landing page language between Spanish and English using a simple JS script,<br>**so that** I can read it in my preferred language. | 3 |
+| 5 | US06 | Upload Parking Croquis | **As an** Administrator,<br>**I want** to upload a floor plan (croquis) of my parking lot,<br>**so that** the system can automatically generate a digital map. | 5 |
+| 6 | US07 | Automatic Digital Map Generation | **As an** Administrator,<br>**I want** the system to process my croquis,<br>**so that** it initializes Parking Spots and Zones automatically. | 8 |
+| 7 | US09 | Configure Parking Zones | **As an** Administrator,<br>**I want** to create and assign Parking Zones,<br>**so that** I can separate areas for Visitors, Taxis, and Staff. | 3 |
+| 8 | US10 | IoT Plate Recognition | **As an** IoT Camera Sensor,<br>**I want** to scan the license plate of an approaching vehicle,<br>**so that** the system can identify the user. | 5 |
+| 9 | US11 | Smart Routing Execution | **As a** Routing Engine,<br>**I want** to execute smart routing based on the scanned plate,<br>**so that** the user is directed to the correct zone. | 5 |
+| 10 | US13 | Virtual Ticket Generation | **As a** Client,<br>**I want** to receive a virtual ticket on my phone,<br>**so that** I know exactly which spot was assigned to me. | 3 |
+| 11 | US18 | Real-time Admin Dashboard | **As an** Administrator,<br>**I want** to view the live occupancy map,<br>**so that** I can monitor the parking lot's status at a glance. | 5 |
+| 12 | US14 | Spot Occupancy Detection | **As an** IoT Spot Sensor,<br>**I want** to report when a vehicle parks over me,<br>**so that** the system updates the spot status to Occupied. | 5 |
+| 13 | US19 | Client Occupancy View | **As a** Client,<br>**I want** to view available spots on the app map,<br>**so that** I can easily navigate to my designated area. | 3 |
+| 14 | US20 | B2C Digital Payment | **As a** Client,<br>**I want** to pay for my parking stay digitally,<br>**so that** I don't have to wait in line at a physical cashier. | 5 |
+| 15 | US12 | Entry Barrier Check-in | **As the** System,<br>**I want** to open the entry barrier,<br>**so that** the assigned user can enter the facility. | 3 |
+| 16 | US27 | Exit Barrier Authorization | **As the** System,<br>**I want** to open the exit barrier after payment,<br>**so that** the client can leave the facility. | 3 |
+| 17 | US01 | Client Registration | **As a** Client,<br>**I want** to register an account in the SpotGo app,<br>**so that** I can use the smart parking services. | 3 |
+| 18 | US02 | User Login | **As a** User (Client or Admin),<br>**I want** to log into my account,<br>**so that** I can access my personalized dashboard or profile. | 2 |
+| 19 | US03 | B2B Tenant Registration | **As a** SuperAdmin,<br>**I want** to register a new parking lot facility,<br>**so that** I can generate administrator credentials for our B2B clients. | 3 |
+| 20 | US04 | Vehicle Plate Registration | **As a** Client,<br>**I want** to register my vehicle's license plate,<br>**so that** the IoT cameras can recognize my car automatically. | 3 |
+| 21 | US08 | Manual Spot Adjustment | **As an** Administrator,<br>**I want** to manually edit the generated digital map,<br>**so that** I can fix any misread spots or adjust zones. | 3 |
+| 22 | US15 | Spot Availability Detection | **As an** IoT Spot Sensor,<br>**I want** to report when a vehicle leaves,<br>**so that** the system updates the spot status to Available. | 3 |
+| 23 | US16 | Unauthorized Parking Detection | **As the** System,<br>**I want** to detect if a vehicle parks in the wrong zone,<br>**so that** parking rules are enforced. | 5 |
+| 24 | US17 | Availability Alerts | **As an** Administrator,<br>**I want** to receive real-time alerts,<br>**so that** I can react immediately to parking infractions. | 3 |
+| 25 | US24 | Automated Electronic Billing | **As the** System,<br>**I want** to automatically generate an electronic receipt (Boleta/Factura),<br>**so that** the transaction complies with SUNAT tax regulations. | 5 |
+| 26 | US25 | View Digital Receipts | **As a** Client,<br>**I want** to view my payment history and download receipts,<br>**so that** I can track my parking expenses. | 2 |
+| 27 | US21 | B2C Monthly Subscription | **As a** Client,<br>**I want** to purchase a monthly parking pass,<br>**so that** I can enter and exit without paying per hour. | 3 |
+| 28 | US22 | B2B SaaS Subscription Payment | **As an** Administrator,<br>**I want** to pay for the SpotGo software subscription,<br>**so that** my IoT sensors and dashboard remain active. | 5 |
+| 29 | US26 | Admin B2B Billing Panel | **As an** Administrator,<br>**I want** to access a B2B billing panel,<br>**so that** I can view the invoices for my SpotGo SaaS subscription. | 3 |
+| 30 | US23 | Service Suspension Warning | **As the** System,<br>**I want** to warn the administrator if their B2B payment fails,<br>**so that** they have time to update their payment method. | 2 |
+| 31 | US05 | Staff Profile Assignment | **As an** Administrator,<br>**I want** to assign a "Staff" profile to specific vehicles,<br>**so that** employees can access restricted parking zones. | 2 |
+| 32 | US31 | Implement OCR Endpoint | **As a** Developer,<br>**I want** to implement a RESTful API endpoint for plate recognition,<br>**so that** the IoT cameras can send the scanned data to the routing engine. | 5 |
+| 33 | US32 | Implement Webhook for Payments | **As a** Developer,<br>**I want** to implement a Stripe webhook endpoint,<br>**so that** the system can listen to asynchronous payment confirmations. | 3 |
+| 34 | US33 | Configure ARIA Attributes | **As a** Developer,<br>**I want** to configure ARIA attributes in the Angular Web App,<br>**so that** the application complies with a11y accessibility standards. | 2 |
+| 35 | US34 | i18n Internationalization | **As a** Developer,<br>**I want** to configure i18n support for English and Spanish,<br>**so that** users can choose their preferred language. | 3 |
+| 36 | US35 | Document Endpoints via OpenAPI | **As a** Developer,<br>**I want** to generate OpenAPI documentation via Swagger,<br>**so that** front-end developers can easily integrate the RESTful API. | 2 |
