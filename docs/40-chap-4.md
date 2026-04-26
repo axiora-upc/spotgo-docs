@@ -145,11 +145,16 @@ Todas las decisiones de diseño están alineadas con los problemas identificados
 
 ### 4.3.1. Landing Page Wireframe
 
+*Figura XX (Landing Page Wireframe)*
+
+![Wireframe](/assets/images/figures/XX-wireframe-landing-page.png)
 
 
 ### 4.3.2. Landing Page Mock-up
 
+*Figura XX (Landing Page Mock-up)*
 
+![Wireframe](/assets/images/figures/XX-mockup-landing-page.png)
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -442,10 +447,28 @@ Miro Board Link: https://miro.com/welcomeonboard/V2xyaEY4TCtuVTdxSEYvWlJwdFNGZkk
 
 ### 4.7.1. Class Diagrams
 
+*Figura XX (Bounded Context 1)*
+![Class Diagram](../assets/images/figures/XX-bounded-class-1.png)
 
+*Figura XX (Bounded Context 2)*
+![Class Diagram](../assets/images/figures/XX-bounded-class-2.png)
+
+*Figura XX (Bounded Context 3)*
+![Class Diagram](../assets/images/figures/XX-bounded-class-3.png)
+
+*Figura XX (Bounded Context 4)*
+![Class Diagram](../assets/images/figures/XX-bounded-class-4.png)
+
+*Figura XX (Bounded Context 5)*
+![Class Diagram](../assets/images/figures/XX-bounded-class-5.png)
+
+*Figura XX (Bounded Context 6)*
+![Class Diagram](../assets/images/figures/XX-bounded-class-6.png)
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagrams
 
+*Figura XX (Database Diagram)*
+![Database Diagram](../assets/images/figures/XX-database-diagram-spotgo.png)
 
