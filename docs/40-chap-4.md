@@ -153,21 +153,221 @@ Todas las decisiones de diseño están alineadas con los problemas identificados
 
 ## 4.4. Web Applications UX/UI Design
 
+En esta sección se presenta la propuesta de diseño UX/UI de las aplicaciones web de SpotGo, describiendo la estructura visual, los elementos de interfaz y los patrones de interacción que guían la experiencia del usuario.
+
+El diseño está orientado a los dos segmentos del sistema: usuarios y administradores, priorizando una interacción clara, eficiente y alineada con sus necesidades. Asimismo, se asegura la coherencia con los Style Guidelines y la Information Architecture, garantizando una experiencia intuitiva y consistente en toda la plataforma.
+
 ### 4.4.1. Web Applications Wireframes
 
+**Pantallas de Usuario:**
 
+*Figura 13 (Wireframe Login)*
+
+![Wireframe](/assets/images/figures/13-wireframe-login.png)
+
+*Figura 14 (Dashboard)*
+
+![Wireframe](/assets/images/figures/14-wireframe-dashboard.png)
+
+*Figura 15 (My Reservations)*
+
+![Wireframe](/assets/images/figures/15-wireframe-reservation.png)
+
+*Figura 16 (Subscription)*
+
+![Wireframe](/assets/images/figures/16-wireframe-subcription.png)
+
+*Figura 17 (Receipts)*
+
+![Wireframe](/assets/images/figures/17-wireframe-receipts.png)
+
+*Figura 18 (Favorites)*
+
+![Wireframe](/assets/images/figures/18-wireframe-favorites.png)
+
+*Figura 19 (Parking History)*
+
+![Wireframe](/assets/images/figures/19-wireframe-history.png)
+
+**Pantallas de Administrador:**
+
+*Figura 20 (Analytics - Insights Hub)*
+
+![Wireframe](/assets/images/figures/20-wireframe-analytics.png)
+
+*Figura 21 (Overview - Real time map)*
+
+![Wireframe](/assets/images/figures/21-wireframe-overview-real-time-map.png)
+
+*Figura 22 (Overview - Main terminal hub)*
+
+![Wireframe](/assets/images/figures/22-wireframe-main-terminal-hub.png)
+
+*Figura 23 (Reports)*
+
+![Wireframe](/assets/images/figures/23-wireframe-report.png)
+
+*Figura 24 (Reports List)*
+
+![Wireframe](/assets/images/figures/24-wireframe-report-list.png)
+
+*Figura 25 (Employees)*
+
+![Wireframe](/assets/images/figures/25-wireframe-employees.png)
+
+*Figura 26 (Employees List)*
+
+![Wireframe](/assets/images/figures/26-wireframe-employees-list.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+**Wireflow Usuarios:**
 
+*Figura 27 (Registro)*
+
+![Wireflow](/assets/images/figures/27-user-goals-registro.png)
+
+*Figura 28 (Buscar estacionamiento)*
+
+![Wireflow](/assets/images/figures/28-user-goals-buscar-estacionamiento.png)
+
+*Figura 29 (Reservar espacio)*
+
+![Wireflow](/assets/images/figures/29-user-goals-reservar-espacio.png)
+
+*Figura 30 (Recibos digitales)*
+
+![Wireflow](/assets/images/figures/30-user-goals-recibos-digitales.png)
+
+*Figura 31 (Suscripciones)*
+
+![Wireflow](/assets/images/figures/31-user-goals-suscripciones.png)
+
+*Figura 32 (Extender tiempo)*
+
+![Wireflow](/assets/images/figures/32-user-goals-extender-tiempo.png)
+
+*Figura 33 (Historial y calificacion)*
+
+![Wireflow](/assets/images/figures/33-user-goals-historial-calificar.png)
+
+*Figura 34 (Historial y calificacion)*
+
+![Wireflow](/assets/images/figures/34-user-goals-eliminar-parking.png)
+
+**Wireflow Administradores:**
+
+*Figura 35 (Observar parametros del analisis)*
+
+![Wireflow](/assets/images/figures/35-user-goals-observar-parametros.png)
+
+*Figura 36 (Eliminar Parking)*
+
+![Wireflow](/assets/images/figures/36-user-goals-eliminar-parking.png)
+
+*Figura 37 (Vista de Reportes)*
+
+![Wireflow](/assets/images/figures/37-user-goals-vista-reportes.png)
+
+*Figura 38 (Vista de Empleados)*
+
+![Wireflow](/assets/images/figures/38-user-goals-vista-empleados.png)
 
 ### 4.4.3. Web Applications Mock-ups
 
+**Pantallas de Administrador:**
 
+*Figura 39 (SpotGo Analytics & Patterns)*
+
+![Mockups](/assets/images/figures/39-mockup-spotgo-analytics&Ppatterns.png)
+
+*Figura 40 (SpotGo Analytics - Patterns)*
+
+![Mockups](/assets/images/figures/40-mockup-spotgo-analytics-patterns.png)
+
+*Figura 41 (SpotGo Insight hub)*
+
+![Mockups](/assets/images/figures/41-mockup-spotGo-personnel-log.png)
+
+*Figura 42 (SpotGo Employees)*
+
+![Mockups](/assets/images/figures/42-mockup-spotgo-real-time.png)
+
+*Figura 43 (SpotGo List Reports)*
+
+![Mockups](/assets/images/figures/43-mockup-spotgo-list-reports.png)
+
+*Figura 44 (Main Terminal Hub)*
+
+![Mockups](/assets/images/figures/44-mockup-terminal-main-hub.png)
+
+*Figura 45 (Report)*
+
+![Mockups](/assets/images/figures/45-mockups-report.png)
+
+*Figura 46 (List Employees)*
+
+![Mockups](/assets/images/figures/46-mockup-list-employees.png)
+
+**Pantallas de Usuario:**
+
+*Figura 47 (Dashboard)*
+
+![Mockups](/assets/images/figures/47-mockup-dashboard.png)
+
+*Figura 48 (Favorites)*
+
+![Mockups](/assets/images/figures/48-mockup-favorites.png)
+
+*Figura 49 (Parking History)*
+
+![Mockups](/assets/images/figures/49-mockup-ParkingHistory.png)
+
+*Figura 50 (Receipts)*
+
+![Mockups](/assets/images/figures/50-mockup-Receipts.png)
+
+*Figura 51 (Reservation)*
+
+![Mockups](/assets/images/figures/51-mockup-Reservation.png)
+
+*Figura 52 (Subscription)*
+
+![Mockups](/assets/images/figures/52-mockup-Subcription.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
+*Figura 53 (Registro)*
 
+![UserFlow](/assets/images/figures/53-userflow-registro.png)
+
+*Figura 54 (Buscar estacionamiento)*
+
+![UserFlow](/assets/images/figures/54-userflow-buscar-estacionamiento.png)
+
+*Figura 55 (Reservar Espacio)*
+
+![UserFlow](/assets/images/figures/55-userflow-reservar-espacio.png)
+
+*Figura 56 (Recibos Digitales)*
+
+![UserFlow](/assets/images/figures/56-userflow-recibos-digitales.png)
+
+*Figura 57 (Suscripciones)*
+
+![UserFlow](/assets/images/figures/57-userflow-suscripciones.png)
+
+*Figura 58 (Extender tiempo)*
+
+![UserFlow](/assets/images/figures/58-userflow-extenter-tiempo.png)
+
+*Figura 59 (Eliminar Parking)*
+
+![UserFlow](/assets/images/figures/59-userflow-eliminar-parking.png)
+
+*Figura 60 (Consultar historial y calificar experiencia)*
+
+![UserFlow](/assets/images/figures/60-userflow-historial-experiencia.png)
 
 ## 4.5. Web Applications Prototyping
 
