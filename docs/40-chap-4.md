@@ -371,7 +371,10 @@ El diseño está orientado a los dos segmentos del sistema: usuarios y administr
 
 ## 4.5. Web Applications Prototyping
 
-
+- Landing Page Prototype Link: https://www.figma.com/proto/LMAhXrMKRKaUJjckWtSebJ/spotgo-design?node-id=238-6314&t=rTgWt8HVJ9AypDPo-0&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=238%3A6314&show-proto-sidebar=1
+- Client Prototype Link: https://www.figma.com/proto/LMAhXrMKRKaUJjckWtSebJ/spotgo-design?node-id=93-3977&t=rTgWt8HVJ9AypDPo-0&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=93%3A3977&show-proto-sidebar=1
+- Admin Prototype Link: https://www.figma.com/proto/LMAhXrMKRKaUJjckWtSebJ/spotgo-design?node-id=413-222&t=rTgWt8HVJ9AypDPo-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=413%3A222
+- Login Protype Link: https://www.figma.com/proto/LMAhXrMKRKaUJjckWtSebJ/spotgo-design?node-id=337-2099&t=rTgWt8HVJ9AypDPo-0&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=337%3A2099&show-proto-sidebar=1
 
 ## 4.6. Domain-Driven Software Architecture
 

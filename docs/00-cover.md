@@ -44,6 +44,7 @@
 | 0.1.5   | 21/4/26 | @R3memo    | docs: añadir todos los puntos de entrevistas |
 | 0.1.6   | 22/4/26 | @R3memo    | docs: añadir las imagenes del needfinding |
 | 0.1.8   | 25/4/26 | @johancg04 | docs: añadir todos los puntos de style guidelines |
+| 0.1.11 | 25/4/26 | @johancg04 | docs: añadir todos los puntos de web applications ux/ui design  |
 
 # Project Report Collaboration Insights
 
