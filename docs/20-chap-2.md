@@ -326,4 +326,15 @@ Se trata de conductores que utilizan estacionamientos en centros comerciales, un
 
 ## 2.5. Ubiquitous Language
 
-
+* **Parking Spot (Espacio de estacionamiento):** Espacio físico individual delimitado dentro de las instalaciones destinado para que un solo vehículo se estacione.
+* **Parking Zone (Zona de estacionamiento):** Área o sector específico dentro de la playa de estacionamiento que agrupa múltiples *Parking Spots* y que está designada exclusivamente para un *User Profile* en particular (ej. zona verde para visitantes, zona amarilla para taxistas).
+* **User Profile (Perfil de usuario):** Categoría asignada a un conductor que determina sus privilegios, tarifas y la *Parking Zone* a la cual debe dirigirse. Los perfiles principales incluyen *Visitor* (visitante), *Taxi Driver* (taxista) y *Staff* (personal).
+* **Occupancy Status (Estado de ocupación):** Condición actual en tiempo real de un *Parking Spot* o *Parking Zone*. Puede encontrarse en estado *Available* (disponible), *Occupied* (ocupado) o *Reserved* (reservado).
+* **Smart Routing (Enrutamiento inteligente):** Proceso mediante el cual el sistema asigna y guía automáticamente a un vehículo hacia su *Parking Zone* correspondiente basándose en su *User Profile* al momento del ingreso.
+* **Unauthorized Parking (Estacionamiento indebido):** Evento o infracción que ocurre cuando un vehículo ocupa un *Parking Spot* que pertenece a una *Parking Zone* no autorizada para su *User Profile*.
+* **Real-time Monitoring (Monitoreo en tiempo real):** Acción de supervisión continua por parte de los administradores para visualizar el flujo de vehículos y el *Occupancy Status* actualizado al instante gracias a los sensores en la infraestructura.
+* **Check-in / Check-out (Ingreso / Salida):** Eventos que marcan el momento exacto en el que un vehículo cruza la barrera de entrada al estacionamiento (iniciando su estadía) y el momento en el que se retira (finalizando su estadía y procesando el pago).
+* **Availability Alert (Alerta de disponibilidad):** Notificación automática enviada al dispositivo del usuario informando sobre los espacios libres en su zona, o al administrador alertando sobre un *Unauthorized Parking* o capacidad máxima alcanzada.
+* **Dashboard (Panel de control):** Interfaz visual y de gestión utilizada exclusivamente por el personal administrativo para supervisar las zonas, controlar el flujo vehicular y obtener analíticas de ocupación.
+* **IoT Sensor (Sensor IoT):** Dispositivo de hardware físico instalado en cada *Parking Spot* o barrera de acceso que detecta la presencia del vehículo y alimenta al sistema central con datos del entorno físico.
+* **Digital Payment (Pago digital):** Transacción económica realizada directamente desde la aplicación por el usuario (conductor) para cancelar el tiempo de uso de su *Parking Spot* sin necesidad de interactuar con cajeros físicos.
