@@ -54,7 +54,16 @@
 
 ## 3.2. Impact Mapping
 
+El Impact Mapping desarrollado para SpotGo tiene como propósito alinear las funcionalidades del sistema con nuestros objetivos estratégicos de negocio, asegurando que cada línea de código aporte valor real. 
 
+Para este mapa, hemos definido la siguiente estructura:
+* **Business Goal (¿Por qué?):** Reducir el tiempo promedio de búsqueda de estacionamiento en zonas de alta afluencia y optimizar la eficiencia operativa de los operadores de estacionamiento.
+* **Actors (¿Quiénes?):** Conductores (clientes finales B2C) y Administradores o personal operativo (clientes B2B).
+* **Impacts (¿Cómo?):** Buscamos que los conductores puedan ubicar y pagar su espacio sin fricciones, y que los administradores puedan monitorear la ocupación en tiempo real y reaccionar inmediatamente ante infracciones de uso de zonas.
+* **Deliverables (¿Qué?):** Las soluciones técnicas que construirán este impacto incluyen el mapa de disponibilidad en tiempo real, el motor de *Smart Routing* automatizado con cámaras IoT, alertas del sistema y pagos digitales integrados.
+
+*Figura 11 (Impact Map)*
+![Impact Map](../assets/images/figures/11-impact-mapping.png)
 
 ## 3.3. Product Backlog
 
