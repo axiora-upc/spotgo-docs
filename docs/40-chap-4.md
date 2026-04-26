@@ -397,7 +397,8 @@ Miro Board Link: https://miro.com/welcomeonboard/V2xyaEY4TCtuVTdxSEYvWlJwdFNGZkk
 
 ### 4.6.2. Software Architecture Context Diagram
 
-
+*Figura 36 (C4 Context Diagram)*
+![C4 Context Diagram](../assets/images/figures/XX-context-diagram.png)
 
 ### 4.6.3. Software Architecture Container Diagrams
 
