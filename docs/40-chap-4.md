@@ -402,7 +402,8 @@ Miro Board Link: https://miro.com/welcomeonboard/V2xyaEY4TCtuVTdxSEYvWlJwdFNGZkk
 
 ### 4.6.3. Software Architecture Container Diagrams
 
-
+*Figura 37 (C4 Container Diagram)*
+![C4 Container Diagram](../assets/images/figures/XX-container-diagram.png)
 
 ### 4.6.4. Software Architecture Components Diagrams
 
