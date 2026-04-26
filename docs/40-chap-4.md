@@ -377,7 +377,23 @@ El diseño está orientado a los dos segmentos del sistema: usuarios y administr
 
 ### 4.6.1. Design-Level EventStorming
 
+Se utilizó la guía de Philippe Bourgau, proporcionada en la rúbrica del Final Problem Statement, para llevar a cabo el proceso de Design-Level EventStorming, con el objetivo de identificar los Bounded Contexts, siguiendo sus etapas:
 
+- Unstructured Exploration
+- Timelines
+- Pain Points
+- Pivotal Points
+- Commands
+- Policies
+- Read Models
+- External Systems
+- Aggregates
+- Bounded Contexts
+
+Miro Board Link: https://miro.com/welcomeonboard/V2xyaEY4TCtuVTdxSEYvWlJwdFNGZkkvNmJnSDc2dUhrWkQ4MjlvOFB2dVQzd3hadHFBVXpROVE4UGFDbVI3NXY1NDFuam5BMVg3R1hKZEswQWV3TThMRDFjTjNjanVQdGhCZG1yWTdHMSsxVWVUeS9Qa2J4QXh6SkNoMFhYeGF0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=241498433824
+
+*Figura XX (Design Level EventStorming)*  
+<img src="../assets/images/figures/XX-designlevel-event-storming.png" alt="Design Level EventStorming" style="width: 100vw;">
 
 ### 4.6.2. Software Architecture Context Diagram
 
