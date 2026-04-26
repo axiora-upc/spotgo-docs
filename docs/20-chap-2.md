@@ -321,7 +321,8 @@ Se trata de conductores que utilizan estacionamientos en centros comerciales, un
 
 ## 2.4. Big Picture EventStorming
 
-
+*Figura 10 (Big Picture EventStorming)*
+![Big Picture EventStorming](../assets/images/figures/10-BigPicture-Event-Storming.png)
 
 ## 2.5. Ubiquitous Language
 
