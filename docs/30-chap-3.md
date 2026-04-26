@@ -63,7 +63,7 @@ Para este mapa, hemos definido la siguiente estructura:
 * **Deliverables (¿Qué?):** Las soluciones técnicas que construirán este impacto incluyen el mapa de disponibilidad en tiempo real, el motor de *Smart Routing* automatizado con cámaras IoT, alertas del sistema y pagos digitales integrados.
 
 *Figura 11 (Impact Map)*
-![Impact Map](../assets/images/figures/11-impact-mapping.png)
+![Impact Map](../assets/images/figures/11-impact-map.png)
 
 ## 3.3. Product Backlog
 

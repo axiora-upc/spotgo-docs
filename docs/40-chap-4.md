@@ -145,16 +145,16 @@ Todas las decisiones de diseño están alineadas con los problemas identificados
 
 ### 4.3.1. Landing Page Wireframe
 
-*Figura XX (Landing Page Wireframe)*
+*Figura 13 (Landing Page Wireframe)*
 
-![Wireframe](/assets/images/figures/XX-wireframe-landing-page.png)
+![Wireframe](/assets/images/figures/13-wireframe-landing-page.png)
 
 
 ### 4.3.2. Landing Page Mock-up
 
-*Figura XX (Landing Page Mock-up)*
+*Figura 14 (Landing Page Mock-up)*
 
-![Wireframe](/assets/images/figures/XX-mockup-landing-page.png)
+![Wireframe](/assets/images/figures/14-mockup-landing-page.png)
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -166,220 +166,220 @@ El diseño está orientado a los dos segmentos del sistema: usuarios y administr
 
 **Pantallas de Usuario:**
 
-*Figura 13 (Wireframe Login)*
+*Figura 15 (Wireframe Login)*
 
-![Wireframe](/assets/images/figures/13-wireframe-login.png)
+![Wireframe](/assets/images/figures/15-wireframe-login.png)
 
-*Figura 14 (Dashboard)*
+*Figura 16 (Dashboard)*
 
-![Wireframe](/assets/images/figures/14-wireframe-dashboard.png)
+![Wireframe](/assets/images/figures/16-wireframe-dashboard.png)
 
-*Figura 15 (My Reservations)*
+*Figura 17 (My Reservations)*
 
-![Wireframe](/assets/images/figures/15-wireframe-reservation.png)
+![Wireframe](/assets/images/figures/17-wireframe-reservation.png)
 
-*Figura 16 (Subscription)*
+*Figura 18 (Subscription)*
 
-![Wireframe](/assets/images/figures/16-wireframe-subcription.png)
+![Wireframe](/assets/images/figures/18-wireframe-subcription.png)
 
-*Figura 17 (Receipts)*
+*Figura 19 (Receipts)*
 
-![Wireframe](/assets/images/figures/17-wireframe-receipts.png)
+![Wireframe](/assets/images/figures/19-wireframe-receipts.png)
 
-*Figura 18 (Favorites)*
+*Figura 20 (Favorites)*
 
-![Wireframe](/assets/images/figures/18-wireframe-favorites.png)
+![Wireframe](/assets/images/figures/20-wireframe-favorites.png)
 
-*Figura 19 (Parking History)*
+*Figura 21 (Parking History)*
 
-![Wireframe](/assets/images/figures/19-wireframe-history.png)
+![Wireframe](/assets/images/figures/21-wireframe-history.png)
 
 **Pantallas de Administrador:**
 
-*Figura 20 (Analytics - Insights Hub)*
+*Figura 22 (Analytics - Insights Hub)*
 
-![Wireframe](/assets/images/figures/20-wireframe-analytics.png)
+![Wireframe](/assets/images/figures/22-wireframe-analytics.png)
 
-*Figura 21 (Overview - Real time map)*
+*Figura 23 (Overview - Real time map)*
 
-![Wireframe](/assets/images/figures/21-wireframe-overview-real-time-map.png)
+![Wireframe](/assets/images/figures/23-wireframe-overview-real-time-map.png)
 
-*Figura 22 (Overview - Main terminal hub)*
+*Figura 24 (Overview - Main terminal hub)*
 
-![Wireframe](/assets/images/figures/22-wireframe-main-terminal-hub.png)
+![Wireframe](/assets/images/figures/24-wireframe-main-terminal-hub.png)
 
-*Figura 23 (Reports)*
+*Figura 25 (Reports)*
 
-![Wireframe](/assets/images/figures/23-wireframe-report.png)
+![Wireframe](/assets/images/figures/25-wireframe-report.png)
 
-*Figura 24 (Reports List)*
+*Figura 26 (Reports List)*
 
-![Wireframe](/assets/images/figures/24-wireframe-report-list.png)
+![Wireframe](/assets/images/figures/26-wireframe-report-list.png)
 
-*Figura 25 (Employees)*
+*Figura 27 (Employees)*
 
-![Wireframe](/assets/images/figures/25-wireframe-employees.png)
+![Wireframe](/assets/images/figures/27-wireframe-employees.png)
 
-*Figura 26 (Employees List)*
+*Figura 28 (Employees List)*
 
-![Wireframe](/assets/images/figures/26-wireframe-employees-list.png)
+![Wireframe](/assets/images/figures/28-wireframe-employees-list.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 **Wireflow Usuarios:**
 
-*Figura 27 (Registro)*
+*Figura 29 (Registro)*
 
-![Wireflow](/assets/images/figures/27-user-goals-registro.png)
+![Wireflow](/assets/images/figures/29-user-goals-registro.png)
 
-*Figura 28 (Buscar estacionamiento)*
+*Figura 30 (Buscar estacionamiento)*
 
-![Wireflow](/assets/images/figures/28-user-goals-buscar-estacionamiento.png)
+![Wireflow](/assets/images/figures/30-user-goals-buscar-estacionamiento.png)
 
-*Figura 29 (Reservar espacio)*
+*Figura 31 (Reservar espacio)*
 
-![Wireflow](/assets/images/figures/29-user-goals-reservar-espacio.png)
+![Wireflow](/assets/images/figures/31-user-goals-reservar-espacio.png)
 
-*Figura 30 (Recibos digitales)*
+*Figura 32 (Recibos digitales)*
 
-![Wireflow](/assets/images/figures/30-user-goals-recibos-digitales.png)
+![Wireflow](/assets/images/figures/32-user-goals-recibos-digitales.png)
 
-*Figura 31 (Suscripciones)*
+*Figura 33 (Suscripciones)*
 
-![Wireflow](/assets/images/figures/31-user-goals-suscripciones.png)
+![Wireflow](/assets/images/figures/33-user-goals-suscripciones.png)
 
-*Figura 32 (Extender tiempo)*
+*Figura 34 (Extender tiempo)*
 
-![Wireflow](/assets/images/figures/32-user-goals-extender-tiempo.png)
+![Wireflow](/assets/images/figures/34-user-goals-extender-tiempo.png)
 
-*Figura 33 (Historial y calificacion)*
+*Figura 35 (Historial y calificacion)*
 
-![Wireflow](/assets/images/figures/33-user-goals-historial-calificar.png)
+![Wireflow](/assets/images/figures/35-user-goals-historial-calificar.png)
 
-*Figura 34 (Historial y calificacion)*
-
-![Wireflow](/assets/images/figures/34-user-goals-eliminar-parking.png)
-
-**Wireflow Administradores:**
-
-*Figura 35 (Observar parametros del analisis)*
-
-![Wireflow](/assets/images/figures/35-user-goals-observar-parametros.png)
-
-*Figura 36 (Eliminar Parking)*
+*Figura 36 (Historial y calificacion)*
 
 ![Wireflow](/assets/images/figures/36-user-goals-eliminar-parking.png)
 
-*Figura 37 (Vista de Reportes)*
+**Wireflow Administradores:**
 
-![Wireflow](/assets/images/figures/37-user-goals-vista-reportes.png)
+*Figura 37 (Observar parametros del analisis)*
 
-*Figura 38 (Vista de Empleados)*
+![Wireflow](/assets/images/figures/37-user-goals-observar-parametros.png)
 
-![Wireflow](/assets/images/figures/38-user-goals-vista-empleados.png)
+*Figura 38 (Eliminar Parking)*
+
+![Wireflow](/assets/images/figures/38-user-goals-eliminar-parking.png)
+
+*Figura 39 (Vista de Reportes)*
+
+![Wireflow](/assets/images/figures/39-user-goals-vista-reportes.png)
+
+*Figura 40 (Vista de Empleados)*
+
+![Wireflow](/assets/images/figures/40-user-goals-vista-empleados.png)
 
 ### 4.4.3. Web Applications Mock-ups
 
 **Pantallas de Administrador:**
 
-*Figura 39 (SpotGo Analytics & Patterns)*
+*Figura 41 (SpotGo Analytics & Patterns)*
 
-![Mockups](/assets/images/figures/39-mockup-spotgo-analytics&Ppatterns.png)
+![Mockups](/assets/images/figures/41-mockup-spotgo-analytics&Ppatterns.png)
 
-*Figura 40 (SpotGo Analytics - Patterns)*
+*Figura 42 (SpotGo Analytics - Patterns)*
 
-![Mockups](/assets/images/figures/40-mockup-spotgo-analytics-patterns.png)
+![Mockups](/assets/images/figures/42-mockup-spotgo-analytics-patterns.png)
 
-*Figura 41 (SpotGo Insight hub)*
+*Figura 43 (SpotGo Insight hub)*
 
-![Mockups](/assets/images/figures/41-mockup-spotGo-personnel-log.png)
+![Mockups](/assets/images/figures/43-mockup-spotGo-personnel-log.png)
 
-*Figura 42 (SpotGo Employees)*
+*Figura 44 (SpotGo Employees)*
 
-![Mockups](/assets/images/figures/42-mockup-spotgo-real-time.png)
+![Mockups](/assets/images/figures/44-mockup-spotgo-real-time.png)
 
-*Figura 43 (SpotGo List Reports)*
+*Figura 45 (SpotGo List Reports)*
 
-![Mockups](/assets/images/figures/43-mockup-spotgo-list-reports.png)
+![Mockups](/assets/images/figures/45-mockup-spotgo-list-reports.png)
 
-*Figura 44 (Main Terminal Hub)*
+*Figura 46 (Main Terminal Hub)*
 
-![Mockups](/assets/images/figures/44-mockup-terminal-main-hub.png)
+![Mockups](/assets/images/figures/46-mockup-terminal-main-hub.png)
 
-*Figura 45 (Report)*
+*Figura 47 (Report)*
 
-![Mockups](/assets/images/figures/45-mockups-report.png)
+![Mockups](/assets/images/figures/47-mockups-report.png)
 
-*Figura 46 (List Employees)*
+*Figura 48 (List Employees)*
 
-![Mockups](/assets/images/figures/46-mockup-list-employees.png)
+![Mockups](/assets/images/figures/48-mockup-list-employees.png)
 
 **Pantallas de Usuario:**
 
-*Figura 47 (Dashboard)*
+*Figura 49 (Dashboard)*
 
-![Mockups](/assets/images/figures/47-mockup-dashboard.png)
+![Mockups](/assets/images/figures/49-mockup-dashboard.png)
 
-*Figura 48 (Favorites)*
+*Figura 50 (Favorites)*
 
-![Mockups](/assets/images/figures/48-mockup-favorites.png)
+![Mockups](/assets/images/figures/50-mockup-favorites.png)
 
-*Figura 49 (Parking History)*
+*Figura 51 (Parking History)*
 
-![Mockups](/assets/images/figures/49-mockup-ParkingHistory.png)
+![Mockups](/assets/images/figures/51-mockup-ParkingHistory.png)
 
-*Figura 50 (Receipts)*
+*Figura 52 (Receipts)*
 
-![Mockups](/assets/images/figures/50-mockup-Receipts.png)
+![Mockups](/assets/images/figures/52-mockup-Receipts.png)
 
-*Figura 51 (Reservation)*
+*Figura 53 (Reservation)*
 
-![Mockups](/assets/images/figures/51-mockup-Reservation.png)
+![Mockups](/assets/images/figures/53-mockup-Reservation.png)
 
-*Figura 52 (Subscription)*
+*Figura 54 (Subscription)*
 
-![Mockups](/assets/images/figures/52-mockup-Subcription.png)
+![Mockups](/assets/images/figures/54-mockup-Subcription.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-*Figura 53 (Registro)*
+*Figura 55 (Registro)*
 
-![UserFlow](/assets/images/figures/53-userflow-registro.png)
+![UserFlow](/assets/images/figures/55-userflow-registro.png)
 
-*Figura 54 (Buscar estacionamiento)*
+*Figura 56 (Buscar estacionamiento)*
 
-![UserFlow](/assets/images/figures/54-userflow-buscar-estacionamiento.png)
+![UserFlow](/assets/images/figures/56-userflow-buscar-estacionamiento.png)
 
-*Figura 55 (Reservar Espacio)*
+*Figura 57 (Reservar Espacio)*
 
-![UserFlow](/assets/images/figures/55-userflow-reservar-espacio.png)
+![UserFlow](/assets/images/figures/57-userflow-reservar-espacio.png)
 
-*Figura 56 (Recibos Digitales)*
+*Figura 58 (Recibos Digitales)*
 
-![UserFlow](/assets/images/figures/56-userflow-recibos-digitales.png)
+![UserFlow](/assets/images/figures/58-userflow-recibos-digitales.png)
 
-*Figura 57 (Suscripciones)*
+*Figura 59 (Suscripciones)*
 
-![UserFlow](/assets/images/figures/57-userflow-suscripciones.png)
+![UserFlow](/assets/images/figures/59-userflow-suscripciones.png)
 
-*Figura 58 (Extender tiempo)*
+*Figura 60 (Extender tiempo)*
 
-![UserFlow](/assets/images/figures/58-userflow-extenter-tiempo.png)
+![UserFlow](/assets/images/figures/60-userflow-extenter-tiempo.png)
 
-*Figura 59 (Eliminar Parking)*
+*Figura 61 (Eliminar Parking)*
 
-![UserFlow](/assets/images/figures/59-userflow-eliminar-parking.png)
+![UserFlow](/assets/images/figures/61-userflow-eliminar-parking.png)
 
-*Figura 60 (Consultar historial y calificar experiencia)*
+*Figura 62 (Consultar historial y calificar experiencia)*
 
-![UserFlow](/assets/images/figures/60-userflow-historial-experiencia.png)
+![UserFlow](/assets/images/figures/62-userflow-historial-experiencia.png)
 
 ## 4.5. Web Applications Prototyping
 
 - Landing Page Prototype Link: https://www.figma.com/proto/LMAhXrMKRKaUJjckWtSebJ/spotgo-design?node-id=238-6314&t=rTgWt8HVJ9AypDPo-0&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=238%3A6314&show-proto-sidebar=1
 - Client Prototype Link: https://www.figma.com/proto/LMAhXrMKRKaUJjckWtSebJ/spotgo-design?node-id=93-3977&t=rTgWt8HVJ9AypDPo-0&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=93%3A3977&show-proto-sidebar=1
 - Admin Prototype Link: https://www.figma.com/proto/LMAhXrMKRKaUJjckWtSebJ/spotgo-design?node-id=413-222&t=rTgWt8HVJ9AypDPo-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=413%3A222
-- Login Protype Link: https://www.figma.com/proto/LMAhXrMKRKaUJjckWtSebJ/spotgo-design?node-id=337-2099&t=rTgWt8HVJ9AypDPo-0&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=337%3A2099&show-proto-sidebar=1
+- Login Prototype Link: https://www.figma.com/proto/LMAhXrMKRKaUJjckWtSebJ/spotgo-design?node-id=337-2099&t=rTgWt8HVJ9AypDPo-0&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=337%3A2099&show-proto-sidebar=1
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -400,75 +400,64 @@ Se utilizó la guía de Philippe Bourgau, proporcionada en la rúbrica del Final
 
 Miro Board Link: https://miro.com/welcomeonboard/V2xyaEY4TCtuVTdxSEYvWlJwdFNGZkkvNmJnSDc2dUhrWkQ4MjlvOFB2dVQzd3hadHFBVXpROVE4UGFDbVI3NXY1NDFuam5BMVg3R1hKZEswQWV3TThMRDFjTjNjanVQdGhCZG1yWTdHMSsxVWVUeS9Qa2J4QXh6SkNoMFhYeGF0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=241498433824
 
-*Figura XX (Design Level EventStorming)*  
-<img src="../assets/images/figures/XX-designlevel-event-storming.png" alt="Design Level EventStorming" style="width: 100vw;">
+*Figura 63 (Design Level EventStorming)*  
+<img src="../assets/images/figures/63-designlevel-event-storming.png" alt="Design Level EventStorming" style="width: 100vw;">
 
 ### 4.6.2. Software Architecture Context Diagram
 
-*Figura 36 (C4 Context Diagram)*
-![C4 Context Diagram](../assets/images/figures/XX-context-diagram.png)
+*Figura 64 (C4 Context Diagram)*
+![C4 Context Diagram](../assets/images/figures/64-context-diagram.png)
 
 ### 4.6.3. Software Architecture Container Diagrams
 
-*Figura 37 (C4 Container Diagram)*
-![C4 Container Diagram](../assets/images/figures/XX-container-diagram.png)
+*Figura 65 (C4 Container Diagram)*
+![C4 Container Diagram](../assets/images/figures/65-container-diagram.png)
 
 ### 4.6.4. Software Architecture Components Diagrams
 
-*Figura 36 (C4 Context Diagram)*
-![C4 Context Diagram](../assets/images/figures/XX-context-diagram.png)
+*Figura 66 (C4 Component Diagram 1)*
+![C4 Component Diagram 1](../assets/images/figures/66-component-diagram-001.png)
 
-### 4.6.3. Software Architecture Container Diagrams
+*Figura 67 (C4 Component Diagram 2)*
+![C4 Component Diagram 1](../assets/images/figures/67-component-diagram-002.png)
 
-*Figura 37 (C4 Container Diagram)*
-![C4 Container Diagram](../assets/images/figures/XX-container-diagram.png)
+*Figura 68 (C4 Component Diagram 3)*
+![C4 Component Diagram 1](../assets/images/figures/68-component-diagram-003.png)
 
-### 4.6.4. Software Architecture Components Diagrams
+*Figura 69 (C4 Component Diagram 4)*
+![C4 Component Diagram 1](../assets/images/figures/69-component-diagram-004.png)
 
-*Figura 38 (C4 Component Diagram 1)*
-![C4 Component Diagram 1](../assets/images/figures/XX-component-diagram-001.png)
+*Figura 70 (C4 Component Diagram 5)*
+![C4 Component Diagram 1](../assets/images/figures/70-component-diagram-005.png)
 
-*Figura 39 (C4 Component Diagram 2)*
-![C4 Component Diagram 1](../assets/images/figures/XX-component-diagram-002.png)
-
-*Figura 40 (C4 Component Diagram 3)*
-![C4 Component Diagram 1](../assets/images/figures/XX-component-diagram-003.png)
-
-*Figura 41 (C4 Component Diagram 4)*
-![C4 Component Diagram 1](../assets/images/figures/XX-component-diagram-004.png)
-
-*Figura 41 (C4 Component Diagram 5)*
-![C4 Component Diagram 1](../assets/images/figures/XX-component-diagram-005.png)
-
-*Figura 43 (C4 Component Diagram 6)*
-![C4 Component Diagram 1](../assets/images/figures/XX-component-diagram-006.png)
+*Figura 71 (C4 Component Diagram 6)*
+![C4 Component Diagram 1](../assets/images/figures/71-component-diagram-006.png)
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
 
-*Figura XX (Bounded Context 1)*
-![Class Diagram](../assets/images/figures/XX-bounded-class-1.png)
+*Figura 72 (Bounded Context 1)*
+![Class Diagram](../assets/images/figures/72-bounded-class-1.png)
 
-*Figura XX (Bounded Context 2)*
-![Class Diagram](../assets/images/figures/XX-bounded-class-2.png)
+*Figura 73 (Bounded Context 2)*
+![Class Diagram](../assets/images/figures/73-bounded-class-2.png)
 
-*Figura XX (Bounded Context 3)*
-![Class Diagram](../assets/images/figures/XX-bounded-class-3.png)
+*Figura 74 (Bounded Context 3)*
+![Class Diagram](../assets/images/figures/74-bounded-class-3.png)
 
-*Figura XX (Bounded Context 4)*
-![Class Diagram](../assets/images/figures/XX-bounded-class-4.png)
+*Figura 75 (Bounded Context 4)*
+![Class Diagram](../assets/images/figures/75-bounded-class-4.png)
 
-*Figura XX (Bounded Context 5)*
-![Class Diagram](../assets/images/figures/XX-bounded-class-5.png)
+*Figura 76 (Bounded Context 5)*
+![Class Diagram](../assets/images/figures/76-bounded-class-5.png)
 
-*Figura XX (Bounded Context 6)*
-![Class Diagram](../assets/images/figures/XX-bounded-class-6.png)
+*Figura 77 (Bounded Context 6)*
+![Class Diagram](../assets/images/figures/77-bounded-class-6.png)
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagrams
 
-*Figura XX (Database Diagram)*
-![Database Diagram](../assets/images/figures/XX-database-diagram-spotgo.png)
-
+*Figura 78 (Database Diagram)*
+![Database Diagram](../assets/images/figures/78-database-diagram-spotgo.png)

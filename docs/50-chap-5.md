@@ -54,7 +54,7 @@ Para mantener la legibilidad y calidad del código en todo el equipo, se adoptan
 
 * Se aplicará la [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html).
 * **Arquitectura:** División estricta en capas (Controllers, Services, Repositories, Entities).
-* **APIs RESTful:** Los endpoints deben usar sustantivos en plural y seguir los verbos HTTP estándar (GET para obtener, POST para crear, PUT/PATCH para actualizar, DELETE para eliminar). Ejemplo: `GET /api/v1/parking-spots`.
+* **APIs RESTful:** Los endpoints deben usar sustantivos en plural y seguir los verbos HTTP estándar (GET para obtener, POST para crear, PUT/PATCH para actualizar, DELETE para eliminar). Ej. `GET /api/v1/parking-spots`.
 
 ### 5.1.4. Software Deployment Configuration
 

@@ -156,8 +156,7 @@ Link: https://www.capcut.com/sv2/ZS9LoHLMkdL5V-kGTXS/
 | Nombre completo: | Reinaldo Torres |
 | Edad: | 42 |
 | Distrito: | Breña |
-| Resumen: | Nos comenta que la gestión de su estacionamiento combina métodos manuales y digitales, registrando a los clientes sin asignación fija de espacios, ya que ocupan cualquier lugar disponible.
-El monitoreo se realiza mediante un aplicativo que permite control remoto, pero en horas de alta demanda surgen problemas de congestión y necesidad de movilizar vehículo. Él nos destaca que un sistema en tiempo real mejoraría  significativamente la gestión, permitiendo mayor control y reducción de pérdidas económicas. También resalta la importancia de alertas, especialmente para pagos, y considera que la implementación de una solución inteligente sería beneficiosa, aunque requeriría capacitación del personal. |
+| Resumen: | Nos comenta que la gestión de su estacionamiento combina métodos manuales y digitales, registrando a los clientes sin asignación fija de espacios, ya que ocupan cualquier lugar disponible. El monitoreo se realiza mediante un aplicativo que permite control remoto, pero en horas de alta demanda surgen problemas de congestión y necesidad de movilizar vehículo. Él nos destaca que un sistema en tiempo real mejoraría  significativamente la gestión, permitiendo mayor control y reducción de pérdidas económicas. También resalta la importancia de alertas, especialmente para pagos, y considera que la implementación de una solución inteligente sería beneficiosa, aunque requeriría capacitación del personal. |
 
 **Entrevista 3**
 
@@ -297,29 +296,35 @@ Se trata de conductores que utilizan estacionamientos en centros comerciales, un
 
 **Primer Segmento Objetivo (Administradores o personal operativo de estacionamiento)**
 
-*Figura 6 (User Journey Mapping 1)*
-![User Journey Mapping 1](../assets/images/figures/06-u-journey-mapping-1.png)
+*Figura 6 (User Journey Map 1)*
+![User Journey Map 1](../assets/images/figures/06-u-journey-map-1.png)
 
 **Segundo Segmento Objetivo (Conductores y usuarios finales (clientes))**
 
-*Figura 7 (User Journey Mapping 2)*
-![User Journey Mapping 2](../assets/images/figures/07-u-journey-mapping-2.png)
+*Figura 7 (User Journey Map 2)*
+![User Journey Map 2](../assets/images/figures/07-u-journey-map-2.png)
 
 ### 2.3.4. Empathy Mapping
 
 **Primer Segmento Objetivo (Administradores o personal operativo de estacionamiento)**
 
-*Figura 8 (Empathy Mapping 1)*
-![User Empathy Mapping 1](../assets/images/figures/08-empathy-mapping-1.png)
+*Figura 8 (Empathy Map 1)*
+![User Empathy Map 1](../assets/images/figures/08-empathy-map-1.png)
 
 **Segundo Segmento Objetivo (Conductores y usuarios finales (clientes))**
 
-*Figura 9 (Empathy Mapping 2)*
-![User Empathy Mapping 2](../assets/images/figures/09-empathy-mapping-2.png)
-
-
+*Figura 9 (Empathy Map 2)*
+![User Empathy Map 2](../assets/images/figures/09-empathy-map-2.png)
 
 ## 2.4. Big Picture EventStorming
+
+Se utilizó la guía Step-by-Step Guide de Philippe Bourgau, proporcionada en la rúbrica del Final Problem Statement, para llevar a cabo el proceso de Big Picture Event Storming, siguiendo sus etapas:
+
+- Open
+- Explore
+- Close
+
+Miro Board Link: https://miro.com/welcomeonboard/V2xyaEY4TCtuVTdxSEYvWlJwdFNGZkkvNmJnSDc2dUhrWkQ4MjlvOFB2dVQzd3hadHFBVXpROVE4UGFDbVI3NXY1NDFuam5BMVg3R1hKZEswQWV3TThMRDFjTjNjanVQdGhCZG1yWTdHMSsxVWVUeS9Qa2J4QXh6SkNoMFhYeGF0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=241498433824
 
 *Figura 10 (Big Picture EventStorming)*
 ![Big Picture EventStorming](../assets/images/figures/10-BigPicture-Event-Storming.png)

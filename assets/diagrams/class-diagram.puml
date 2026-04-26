@@ -1,0 +1,292 @@
+@startuml SpotGo_DDD_Class_Diagram
+
+' --- Configuración visual y estereotipos ---
+skinparam classAttributeIconSize 0
+skinparam monochrome false
+skinparam packageStyle rectangle
+skinparam shadowing false
+skinparam roundcorner 10
+
+skinparam class {
+    BackgroundColor<<AggregateRoot>> #D1E8FF
+    BackgroundColor<<Entity>> #FFFFFF
+    BackgroundColor<<ValueObject>> #FFF9C4
+    BackgroundColor<<Enum>> #F8BBD0
+    BackgroundColor<<DomainService>> #E1BEE7
+    BackgroundColor<<Repository>> #C8E6C9
+}
+
+title Diagrama de Clases de Diseño (DDD) - SpotGo
+
+' ==========================================
+' Bounded Context: IAM
+' ==========================================
+package "IAM Domain" #F9F9F9 {
+    enum UserRole <<Enum>> {
+        SUPER_ADMIN
+        ADMIN
+        CLIENT
+    }
+
+    class Tenant <<AggregateRoot>> {
+        - UUID id
+        - String name
+        - String ruc
+        - String contactEmail
+        - Boolean isActive
+        - JSONB settings
+        + activate()
+        + suspend()
+    }
+
+    class User <<AggregateRoot>> {
+        - UUID id
+        - String email
+        - String passwordHash
+        - UUID tenantId
+        - JSONB preferences
+        + assignRole(role: UserRole)
+        + updatePreferences(prefs: JSONB)
+    }
+
+    class AuthService <<DomainService>> {
+        + authenticate(email, password): String
+    }
+
+    interface UserRepository <<Repository>> {
+        + findById(id: UUID): User
+        + findByEmail(email: String): User
+    }
+    
+    User "1" *-- "1..*" UserRole : tiene >
+}
+
+' ==========================================
+' Bounded Context: Profiles & Vehicles
+' ==========================================
+package "Profiles Domain" #E3F2FD {
+    enum ProfileType <<Enum>> {
+        VISITOR
+        TAXI_DRIVER
+        STAFF
+    }
+
+    class UserProfile <<AggregateRoot>> {
+        - UUID id
+        - UUID userId
+        - String firstName
+        - String lastName
+        - ProfileType type
+        - String phoneNumber
+        + registerVehicle(vehicle: Vehicle)
+    }
+
+    class Vehicle <<Entity>> {
+        - UUID id
+        - LicensePlate plate
+        - String brand
+        - String color
+        - Boolean isPrimary
+    }
+
+    class LicensePlate <<ValueObject>> {
+        - String number
+        + isValid(): Boolean
+    }
+
+    interface ProfileRepository <<Repository>> {
+        + findByUserId(userId: UUID): UserProfile
+        + save(profile: UserProfile)
+    }
+
+    UserProfile "1" *-- "1" ProfileType : clasificado_como >
+    UserProfile "1" *-- "0..*" Vehicle : posee >
+    Vehicle "1" *-- "1" LicensePlate : identificado_por >
+}
+
+' ==========================================
+' Bounded Context: Parking Infrastructure
+' ==========================================
+package "Infrastructure Domain" #F1F8E9 {
+    class Facility <<AggregateRoot>> {
+        - UUID id
+        - UUID tenantId
+        - String name
+        - Coordinates location
+        + addZone(zone: ParkingZone)
+        + calculateTotalCapacity(): Integer
+    }
+
+    class Coordinates <<ValueObject>> {
+        - Decimal latitude
+        - Decimal longitude
+    }
+
+    class DigitalMap <<Entity>> {
+        - UUID id
+        - String mapUrl
+        - JSONB renderMetadata
+    }
+
+    class ParkingZone <<Entity>> {
+        - UUID id
+        - String name
+        - ProfileType allowedProfile
+        - String colorCode
+        + addSpot(spot: ParkingSpot)
+    }
+
+    class ParkingSpot <<Entity>> {
+        - UUID id
+        - String spotCode
+        - Boolean isActive
+    }
+
+    interface FacilityRepository <<Repository>> {
+        + findByTenantId(tenantId: UUID): List<Facility>
+    }
+
+    Facility "1" *-- "1" Coordinates : ubicado_en >
+    Facility "1" *-- "1" DigitalMap : renderizado_por >
+    Facility "1" *-- "1..*" ParkingZone : contiene >
+    ParkingZone "1" *-- "1..*" ParkingSpot : dividido_en >
+}
+
+' ==========================================
+' Bounded Context: IoT & Smart Routing
+' ==========================================
+package "IoT & Routing Domain" #FFF3E0 {
+    enum SessionStatus <<Enum>> {
+        ACTIVE
+        COMPLETED
+    }
+
+    class IoTDevice <<AggregateRoot>> {
+        - UUID id
+        - UUID facilityId
+        - String deviceType
+        - String ipAddress
+        + triggerBarrier()
+    }
+
+    class AccessLog <<ValueObject>> {
+        - UUID deviceId
+        - String plateRead
+        - String accessType
+        - Timestamp timestamp
+        - Decimal confidenceScore
+    }
+
+    class RoutingSession <<AggregateRoot>> {
+        - UUID id
+        - UUID vehicleId
+        - UUID assignedZoneId
+        - Timestamp checkInTime
+        - SessionStatus status
+        + completeSession()
+    }
+
+    class SmartRoutingService <<DomainService>> {
+        + evaluateAccess(plate: String, facilityId: UUID): RoutingSession
+    }
+
+    interface RoutingRepository <<Repository>> {
+        + findActiveSessionByVehicle(vehicleId: UUID): RoutingSession
+    }
+
+    IoTDevice "1" *-- "0..*" AccessLog : genera_evento >
+    RoutingSession "1" *-- "1" SessionStatus : estado >
+}
+
+' ==========================================
+' Bounded Context: Occupancy & Analytics
+' ==========================================
+package "Analytics Domain" #FCE4EC {
+    enum OccupancyStatus <<Enum>> {
+        AVAILABLE
+        OCCUPIED
+        RESERVED
+    }
+
+    class SpotSensor <<AggregateRoot>> {
+        - UUID id
+        - UUID spotId
+        - String macAddress
+        - Integer batteryLevel
+        + ping()
+    }
+
+    class OccupancyEvent <<ValueObject>> {
+        - OccupancyStatus status
+        - Timestamp changedAt
+    }
+
+    class Alert <<AggregateRoot>> {
+        - UUID id
+        - UUID routingSessionId
+        - UUID spotId
+        - String alertType
+        - Boolean isResolved
+        + resolve()
+    }
+
+    SpotSensor "1" *-- "0..*" OccupancyEvent : emite >
+    OccupancyEvent "1" *-- "1" OccupancyStatus : indica >
+}
+
+' ==========================================
+' Bounded Context: Payment Management
+' ==========================================
+package "Payment Domain" #E8EAF6 {
+    class Money <<ValueObject>> {
+        - Decimal amount
+        - String currency
+    }
+
+    class B2BSubscription <<AggregateRoot>> {
+        - UUID id
+        - UUID tenantId
+        - String stripeSubId
+        - String status
+        + renew()
+    }
+
+    class B2CTransaction <<AggregateRoot>> {
+        - UUID id
+        - UUID routingSessionId
+        - UUID userId
+        - Money totalAmount
+        - String stripeIntentId
+        - String status
+        + processPayment()
+    }
+
+    class Invoice <<Entity>> {
+        - UUID id
+        - String documentType
+        - String documentNumber
+        - String pdfUrl
+        + emit()
+    }
+
+    class PaymentGatewayService <<DomainService>> {
+        + chargeCustomer(amount: Money, source: String): Boolean
+    }
+
+    B2CTransaction "1" *-- "1" Money : cuesta >
+    B2CTransaction "1" *-- "0..1" Invoice : genera >
+    B2BSubscription "1" *-- "0..*" Invoice : genera >
+}
+
+' ==========================================
+' Relaciones inter-dominio (Mediante UUIDs para bajo acoplamiento)
+' ==========================================
+User ..> UserProfile : identifica (userId)
+Facility ..> Tenant : pertenece_a (tenantId)
+RoutingSession ..> Vehicle : rastrea (vehicleId)
+RoutingSession ..> ParkingZone : dirige_a (zoneId)
+SpotSensor ..> ParkingSpot : monitorea (spotId)
+Alert ..> RoutingSession : infraccion_de (sessionId)
+B2CTransaction ..> RoutingSession : cobra_por (sessionId)
+
+@enduml
