@@ -14,7 +14,7 @@ Permite identificar cómo funcionan las soluciones actuales de estacionamiento, 
 
 | SpotGo | Apparka | iPark | Parkopedia |
 | --- | --- | --- | --- |
-| <img src="../assets/images/others/spotgo-logo.png" alt="spotgo-logo" width="150"/> | <img src="../assets/images/others/apparka-logo.png" alt="apparka-logo" width="150"/> | <img src="../assets/images/others/ipark-logo.png" alt="ipark-logo" width="150"/> | <img src="../assets/images/others/parkopedia-logo.png" alt="parkopedia-logo" width="150"/> |
+| ![SpotGo Logo](../assets/images/others/spotgo-logo.png){ width=150px } | ![Apparka Logo](../assets/images/others/apparka-logo.png){ width=150px } | ![iPark Logo](../assets/images/others/ipark-logo.png){ width=150px } | ![Parkopedia Logo](../assets/images/others/parkopedia-logo.png){ width=150px } |
 
 *Perfil*
 
@@ -132,13 +132,13 @@ El sistema incluye un módulo de analítica avanzada para administradores, permi
 
 ### 2.2.2. Registro de entrevistas
 
-Link: https://www.capcut.com/sv2/ZS9LoHLMkdL5V-kGTXS/
+Video Link: https://www.capcut.com/sv2/ZS9LoHLMkdL5V-kGTXS/
 
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
 **Entrevista 1**
 
-| Screenshot: | <img src="../assets/images/interviews/needfinding/entrevista-1-1.png" alt="entrevista-1-1"/> |
+| Screenshot: | ![Entrevista SO1 1](../assets/images/interviews/needfinding/entrevista-1-1.png) |
 | --- | --- |
 | Inicia: | 00:00 |
 | Duración:| 4:50 |
@@ -149,7 +149,7 @@ Link: https://www.capcut.com/sv2/ZS9LoHLMkdL5V-kGTXS/
 
 **Entrevista 2**
 
-| Screenshot: | <img src="../assets/images/interviews/needfinding/entrevista-1-2.png" alt="entrevista-1-2"/> |
+| Screenshot: | ![Entrevista SO1 2](../assets/images/interviews/needfinding/entrevista-1-2.png) |
 | --- | --- |
 | Inicia: | 04:50 |
 | Duración:| 5:04 |
@@ -160,7 +160,7 @@ Link: https://www.capcut.com/sv2/ZS9LoHLMkdL5V-kGTXS/
 
 **Entrevista 3**
 
-| Screenshot: | <img src="../assets/images/interviews/needfinding/entrevista-1-3.png" alt="entrevista-1-3"/> |
+| Screenshot: | ![Entrevista SO1 3](../assets/images/interviews/needfinding/entrevista-1-3.png) |
 | --- | --- |
 | Inicia: | 10:44 |
 | Duración:| 6:16 |
@@ -173,7 +173,7 @@ Link: https://www.capcut.com/sv2/ZS9LoHLMkdL5V-kGTXS/
 
 **Entrevista 1**
 
-| Screenshot: | <img src="../assets/images/interviews/needfinding/entrevista-2-1.png" alt="entrevista-2-1"/> |
+| Screenshot: | ![Entrevista SO2 1](../assets/images/interviews/needfinding/entrevista-2-1.png) |
 | --- | --- |
 | Inicia: | 17:01 |
 | Duración:| 3:53 |
@@ -184,7 +184,7 @@ Link: https://www.capcut.com/sv2/ZS9LoHLMkdL5V-kGTXS/
 
 **Entrevista 2**
 
-| Screenshot: | <img src="../assets/images/interviews/needfinding/entrevista-2-2.png" alt="entrevista-2-2"/> |
+| Screenshot: | ![Entrevista SO2 2](../assets/images/interviews/needfinding/entrevista-2-2.png) |
 | --- | --- |
 | Inicia: | 20:54 |
 | Duración:| 6:34 |
@@ -195,7 +195,7 @@ Link: https://www.capcut.com/sv2/ZS9LoHLMkdL5V-kGTXS/
 
 **Entrevista 3**
 
-| Screenshot: | <img src="../assets/images/interviews/needfinding/entrevista-2-3.png" alt="entrevista-2-3"/> |
+| Screenshot: | ![Entrevista SO2 3](../assets/images/interviews/needfinding/entrevista-2-3.png) |
 | --- | --- |
 | Inicia: | 27:28 |
 | Duración:| 3:44 |
@@ -206,7 +206,7 @@ Link: https://www.capcut.com/sv2/ZS9LoHLMkdL5V-kGTXS/
 
 **Entrevista 4**
 
-| Screenshot: | <img src="../assets/images/interviews/needfinding/entrevista-2-4.png" alt="entrevista-2-4"/> |
+| Screenshot: | ![Entrevista SO2 4](../assets/images/interviews/needfinding/entrevista-2-4.png) |
 | --- | --- |
 | Inicia: | 31:12 |
 | Duración:| 5:42 |
@@ -324,10 +324,10 @@ Se utilizó la guía Step-by-Step Guide de Philippe Bourgau, proporcionada en la
 - Explore
 - Close
 
-Miro Board Link: https://miro.com/welcomeonboard/V2xyaEY4TCtuVTdxSEYvWlJwdFNGZkkvNmJnSDc2dUhrWkQ4MjlvOFB2dVQzd3hadHFBVXpROVE4UGFDbVI3NXY1NDFuam5BMVg3R1hKZEswQWV3TThMRDFjTjNjanVQdGhCZG1yWTdHMSsxVWVUeS9Qa2J4QXh6SkNoMFhYeGF0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=241498433824
+Miro Board Link: https://miro.com/welcomeonboard/V2xyaEY4TCtuVTdxSEYvWlJwdFNGZkkvNmJnSDc2dUhrWkQ4MjlvOFB2dVQzd3hadHFBVXpROVE4UGFDbVI3NXY1NDFuam5BMVg3R1hKZEswQWV3TThSN09OOXpNNklYZDlJV2R6Z2hjSFJ6L2NzdGo1MXhGamo1WVVFMFdwaWNyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=953121470391
 
 *Figura 10 (Big Picture EventStorming)*
-![Big Picture EventStorming](../assets/images/figures/10-BigPicture-Event-Storming.png)
+![Big Picture EventStorming](../assets/images/figures/10-big-picture-event-storming.jpg)
 
 ## 2.5. Ubiquitous Language
 

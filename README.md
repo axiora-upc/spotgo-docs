@@ -43,6 +43,7 @@ Este repositorio contiene el informe completo del trabajo final, incluyendo inve
 - [Capitulo IV: Product Design](docs/40-chap-4.md)
 - [Capitulo V: Product Implementation, Validation & Deployment](docs/50-chap-5.md)
 - [Sprint 1](docs/51-sprint-1.md)
+- [Sprint 2](docs/52-sprint-2.md)
 - [Conclusiones](docs/80-conclusions.md)
 - [Recomendaciones](docs/81-recommendations.md)
 - [Bibliografia](docs/90-bibliography.md)
@@ -70,6 +71,7 @@ Este repositorio contiene el informe completo del trabajo final, incluyendo inve
 	|-- 40-chap-4.md
 	|-- 50-chap-5.md
 	|-- 51-sprint-1.md
+	|-- 52-sprint-2.md
 	|-- 80-conclusions.md
 	|-- 81-recommendations.md
 	|-- 90-bibliography.md
@@ -80,7 +82,7 @@ Este repositorio contiene el informe completo del trabajo final, incluyendo inve
 
 1. Inicia por [docs/00-cover.md](docs/00-cover.md) para revisar la portada y el control de versiones.
 2. Continua en orden secuencial del capitulo I al V.
-3. Revisa [docs/51-sprint-1.md](docs/51-sprint-1.md) para la evidencia del sprint.
+3. Revisa [docs/51-sprint-1.md](docs/51-sprint-1.md) y [docs/52-sprint-2.md](docs/52-sprint-2.md) para la evidencia de los sprints.
 4. Cierra con conclusiones, recomendaciones, bibliografia y anexos.
 
 ## Convenciones de Trabajo
@@ -93,4 +95,4 @@ En el informe se define el uso de:
 
 ## Estado
 
-Documento actualizado con los entregables registrados hasta abril de 2026.
+Documento actualizado con los entregables registrados hasta mayo de 2026.

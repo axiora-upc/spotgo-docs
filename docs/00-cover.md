@@ -1,6 +1,6 @@
 # Informe del trabajo Final
 
-<img src="../assets/images/others/upc-logo.png" alt="upc-logo" width="150"/><br>
+![UPC Logo](../assets/images/others/upc-logo.png){ width=150px }
 
 **Universidad Peruana de Ciencias Aplicadas (UPC)**
 
@@ -36,7 +36,7 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 | --- | --- | --- | --- |
-| 0.1.0 | 19/4/26 | @AdrixRyz | docs: agregar los puntos previos al capitulo 1 |
+| 0.1.0 | 19/4/26 | @AdrixRyz | docs: añadir los puntos previos al capitulo 1 |
 | 0.1.1 | 20/4/26 | @johancg04 | docs: añadir descripcion del startup |
 | 0.1.2 | 20/4/26 | @CesarJrCR | docs: añadir todos lo puntos de solution profile |
 | 0.1.3 | 20/4/26 | @nes-ro | docs: añadir segmentos objetivo |
@@ -55,6 +55,7 @@
 | 0.1.16 | 25/4/26 | @nes-ro | docs: añadir los 4 puntos finales |
 | 0.1.17 | 25/4/26 | @johancg04 | docs: añadir student outcome y report insights |
 | 0.1.18 | 25/4/26 | @AdrixRyz | docs: añadir correciones finales del av1 |
+| 0.2.0 | 9/5/26 | @AdrixRyz | docs: añadir correciones de la revisión del av1 |
 
 # Project Report Collaboration Insights
 
@@ -66,6 +67,11 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 
 *Report Insights AV1*
 ![Report Insights AV1](../assets/images/others/report-insights-av1.png)
+
+**TB1**
+
+*Report Insights TB1*
+[Photo]
 
 # Tabla de contenidos
 
@@ -156,6 +162,15 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 5.2.1.6. Services Documentation Evidence for Sprint Review  
 5.2.1.7. Software Deployment Evidence for Sprint Review  
 5.2.1.8. Team Collaboration Insights during Sprint  
+[**5.2.2. Sprint 2**](52-sprint-2.md)  
+5.2.2.1. Sprint Planning 2  
+5.2.2.2. Aspect Leaders and Collaborators  
+5.2.2.3. Sprint Backlog 2  
+5.2.2.4. Development Evidence for Sprint Review  
+5.2.2.5. Execution Evidence for Sprint Review  
+5.2.2.6. Services Documentation Evidence for Sprint Review  
+5.2.2.7. Software Deployment Evidence for Sprint Review  
+5.2.2.8. Team Collaboration Insights during Sprint  
 
 [**Conclusiones**](80-conclusions.md)  
 [**Recomendaciones**](81-recommendations.md)  
@@ -166,5 +181,5 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 
 | Criterio especifico | Acciones realizadas | Conclusiones |
 | --- | --- | --- |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Ruiz Mideyros, Adrian (U20241E177)**<br>**AV1:** Participó en la grabación del video de exposición del Avance 1, explicando claramente la introducción, la descripción del startup y el planteamiento de la problemática, utilizando un tono formal y adecuado para la audiencia académica.<br><br>**Rojas Tello, Nestor Alonso (U202317099)**<br>**AV1:** Durante el video de exposición, articuló de forma efectiva la definición de los segmentos objetivo y las decisiones de diseño, apoyándose correctamente en el material visual.<br><br>**Espinoza Lopez, Paul Alexandro (U20241E321)**<br>**AV1:** Expuso con fluidez el análisis de competidores y las entrevistas, transmitiendo los hallazgos del Needfinding de manera estructurada y comprensible para el público.<br><br>**Contreras Rojas, Cesar Jair (U20241D995)**<br>**AV1:** Explicó de manera precisa las especificaciones de requisitos y la arquitectura de software (DDD y C4) en el video, adaptando el lenguaje técnico para una presentación clara.<br><br>**Contreras Granados, Johan Alexis (U202423752)**<br>**AV1:** Participó activamente en la exposición de las guías de estilo y el diseño UX/UI, comunicando verbalmente las decisiones y el flujo de trabajo del equipo de manera persuasiva. | **AV1:** El equipo demostró una sólida capacidad para transmitir ideas técnicas y de negocio de forma verbal. Se respetaron los tiempos asignados para el Avance 1 y se utilizó material audiovisual (diapositivas/prototipos) de apoyo de manera pertinente, logrando una comunicación fluida, coherente y adaptada al nivel de exigencia académico del curso de Desarrollo de Aplicaciones Open Source. |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia. | **Ruiz Mideyros, Adrian (U20241E177)**<br>**AV1:** Redactó de forma clara las secciones introductorias y la arquitectura de la información, además de documentar los avances del Sprint 1 en Markdown, asegurando el cumplimiento de convenciones de repositorios.<br><br>**Rojas Tello, Nestor Alonso (U202317099)**<br>**AV1:** Documentó detalladamente los segmentos objetivo y estructuró las descripciones de los diagramas de clases y bases de datos, manteniendo un lenguaje técnico preciso.<br><br>**Espinoza Lopez, Paul Alexandro (U20241E321)**<br>**AV1:** Redactó el análisis de competidores y el registro de entrevistas, sintetizando información cualitativa compleja en resúmenes legibles y tablas comparativas.<br><br>**Contreras Rojas, Cesar Jair (U20241D995)**<br>**AV1:** Contribuyó en la redacción meticulosa del Solution Profile y la especificación de la arquitectura de dominio (EventStorming), asegurando la consistencia del lenguaje ubicuo.<br><br>**Contreras Granados, Johan Alexis (U202423752)**<br>**AV1:** Escribió la documentación correspondiente a Style Guidelines, Web Applications UX/UI y Student Outcome, garantizando una excelente ortografía, gramática y jerarquía de la información. | **AV1:** El equipo logró elaborar un informe altamente estructurado, aplicando correctamente el formato Markdown y el enfoque Docs-as-Code. La redacción refleja profesionalismo, uso adecuado de vocabulario técnico e inglés para términos estándar de la industria (User Stories, C4, EventStorming). El documento es de fácil lectura, escaneable y cumple con los estándares de documentación exigidos para un proyecto de Ingeniería de Software. |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Ruiz Mideyros, Adrian (U20241E177)**<br>**AV1:** Práctica de modulación de voz y control de tiempos durante ensayos grupales, lo que permitió desarrollar la habilidad de exponer la problemática del negocio de manera persuasiva ante una audiencia evaluadora.<br>**AV2:**<br><br>**Rojas Tello, Nestor Alonso (U202317099)**<br>**AV1:** Organización y esquematización de las ideas clave mediante mapas mentales antes de la exposición, mejorando la articulación verbal para explicar decisiones de diseño a un público no técnico.<br>**AV2:**<br><br>**Espinoza Lopez, Paul Alexandro (U20241E321)**<br>**AV1:** Recepción y aplicación de feedback de los compañeros sobre claridad del discurso, mejorando su capacidad asertiva en la comunicación oral de los resultados de las entrevistas y el Needfinding.<br>**AV2:**<br><br>**Contreras Rojas, Cesar Jair (U20241D995)**<br>**AV1:** Ejercicios de adaptación de terminología técnica para lograr explicar conceptos complejos de la arquitectura de software (DDD, C4) a diferentes tipos de stakeholders sin perder el rigor técnico en el discurso oral.<br>**AV2:**<br><br>**Contreras Granados, Johan Alexis (U202423752)**<br>**AV1:** Simulaciones de presentación frente al grupo, desarrollando la capacidad de comunicar oralmente decisiones visuales o de UX mediante argumentos estructurados orientados a las necesidades del usuario.<br>**AV2:** | **AV1:** El equipo demostró una sólida capacidad para transmitir ideas técnicas y de negocio de forma verbal. Se respetaron los tiempos asignados para el Avance 1 y se utilizó material audiovisual (diapositivas/prototipos) de apoyo de manera pertinente, logrando una comunicación fluida, coherente y adaptada al nivel de exigencia académico del curso de Desarrollo de Aplicaciones Open Source.<br>**AV2:** |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | **Ruiz Mideyros, Adrian (U20241E177)**<br>**AV1:** Aplicación de iteraciones de revisión de textos para depurar inconsistencias, desarrollando así la capacidad de redactar de forma estructurada, técnica y sin ambigüedades en la sección introductoria.<br>**AV2:**<br><br>**Rojas Tello, Nestor Alonso (U202317099)**<br>**AV1:** Estudio y aplicación de buenas prácticas de redacción técnica para documentar artefactos (como modelos de datos), afinando la habilidad de escribir descripciones exactas y claras para públicos técnicos.<br>**AV2:**<br><br>**Espinoza Lopez, Paul Alexandro (U20241E321)**<br>**AV1:** Ejercicio de síntesis de la vasta información cualitativa obtenida de las entrevistas, perfeccionando la habilidad de transformar datos complejos en reportes ejecutivos escritos y de fácil comprensión.<br>**AV2:**<br><br>**Contreras Rojas, Cesar Jair (U20241D995)**<br>**AV1:** Construcción y documentación en equipo del Lenguaje Ubicuo (EventStorming), lo que consolidó su capacidad para plasmar de forma escrita un lenguaje de negocio compartido entre perfiles técnicos y no técnicos.<br>**AV2:**<br><br>**Contreras Granados, Johan Alexis (U202423752)**<br>**AV1:** Participación como revisor (proofreader) de la gramática y jerarquía de la información, practicando habilidades de control de calidad para garantizar que el entregable escrito cumpla con altos estándares formales.<br>**AV2:** | **AV1:** El equipo logró elaborar un informe altamente estructurado, aplicando correctamente el formato Markdown y el enfoque Docs-as-Code. La redacción refleja profesionalismo, uso adecuado de vocabulario técnico e inglés para términos estándar de la industria (User Stories, C4, EventStorming). El documento es de fácil lectura, escaneable y cumple con los estándares de documentación exigidos para un proyecto de Ingeniería de Software.<br>**AV2:** |
