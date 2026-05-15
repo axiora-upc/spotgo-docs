@@ -30,7 +30,7 @@
 | Contreras Rojas, Cesar Jair | U20241D995 |
 | Contreras Granados, Johan Alexis | U202423752 |
 
-**Abril, 2026**
+**Mayo, 2026**
 
 # Registro de versiones del informe
 
