@@ -1,10 +1,8 @@
-# Archivos compilados pdf
+*.log
 *.pdf
 
-# Archivos del sistema operativo
 .DS_Store
 Thumbs.db
 
-# Carpetas de configuración del editor
 .vscode/
 .idea/
