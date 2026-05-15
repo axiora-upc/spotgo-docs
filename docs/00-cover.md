@@ -56,6 +56,7 @@
 | 0.1.17 | 25/4/26 | @johancg04 | docs: añadir student outcome y report insights |
 | 0.1.18 | 25/4/26 | @AdrixRyz | docs: añadir correciones finales del av1 |
 | 0.2.0 | 9/5/26 | @AdrixRyz | docs: añadir correciones de la revisión del av1 |
+| 0.2.1 | 14/5/26 | @AdrixRyz | docs: añadir el sprint 2 |
 
 # Project Report Collaboration Insights
 

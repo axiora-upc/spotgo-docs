@@ -14,7 +14,7 @@
 | Hito | Enlace al video |
 | --- | --- |
 | **AV1** | [https://youtu.be/3qfl7v6kEHE](https://youtu.be/3qfl7v6kEHE) |
-| **TB1** | |
+| **TB1** | [https://upcedupe-my.sharepoint.com/:f:/g/personal/u202423752_upc_edu_pe/IgA2kceyaesLRLXekQjDh4ArAVEEAL0OxNcOFE_COv4X7kw?e=JoYpwY](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202423752_upc_edu_pe/IgA2kceyaesLRLXekQjDh4ArAVEEAL0OxNcOFE_COv4X7kw?e=JoYpwY) |
 
 **Anexo C. Enlaces relevantes**
 
@@ -24,4 +24,4 @@
 | Repositorio de la Landing Page | https://github.com/axiora-upc/spotgo-landing |
 | Landing Page Desplegada | https://axiora-upc.github.io/spotgo-landing/ |
 | Repositorio del Frontend | https://github.com/axiora-upc/spotgo-frontend |
-| Frontend Desplegado | https://axiora-upc.github.io/spotgo-frontend/ |
+| Frontend Desplegado | [https://spotgo-frontend.vercel.app?_vercel_share=FQZVYDWBeAZFnl4m3d4WqnII69DhXpVe](https://spotgo-frontend.vercel.app?_vercel_share=FQZVYDWBeAZFnl4m3d4WqnII69DhXpVe) |
