@@ -14,7 +14,7 @@
 | Hito | Enlace al video |
 | --- | --- |
 | **AV1** | [https://youtu.be/3qfl7v6kEHE](https://youtu.be/3qfl7v6kEHE) |
-| **TB1** | [https://upcedupe-my.sharepoint.com/:f:/g/personal/u202423752_upc_edu_pe/IgA2kceyaesLRLXekQjDh4ArAVEEAL0OxNcOFE_COv4X7kw?e=JoYpwY](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202423752_upc_edu_pe/IgA2kceyaesLRLXekQjDh4ArAVEEAL0OxNcOFE_COv4X7kw?e=JoYpwY) |
+| **TB1** | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202423752_upc_edu_pe/IQD2oUk62NN2RJ1q420uOHcBATr7zihUnyk4AJze6s4MUhw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1QfogG](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202423752_upc_edu_pe/IQD2oUk62NN2RJ1q420uOHcBATr7zihUnyk4AJze6s4MUhw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1QfogG) |
 
 **Anexo C. Enlaces relevantes**
 

@@ -130,6 +130,56 @@ De igual manera, se integraron configuraciones de infraestructura y despliegue u
 
 A continuación, se presenta la evidencia visual de las principales vistas, módulos y funcionalidades implementadas durante el Sprint 2.
 
+### Vista de Usuario
+
+*Figura 88 (Dashboard)*
+
+[Dashboard](../assets/images/execution-fronted/88-dashboard.png)
+
+*Figura 89 (Reservations)*
+
+[Reservations](../assets/images/execution-fronted/89-reservations.png)
+
+*Figura 90 (Subscriptions)*
+
+[Subscriptions](../assets/images/execution-fronted/90-subscriptions.png)
+
+*Figura 91 (Receipts)*
+
+[Receipts](../assets/images/execution-fronted/91-receipts.png)
+
+*Figura 92 (Favorites)*
+
+[Favorites](../assets/images/execution-fronted/92-favorites.png)
+
+*Figura 93 (History)*
+
+[History](../assets/images/execution-fronted/93-history.png)
+
+### Vista de Administrador
+
+*Figura 94 (Real Time Map - Overview)*
+
+[Real Time Map - Overview](../assets/images/execution-fronted/94-overview.png)
+
+*Figura 95 (Real Time Map - Reports)*
+
+[Real Time Map - Reports](../assets/images/execution-fronted/95-reports.png)
+
+*Figura 96 (Real Time Map - Employees)*
+
+[Real Time Map - Employees](../assets/images/execution-fronted/96-employees.png)
+
+*Figura 97 (Analytics)*
+
+[Analytics](../assets/images/execution-fronted/97-analytics.png)
+
+*Figura 98 (Settings)*
+
+[Settings](../assets/images/execution-fronted/98-settings.png)
+
+Video de Demostración de Navegación de la Web App:
+
 https://upcedupe-my.sharepoint.com/:f:/g/personal/u202423752_upc_edu_pe/IgA2kceyaesLRLXekQjDh4ArAVEEAL0OxNcOFE_COv4X7kw?e=JoYpwY
 
 #### *5.2.2.6. Services Documentation Evidence for Sprint Review*
@@ -163,8 +213,17 @@ A continuación, se presenta la relación de endpoints implementados y documenta
 
 El despliegue continuo del Frontend de la aplicación web (Single Page Application) se encuentra configurado exitosamente en Vercel. 
 
-Enlace al Frontend Desplegado (Angular): https://spotgo-frontend.vercel.app?_vercel_share=FQZVYDWBeAZFnl4m3d4WqnII69DhXpVe
+*Figura 99 (Software Deployment)*
+
+![Software Deployment](../assets/images/figures/99-soft-deploy.png)
+
+
+Enlace al Frontend Desplegado (Angular): https://spotgo-frontend.vercel.app
 
 #### *5.2.2.8. Team Collaboration Insights during Sprint*
 
-Todos los miembros del equipo han participado activamente en la implementación de los productos del Sprint 1, lo cual se evidencia mediante los reportes de actividad y contribución del repositorio de GitHub de la organización Axiora.
+Todos los miembros del equipo han participado activamente en la implementación de los productos del Sprint 2, lo cual se evidencia mediante los reportes de actividad y contribución del repositorio de GitHub de la organización Axiora.
+
+*Figura 100 (Team Insights Sprint 2)*
+
+![Team Insights Sprint 2](../assets/images/figures/100-team-insight-sprint2.png)

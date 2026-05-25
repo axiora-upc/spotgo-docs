@@ -1,6 +1,6 @@
 # Informe del trabajo Final
 
-![UPC Logo](../assets/images/others/upc-logo.png){ width=150px }
+![UPC Logo](../assets/images/others/upc-logo.png)
 
 **Universidad Peruana de Ciencias Aplicadas (UPC)**
 
@@ -22,13 +22,14 @@
 
 **Relación de integrantes:**
 
-| Apellidos, Nombres | Código |
-| --- | --- |
-| Ruiz Mideyros, Adrian | U20241E177 |
-| Rojas Tello, Nestor Alonso | U202317099 |
-| Espinoza Lopez, Paul Alexandro | U20241E321 |
-| Contreras Rojas, Cesar Jair | U20241D995 |
-| Contreras Granados, Johan Alexis | U202423752 |
+| Apellidos, Nombres | Código      |
+| --- |-------------|
+| Ruiz Mideyros, Adrian | U20241E177  |
+| Rojas Tello, Nestor Alonso | U202317099  |
+| Espinoza Lopez, Paul Alexandro | U20241E321  |
+| Contreras Rojas, Cesar Jair | U20241D995  |
+| Contreras Granados, Johan Alexis | U202423752  |
+ | Said Conde, Jazid | U202312348  |
 
 **Mayo, 2026**
 
