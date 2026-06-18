@@ -33,7 +33,6 @@ Este repositorio contiene el informe completo del trabajo final, incluyendo inve
 | Espinoza Lopez, Paul Alexandro | U20241E321 |
 | Contreras Rojas, Cesar Jair | U20241D995 |
 | Contreras Granados, Johan Alexis | U202423752 |
-| Said Conde, Jazid | U202312348 |
 
 
 ## Indice del Informe
