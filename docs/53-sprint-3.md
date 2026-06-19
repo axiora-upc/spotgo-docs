@@ -1,1 +1,109 @@
+# 5.3. Validation Interviews
 
+## 5.3.1. Diseño de Entrevistas
+
+Esta sección describe el diseño de las entrevistas de validación orientadas a evaluar la navegación y la experiencia de uso de SpotGo. La validación se realizará con los dos segmentos objetivo del proyecto: administradores o personal operativo de estacionamientos y conductores o usuarios finales. Para cada segmento se consideran los principales flujos de interacción dentro de la Web Application, las tareas que deberán realizar los participantes durante la sesión y las preguntas que permitirán identificar el nivel de claridad, utilidad, facilidad de uso y posibles oportunidades de mejora del producto.
+
+## Primer Segmento Objetivo: Administradores o personal operativo de estacionamiento
+
+### User Flows
+
+- **User Flow 1** - Ingresar a la vista administrativa y revisar el mapa en tiempo real del estacionamiento.
+- **User Flow 2** - Interpretar el estado de los espacios según disponibilidad, ocupación o mantenimiento.
+- **User Flow 3** - Revisar métricas principales de ocupación, espacios disponibles e ingresos proyectados.
+- **User Flow 4** - Analizar el dashboard de analíticas para evaluar rendimiento del estacionamiento.
+- **User Flow 5** - Consultar zonas o espacios con mayor utilización dentro del sistema.
+- **User Flow 6** - Acceder a configuración y revisar información del negocio, datos personales y planos del estacionamiento.
+- **User Flow 7** - Evaluar acciones operativas como exportar registros, actualizar sincronización o solicitar soporte técnico.
+
+### Tareas asignadas
+
+- Ingresar al panel administrativo y ubicar la sección Real-time Map.
+- Revisar el mapa de espacios y explicar qué significan los colores de disponibilidad, ocupación y mantenimiento.
+- Identificar cuántos espacios están disponibles y cuál es la tasa de ocupación actual.
+- Revisar la sección de Analytics y observar métricas como ocupación promedio, hora pico, ingresos y estado del sistema.
+- Interpretar la información de **Most Utilized Spots** para determinar qué espacios tienen mayor uso.
+- Utilizar filtros temporales como **Today**, **Last 7 Days** o **Custom Date** para analizar datos por periodo.
+- Ingresar a **Settings** y revisar si los datos del administrador y del negocio están correctamente organizados.
+- Evaluar si las opciones de **Upload Blueprint**, **Delete Blueprint**, **Export Logs** y **Refresh Sync** son comprensibles para un operador.
+- Indicar qué información adicional necesitaría para tomar mejores decisiones dentro del estacionamiento.
+
+### Preguntas de validación
+
+1. ¿El mapa en tiempo real permite entender rápidamente el estado de los espacios?
+2. ¿Los colores usados para disponible, ocupado y mantenimiento son fáciles de interpretar?
+3. ¿Las métricas principales del panel administrativo ayudan a tomar decisiones rápidas?
+4. ¿La sección de Analytics muestra información útil para supervisar la operación diaria?
+5. ¿Los filtros de fecha facilitan el análisis del rendimiento del estacionamiento?
+6. ¿La información de ingresos, ocupación y espacios disponibles resulta suficiente para un administrador?
+7. ¿La configuración del perfil y del negocio es clara y fácil de revisar?
+8. ¿Las acciones como exportar registros, actualizar sincronización o solicitar soporte técnico son fáciles de encontrar?
+9. ¿Qué parte del sistema administrativo consideras más útil y qué parte podría generar confusión?
+
+## Segundo Segmento Objetivo: Conductores y usuarios finales
+
+### User Flows
+
+- **User Flow 1** - Ingresar al Dashboard del usuario y revisar estacionamientos cercanos.
+- **User Flow 2** - Interpretar disponibilidad de espacios mediante el mapa visual.
+- **User Flow 3** - Revisar estacionamientos favoritos y ejecutar acciones como navegar o reservar.
+- **User Flow 4** - Consultar reservas activas o próximas.
+- **User Flow 5** - Revisar planes de suscripción y método de pago.
+- **User Flow 6** - Consultar recibos digitales y buscar transacciones.
+- **User Flow 7** - Revisar historial de estacionamientos, reportar una experiencia o calificar un servicio.
+
+### Tareas asignadas
+
+- Ingresar al Dashboard del usuario y observar los indicadores principales: espacios cercanos, reservas activas, ubicaciones guardadas y ahorro promedio.
+- Revisar el mapa de estacionamientos cercanos e interpretar qué significan los indicadores de disponibilidad.
+- Entrar a **Favorites** y seleccionar un estacionamiento guardado.
+- Revisar la información de un estacionamiento favorito, incluyendo disponibilidad, tarifa, distancia y calificación.
+- Utilizar las opciones **Navigate** y **Reserve** para evaluar si el flujo de acción es claro.
+- Ingresar a **Reservations** y verificar si existen reservas activas o próximas.
+- Revisar **Subscriptions**, identificar el plan actual, el uso mensual y las opciones de mejora de plan.
+- Revisar **Receipts**, buscar una transacción y ubicar las opciones para descargar PDF o enviar por correo.
+- Entrar a **History** y revisar reservas anteriores, montos pagados, calificaciones y opción de reporte.
+- Indicar qué información necesitaría antes de decidir reservar un espacio.
+
+### Preguntas de validación
+
+1. ¿El Dashboard permite entender rápidamente cuántos estacionamientos cercanos hay disponibles?
+2. ¿El mapa visual ayuda a ubicar zonas con mayor disponibilidad?
+3. ¿La diferencia entre espacios disponibles, limitados y llenos se entiende sin explicación adicional?
+4. ¿La sección Favorites facilita encontrar estacionamientos usados con frecuencia?
+5. ¿Los botones Navigate y Reserve son visibles y comprensibles?
+6. ¿La pantalla Reservations muestra de forma clara si existe una reserva activa o próxima?
+7. ¿La sección Subscriptions explica correctamente el plan actual, el consumo mensual y las opciones de mejora?
+8. ¿La sección Receipts permite encontrar fácilmente comprobantes de pago?
+9. ¿La opción de descargar PDF o enviar recibos por correo resulta útil para el usuario?
+10. ¿El historial de estacionamientos muestra suficiente información sobre fechas, horarios, precios y calificaciones?
+11. ¿Qué parte del flujo te ayudaría más a ahorrar tiempo al buscar estacionamiento?
+12. ¿Qué información adicional necesitarías antes de confiar en una reserva dentro de SpotGo?
+13. ¿Hubo alguna pantalla, texto o botón que te pareciera confuso o poco necesario?
+
+## 5.3.2. Registro de Entrevistas
+
+En esta sección se registrarán las entrevistas de validación realizadas a usuarios pertenecientes a los segmentos objetivo de SpotGo. Cada entrevista deberá incluir los datos generales del participante, el segmento al que pertenece, la duración de la sesión, el enlace o evidencia del registro audiovisual, las tareas realizadas durante la prueba y un resumen de los principales comentarios obtenidos.
+
+Para el segmento de administradores o personal operativo de estacionamiento, se buscará validar si el sistema permite supervisar la ocupación, interpretar métricas, reconocer estados de los espacios y realizar acciones administrativas de manera clara. Para el segmento de conductores y usuarios finales, se evaluará si la plataforma facilita la búsqueda de estacionamientos, la reserva de espacios, la consulta de favoritos, la revisión de recibos y el seguimiento del historial de uso.
+
+### Formato sugerido para cada entrevista
+
+- **Entrevista N°**
+- **Segmento objetivo:**
+- **Nombre completo:**
+- **Edad:**
+- **Distrito:**
+- **Ocupación:**
+- **Inicio:**
+- **Duración:**
+- **Evidencia o enlace:**
+- **Tareas realizadas:**
+- **Principales observaciones:**
+- **Resumen de la entrevista:**
+
+## 5.3.3. Evaluaciones según heurísticas
+
+En esta sección se presentará la evaluación heurística de la experiencia de usuario de SpotGo a partir de las interfaces validadas durante las entrevistas. El análisis se realizará considerando principios de usabilidad como visibilidad del estado del sistema, relación entre el sistema y el mundo real, control y libertad del usuario, consistencia, prevención de errores, reconocimiento antes que memoria, flexibilidad de uso, diseño estético y minimalista, ayuda para reconocer errores y disponibilidad de ayuda o documentación.
+
+La evaluación permitirá identificar problemas de usabilidad en las vistas del usuario y del administrador, priorizar su severidad y proponer mejoras concretas para optimizar la experiencia general del sistema. En el caso del usuario final, se revisarán pantallas como Dashboard, Reservations, Subscriptions, Receipts, Favorites y History. En el caso del administrador, se evaluarán Real-time Map, Analytics Dashboard y Settings.
