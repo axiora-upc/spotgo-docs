@@ -35,6 +35,8 @@ A continuación se detalla la matriz de liderazgo y colaboración (LACX) para br
 
 El sprint Backlog se centra en la elaboración del frontend principal de SpotGo, esto incluye el diseño responsivo, el dashboard y el acceso por roles tanto el de administrador como el de conductor. Es gracias a estas implemetanciones que hemos logrado una aplicación interactiva conectada a servicios simulados para validar la experiencia antes de agregar las API's
 
+**Trello link:** https://trello.com/invite/b/6a3044b58529d68c1f19afee/ATTIa322332a59d2dc5bf472752e3591fc3f5CBEB433/axiora-trello
+
 ![Sprint Backlog](../assets/images/others/trello-capture-sprint2.png)
 
 | User Story Id | User Story Title | Work-Item / Task Id | Work-Item / Task Title | Description | Estimation (Hours) | Assigned To | Status |
