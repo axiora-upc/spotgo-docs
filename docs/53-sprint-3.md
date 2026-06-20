@@ -144,3 +144,8 @@ Para mostrar la interacción, ejecutamos algunos endpoints.
 #### *5.2.3.7. Software Deployment Evidence for Sprint Review*
 
 #### *5.2.3.8. Team Collaboration Insights during Sprint*
+
+Para la organización técnica del desarrollo del Backend, el equipo adoptó un flujo de trabajo basado en GitFlow con ramas de características (feature/) bien definidas (como feature/parking, feature/billing-module, etc.), garantizando una integración ordenada hacia la rama develop.
+
+A continuación se presenta la evidencia de las interacciones y control de colaboración registrados durante el transcurso de este Sprint:
+
