@@ -24,7 +24,7 @@ Para el desarrollo del tercer sprint nos centramos en el elaboracion del backend
 
 A continuación se detalla la matriz de liderazgo y colaboración (LACX) para brindar claridad en la comunicación del equipo durante el desarrollo de las tareas de este Sprint.
 
-| Team Member (Last Name, First Name) | GitHub Username | Develop | Billing-Module | Parking | Profiles | Monitoring |
+| Team Member (Last Name, First Name) | GitHub Username | Develop | Billing | Parking | Profiles | Monitoring |
 | --- | --- | --- | --- | --- | --- | --- |
 | Ruiz Mideyros, Adrian | @AdrixRyz | L | C | C | C | C |
 | Rojas Tello, Nestor Alonso | @nes-ro | C | L | C | C | C |
