@@ -101,6 +101,16 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
 
 #### *5.2.3.5. Execution Evidence for Sprint Review*
 
+Durante el Sprint 3 se logró avanzar en la integración funcional entre el frontend y los servicios backend desarrollados para los principales flujos de SpotGo. Se implementaron y validaron vistas relacionadas, las reservas, suscripciones, recivos, parking favoritos, historial de parkings en lo que respecta a la vista de usuario y mapa en tiempo real, reportes, lista de empleados, sección de analytics y configuración para adiministrador. Reemplazando progresivamente el uso de datos simulados por peticiones reales a la API. Las evidencias de ejecución presentadas en esta sección muestran las principales vistas implementadas y permiten comprobar que los usuarios pueden interactuar con funcionalidades clave del sistema dentro del alcance definido para el Sprint.
+
+**Principales entregables funcionales:**
+
+- Endpoints REST para gestión de recivos, planes para clientes, suscripciones, reservaciones, parkings, detección de parking spots y croquis.
+- Integración de la capa de consumo del frontend con los servicios backend reales.
+- Validación de flujos de usuario tanto para conductor como para administrador.
+- Despliegue del backend en un entorno de producción para su integración continua con el frontend.
+- Documentación de los servicios REST implementados mediante OpenAPI/Swagger para su consulta y validación por parte del equipo y stakeholders.
+
 #### *5.2.3.6. Services Documentation Evidence for Sprint Review*
 
 #### *5.2.3.7. Software Deployment Evidence for Sprint Review*
