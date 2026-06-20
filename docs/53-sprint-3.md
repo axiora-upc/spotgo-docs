@@ -22,6 +22,16 @@ Para el desarrollo del tercer sprint nos centramos en el elaboracion del backend
 
 #### *5.2.3.2. Aspect Leaders and Collaborators*
 
+A continuación se detalla la matriz de liderazgo y colaboración (LACX) para brindar claridad en la comunicación del equipo durante el desarrollo de las tareas de este Sprint.
+
+| Team Member (Last Name, First Name) | GitHub Username | Develop | Billing-Module | Parking | Profiles | Monitoring |
+| --- | --- | --- | --- | --- | --- | --- |
+| Ruiz Mideyros, Adrian | @AdrixRyz | L | C | C | C | C |
+| Rojas Tello, Nestor Alonso | @nes-ro | C | L | C | C | C |
+| Espinoza Lopez, Paul Alexandro | @R3memo | C | C | C | L | C |
+| Contreras Rojas, Cesar Jair | @CesarJrCR | C | C | L | C | C |
+| Contreras Granados, Johan Alexis | @johancg04 | C | C | C | C | L |
+
 #### *5.2.3.3. Sprint Backlog 3*
 
 #### *5.2.3.4. Development Evidence for Sprint Review*
