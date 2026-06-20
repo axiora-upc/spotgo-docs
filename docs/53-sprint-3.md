@@ -113,6 +113,34 @@ Durante el Sprint 3 se logró avanzar en la integración funcional entre el fron
 
 #### *5.2.3.6. Services Documentation Evidence for Sprint Review*
 
+Durante el Sprint 3 se documentaron los endpoints REST correspondientes a los contextos de Parking, Reservations, Billing y Subscriptions mediante OpenAPI/Swagger. Esta documentación permite evidenciar los servicios implementados dentro del alcance del Sprint, incluyendo las rutas base y las acciones disponibles para la gestión de estacionamientos, croquis, spots detectados, reservas, recibos, planes y suscripciones de clientes. Además del uso de una base de datos PostgreSQL para la persistencia de la información. A continuación se presenta un resumen de los endpoints documentados y las acciones implementadas para cada recurso:
+
+| Recurso | Endpoint Base | Acciones Implementadas |
+| --- | --- | --- |
+| Parkings | `/api/v1/parkings` | GET, POST, PATCH por ID |
+| Blueprints | `/api/v1/blueprints` | GET, POST, DELETE por ID, GET por parking |
+| Detected Spots | `/api/v1/detectedSpots` | GET, POST, PATCH status por ID, GET por blueprint |
+| Reservations | `/api/v1/reservations` | GET, POST |
+| Receipts | `/api/v1/receipts` | GET, POST, GET por ID, DELETE |
+| Client Plans | `/api/v1/clientPlans` | GET, GET por ID |
+| Subscriptions | `/api/v1/subscriptions` | GET, POST, GET por ID, PUT, PATCH |
+
+**Evidencia de ejecución**
+
+Para mostrar la interacción, ejecutamos algunos endpoints.
+
+1. GET /api/v1/receipts el cual permite buscar recibos a traves de su codigo de reserva.
+
+![GET-receipts](../assets/images/others/GET-receipts.png)
+
+2. POST /api/v1/receipts el cual añade un recibo a la base de datos.
+
+![POST-receipts](../assets/images/others/POST-receipts.png)
+
+3. GET /api/v1/clientPlans el caul nos permite buscar los diversos planes que se lo ofrecen a los clientes
+
+![GET-receipts](../assets/images/others/GET-clientPlans.png)
+
 #### *5.2.3.7. Software Deployment Evidence for Sprint Review*
 
 #### *5.2.3.8. Team Collaboration Insights during Sprint*
