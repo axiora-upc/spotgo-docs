@@ -77,6 +77,28 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
 
 #### *5.2.3.4. Development Evidence for Sprint Review*
 
+| Repository | Branch | Commit Id | Commit Message | Committed By | Commit Date |
+|---|---|---|---|---|---|
+| spotgo-backend | main | 22fb0c5 | Merge pull request #6 from axiora-upc/develop | CesarJrCR | 2026-06-20 |
+| spotgo-backend | develop | eb91983 | feat: backend first version | AdrixRyz | 2026-06-20 |
+| spotgo-backend | develop | 7c20334 | docs: add README.md | AdrixRyz | 2026-06-20 |
+| spotgo-backend | develop | 69bc668 | fix: swagger documentation | AdrixRyz | 2026-06-20 |
+| spotgo-backend | develop | 48a986c | feat: align backend API with frontend format | AdrixRyz | 2026-06-20 |
+| spotgo-backend | develop | 3da7505 | fix: naming mistake | AdrixRyz | 2026-06-20 |
+| spotgo-backend | main | ef0cb5e | Merge pull request #5 from axiora-upc/feature/parking | AdrixRyz | 2026-06-20 |
+| spotgo-backend | feature/parking | 5c9ba8e | feat: update database backend connections | AdrixRyz | 2026-06-20 |
+| spotgo-backend | main | 193a3bf | fix: enable JPA auditing | AdrixRyz | 2026-06-18 |
+| spotgo-backend | main | 5a7db6a | Merge pull request #4 from axiora-upc/feature/billing-module | johancg04 | 2026-06-18 |
+| spotgo-backend | feature/billing-module | 66ecdb9 | feat(billing): add billing bounded context | Jobi | 2026-06-18 |
+| spotgo-backend | main | 15ec769 | Merge pull request #3 from axiora-upc/feature/parking | AdrixRyz | 2026-06-18 |
+| spotgo-backend | feature/parking | 525852a | feat: add support for detected spots creation | AdrixRyz | 2026-06-18 |
+| spotgo-backend | main | af1923d | Merge pull request #2 from axiora-upc/feature/parking | AdrixRyz | 2026-06-18 |
+| spotgo-backend | feature/parking | 27c8fee | feat: configure production profile and endpoints for spring boot | AdrixRyz | 2026-06-18 |
+| spotgo-backend | main | 642874c | Merge pull request #1 from axiora-upc/feature/parking | AdrixRyz | 2026-06-18 |
+| spotgo-backend | feature/parking | 6c33093 | feat(parking): implement parking module | AdrixRyz | 2026-06-18 |
+| spotgo-backend | main | 90a34f8 | chore: initial project setup | AdrixRyz | 2026-06-15 |
+| spotgo-backend | main | b5693f5 | Initial commit | AdrixRyz | 2026-04-08 |
+
 #### *5.2.3.5. Execution Evidence for Sprint Review*
 
 #### *5.2.3.6. Services Documentation Evidence for Sprint Review*
