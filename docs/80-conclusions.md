@@ -21,3 +21,15 @@
 * **Sobre el avance funcional del producto:** El Sprint 2 permitió evidenciar un progreso significativo en la construcción del producto mínimo viable (*MVP*), al contar con prototipos funcionales navegables que representan los principales flujos del sistema, sentando las bases para futuras implementaciones backend e integración con servicios IoT.
 
 * **Conclusión general del proyecto:** Finalmente, se concluye que SpotGo presenta una propuesta tecnológica viable para optimizar la gestión de estacionamientos mediante monitoreo inteligente y organización por perfiles de usuario. El trabajo desarrollado en ambos sprints permitió validar el problema, estructurar la solución y materializar una primera experiencia funcional del sistema, estableciendo una base sólida para futuras iteraciones e integraciones tecnológicas.
+
+## Sprint 3 – Desarrollo Backend
+
+* Sobre el diseño e implementación de la API REST: Se concluye que el desarrollo backend permitió transformar los requerimientos funcionales en servicios REST documentados y desplegados, alineados con los bounded contexts definidos en la arquitectura del sistema. La implementación de endpoints para parking, reservas, recibos, suscripciones y detección de spots permitió consolidar la lógica de negocio de SpotGo en una capa de servicios real y consumible.
+
+* Sobre la documentación de servicios: La documentación de todos los endpoints mediante OpenAPI/Swagger permitió establecer un contrato claro entre el frontend y el backend, facilitando la integración entre ambas capas y la validación de los flujos de usuario por parte del equipo y los stakeholders. Esto contribuyó a reducir ambigüedades y acelerar el proceso de integración.
+
+* Sobre la arquitectura backend: La organización del backend por bounded contexts (Parking, Billing, etc) siguiendo principios de Domain-Driven Design permitió mantener una separación clara de responsabilidades, favoreciendo la escalabilidad y el mantenimiento independiente de cada módulo. El uso de GitFlow con ramas por feature garantizó una integración ordenada y trazable del código.
+
+* Sobre el avance funcional del producto: El Sprint 3 permitió reemplazar progresivamente los datos simulados por servicios reales, habilitando flujos end-to-end funcionales tanto para el rol de conductor como para el de administrador. El despliegue del backend en Railway y su integración con el frontend desplegado en Vercel representan un avance significativo hacia un producto completamente funcional.
+
+* Conclusión general del proyecto: Finalmente, se concluye que SpotGo cuenta ahora con una arquitectura full-stack operativa, donde el frontend y el backend trabajan de forma integrada sobre una base de datos PostgreSQL en producción. El trabajo desarrollado en los tres sprints permitió validar el problema, estructurar la solución, materializar la experiencia de usuario y consolidar los servicios que la sustentan, estableciendo una base sólida para futuras iteraciones, integraciones IoT y escalamiento del sistema.
