@@ -165,3 +165,102 @@ Para el segmento de administradores o personal operativo de estacionamiento, se 
 En esta sección se presentará la evaluación heurística de la experiencia de usuario de SpotGo a partir de las interfaces validadas durante las entrevistas. El análisis se realizará considerando principios de usabilidad como visibilidad del estado del sistema, relación entre el sistema y el mundo real, control y libertad del usuario, consistencia, prevención de errores, reconocimiento antes que memoria, flexibilidad de uso, diseño estético y minimalista, ayuda para reconocer errores y disponibilidad de ayuda o documentación.
 
 La evaluación permitirá identificar problemas de usabilidad en las vistas del usuario y del administrador, priorizar su severidad y proponer mejoras concretas para optimizar la experiencia general del sistema. En el caso del usuario final, se revisarán pantallas como Dashboard, Reservations, Subscriptions, Receipts, Favorites y History. En el caso del administrador, se evaluarán Real-time Map, Analytics Dashboard y Settings.
+
+# Tareas a Evaluar
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Buscar estacionamientos disponibles  
+2. Visualizar el mapa en tiempo real  
+3. Reservar espacio de estacionamiento  
+4. Consultar historial de reservas  
+5. Revisar los pagos y suscripciones  
+6. Gestionar parkings favoritos  
+7. Analizar reportes y métricas desde el dashboard  
+8. Administrar empleados  
+
+---
+
+# Tabla de resumen
+
+| # | Problema | Severidad | Heurística violada |
+| - | -------- | --------- | ------------------- |
+| 1 | La información de disponibilidad en el mapa no diferencia claramente los estados de los espacios. | 2 | Reconocimiento antes que recuerdo |
+| 2 | Los módulos de Analytics muestran demasiada información en una sola vista. | 2 | Diseño estético y minimalista |
+| 3 | El historial de reservas mezcla reservas activas y finalizadas sin suficiente diferenciación. | 2 | Prevención de errores |
+| 4 | Los planes y estados de suscripción no se diferencian claramente por color. | 2 | Consistencia y estándares |
+| 5 | Algunas acciones importantes no muestran confirmación visual al completarse. | 2 | Visibilidad del estado del sistema |
+
+---
+
+# Descripción del problema
+
+---
+
+## Problema 1: La disponibilidad de los espacios en el mapa no se distingue claramente
+
+**Severidad:** 2  
+
+**Heurística violada:** Usabilidad - Reconocimiento antes que recuerdo  
+
+**Problema:**  
+En el mapa en tiempo real los espacios disponibles, ocupados y en mantenimiento no presentan diferencias visuales suficientemente claras. Esto obliga al usuario a interpretar cada elemento con mayor atención y dificulta identificar rápidamente los espacios libres.
+
+**Recomendación:**  
+Utilizar colores, iconos o etiquetas más representativas para cada estado, además de una leyenda clara que facilite la interpretación del mapa.
+
+---
+
+## Problema 2: El módulo de Analytics presenta demasiada información en una sola vista
+
+**Severidad:** 2  
+
+**Heurística violada:** Usabilidad - Diseño estético y minimalista  
+
+**Problema:**  
+La vista de Analytics muestra múltiples gráficos y métricas al mismo tiempo, lo que puede dificultar identificar rápidamente la información más importante para la toma de decisiones.
+
+**Recomendación:**  
+Agrupar los indicadores por categorías y priorizar las métricas clave mediante una mejor jerarquía visual.
+
+---
+
+## Problema 3: Las reservas finalizadas aparecen junto con las reservas activas
+
+**Severidad:** 2  
+
+**Heurística violada:** Usabilidad - Prevención de errores  
+
+**Problema:**  
+El historial de reservas muestra registros activos, completados y cancelados sin una separación visual clara. Esto puede generar confusión y hacer que el usuario interprete incorrectamente el estado de una reserva.
+
+**Recomendación:**  
+Separar las reservas activas de las finalizadas o utilizar etiquetas y colores diferenciados para cada estado.
+
+---
+
+## Problema 4: Los planes y estados de suscripción no se diferencian claramente por color
+
+**Severidad:** 2  
+
+**Heurística violada:** Usabilidad - Consistencia y estándares  
+
+**Problema:**  
+En la sección de suscripciones, los colores no permiten diferenciar claramente entre los tipos de plan (gratuito, mensual y anual) ni entre los estados de la suscripción (activo, pendiente o vencido), lo que genera confusión visual.
+
+**Recomendación:**  
+Definir colores consistentes y diferenciados para planes y estados de suscripción, permitiendo una identificación rápida e intuitiva.
+
+---
+
+## Problema 5: Las acciones realizadas no siempre muestran retroalimentación inmediata
+
+**Severidad:** 2  
+
+**Heurística violada:** Usabilidad - Visibilidad del estado del sistema  
+
+**Problema:**  
+Después de realizar acciones como guardar o actualizar información, el sistema no siempre muestra mensajes de confirmación claros, lo que genera incertidumbre en el usuario.
+
+**Recomendación:**  
+Incluir notificaciones, mensajes de éxito o indicadores visuales que confirmen la ejecución correcta de las acciones.
