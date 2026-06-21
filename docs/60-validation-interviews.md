@@ -97,7 +97,7 @@ Para el segmento de administradores o personal operativo de estacionamiento, se 
 | <img src="../assets/images/interviews/validation/01-entrevista-administrador01.png" width="555"/> | <img src="../assets/images/interviews/validation/02-entrevistador01.png" width="140"/> |
 | Inicia | |
 | Duración: | |
-| Nombre completo: | Nicolas Castro Solorza |
+| Nombre completo: | Nicolas Castro |
 | Edad: | 25 años |
 | Distrito: | Cercado de Lima |
 | Resumen: | El entrevistado indicó que los colores utilizados para representar los espacios disponibles, ocupados y en mantenimiento son fáciles de interpretar y permiten identificar rápidamente el estado del estacionamiento. Asimismo, señaló que las métricas principales del panel y la sección de Analytics proporcionan información relevante para supervisar la operación diaria y facilitan la toma de decisiones. Consideró que los filtros de fecha resultan útiles para analizar y comparar el rendimiento en distintos periodos, mientras que la configuración del perfil y del negocio es sencilla de revisar y administrar. También destacó que las acciones de exportar registros, actualizar información y solicitar soporte técnico son fáciles de encontrar y comprender. Finalmente, mencionó que el mapa en tiempo real y las métricas del panel son las funcionalidades más valiosas del sistema, y sugirió incorporar ayudas o descripciones adicionales para facilitar el uso de funciones más avanzadas y mejorar la experiencia de usuarios con menor familiaridad tecnológica. |
@@ -108,56 +108,57 @@ Para el segmento de administradores o personal operativo de estacionamiento, se 
 | <img src="../assets/images/interviews/validation/03-entrevista-administrador02.png" width="555"/> | <img src="../assets/images/interviews/validation/04-entrevistador02.png" width="140"/> |
 | Inicia | |
 | Duración: | |
-| Nombre completo: | Renzo Cumpa Rojas |
+| Nombre completo: | Renzo Cumpa |
 | Edad: | 31 años |
 | Distrito: | Cercado de Lima |
 | Resumen: | El entrevistado manifestó una percepción positiva sobre la interfaz del sistema, indicando que el mapa en tiempo real y el uso de colores para identificar espacios disponibles, ocupados y en mantenimiento son fáciles de interpretar. Asimismo, consideró que las métricas principales y la sección de Analytics proporcionan información relevante para supervisar las operaciones y tomar decisiones rápidas relacionadas con el negocio. También destacó la utilidad de los filtros de fecha y de los indicadores de ingresos, ocupación y disponibilidad, ya que permiten analizar el rendimiento del estacionamiento de manera eficiente. Como aspectos de mejora, señaló que los botones para exportar registros podrían tener una mayor visibilidad y expresó algunas dudas sobre la configuración del perfil y la gestión de información de los trabajadores. En general, resaltó la sección de análisis como la funcionalidad más útil debido a la forma clara y simplificada en que presenta la información necesaria para la administración diaria. |
 
 **Entrevista 3**
-
-| Screenshot: | ![Entrevista S1 3](../assets/images/interviews/validation/entrevista-1-3.png) |
+| Entrevistado: | Entrevistador: Adrián Ruiz |
 | --- | --- |
-| Inicia: |  |
-| Duración:|  |
+| <img src="../assets/images/interviews/validation/05-entrevista-administrador03.png" width="555"/> | <img src="../assets/images/interviews/validation/06-entrevistador03.png" width="140"/> |
+| Inicia | |
+| Duración: | |
 | Nombre completo: |  |
-| Edad: |  |
+| Edad: |  años |
 | Distrito: |  |
 | Resumen: |  |
 
 **Segundo Segmento Objetivo (Conductores y usuarios finales (clientes))**
 
 **Entrevista 1**
-
-| Screenshot: | ![Entrevista S2 1](../assets/images/interviews/validation/entrevista-2-1.png) |
+| Entrevistado: | Entrevistador: Nestor Rojas |
 | --- | --- |
-| Inicia: |  |
-| Duración:|  |
-| Nombre completo: |  |
-| Edad: |  |
-| Distrito: |  |
-| Resumen: |  |
+| <img src="../assets/images/interviews/validation/07-entrevista-conductor01.png" width="555"/> | <img src="../assets/images/interviews/validation/08-entrevistador04.png" width="140"/> |
+| Inicia | |
+| Duración: | |
+| Nombre completo: | Fabio Cordova |
+| Edad: | 24 años |
+| Distrito: | San Isidro |
+| Resumen: | El entrevistado indicó que el dashboard y el mapa permiten identificar rápidamente los estacionamientos cercanos y las zonas con mayor disponibilidad. Asimismo, señaló que la información presentada es clara y no genera sobrecarga visual, por lo que la diferencia entre espacios disponibles y ocupados resulta fácil de comprender. Consideró que las secciones de favoritos, reservas, suscripciones, recibos e historial son intuitivas y muestran la información necesaria para gestionar sus estacionamientos y controlar sus gastos. Además, destacó la utilidad de descargar recibos en PDF y mantener un registro de pagos. Como sugerencia de mejora, propuso incorporar información sobre los espacios más convenientes dentro del estacionamiento y mostrar referencias de acceso cercanas al destino del usuario. Finalmente, mencionó que las reseñas y la posibilidad de verificar la confiabilidad del establecimiento serían factores importantes para aumentar la confianza al momento de realizar una reserva. |
 
 **Entrevista 2**
-
-| Screenshot: | ![Entrevista S2 2](../assets/images/interviews/validation/entrevista-2-2.png) |
+| Entrevistado: | Entrevistador: Johan Contreras |
 | --- | --- |
-| Inicia: |  |
-| Duración:|  |
-| Nombre completo: |  |
-| Edad: |  |
+| <img src="../assets/images/interviews/validation/09-entrevista-conductor02.png" width="555"/> | <img src="../assets/images/interviews/validation/10-entrevistador05.png" width="140"/> |
+| Inicia | |
+| Duración: | |
+| Nombre completo: | Sergio Evangelista |
+| Edad: | años |
 | Distrito: |  |
-| Resumen: |  |
+| Resumen: | El entrevistado destacó que el dashboard y el mapa permiten identificar rápidamente los estacionamientos disponibles gracias a la información presentada de forma clara e intuitiva. Consideró que la diferenciación por colores facilita comprender el estado de los espacios y que las funciones de favoritos y reserva directa desde el mapa contribuyen significativamente al ahorro de tiempo. Asimismo, señaló que las secciones de reservas, recibos e historial son fáciles de utilizar y resultan útiles, especialmente la opción de descargar comprobantes en PDF para llevar un mejor control de gastos. Sin embargo, indicó que la sección de suscripciones podría mejorar, ya que las diferencias entre los planes no son completamente claras y la información podría mostrarse de una manera más visual. Finalmente, mencionó que disponer de información relacionada con la seguridad del estacionamiento, como cámaras o fotografías del lugar, aumentaría su confianza al momento de realizar una reserva. |
 
 **Entrevista 3**
 
-| Screenshot: | ![Entrevista S2 3](../assets/images/interviews/validation/entrevista-2-3.png) |
+| Entrevistado: | Entrevistador: Johan Contreras |
 | --- | --- |
-| Inicia: |  |
-| Duración:|  |
-| Nombre completo: |  |
-| Edad: |  |
+| <img src="../assets/images/interviews/validation/11-entrevista-conductor03.png" width="555"/> | <img src="../assets/images/interviews/validation/12-entrevistador06.png" width="140"/> |
+| Inicia | |
+| Duración: | |
+| Nombre completo: | Matthew Oshiko Okuhama |
+| Edad: |  años |
 | Distrito: |  |
-| Resumen: |  |
+| Resumen: | El entrevistado manifestó que el dashboard y el mapa permiten identificar fácilmente los estacionamientos cercanos y la disponibilidad de espacios gracias al uso de colores e indicadores claros. Asimismo, consideró que las secciones de favoritos, reservas, suscripciones, recibos e historial presentan la información de manera organizada y comprensible, facilitando la gestión de reservas y el acceso a comprobantes de pago. Destacó como especialmente útil la posibilidad de descargar recibos en PDF o enviarlos por correo, así como la opción de realizar reservas directamente desde el mapa, ya que contribuye a ahorrar tiempo. Además, señaló que contar con fotografías del estacionamiento, opiniones de otros usuarios e información sobre la seguridad y los servicios ofrecidos aumentaría la confianza al momento de realizar una reserva. Finalmente, indicó que la interfaz es intuitiva y fácil de utilizar, aunque sugirió incorporar mensajes de ayuda o descripciones adicionales para facilitar la adaptación de los nuevos usuarios. |
 
 ## 5.3.3. Evaluaciones según heurísticas
 
