@@ -38,7 +38,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
 
 **Trello link:** [https://trello.com/invite/b/6a3044b58529d68c1f19afee/ATTIa322332a59d2dc5bf472752e3591fc3f5CBEB433/axiora-trello](https://trello.com/invite/b/6a3044b58529d68c1f19afee/ATTIa322332a59d2dc5bf472752e3591fc3f5CBEB433/axiora-trello )
 
-![Sprint Backlog 3](../assets/images/others/s3-sprint-backlog.png)
+<img src="../assets/images/others/s3-sprint-backlog.png" alt="Sprint Backlog 3" style="width: 100vw;">
 
 | User Story Id | User Story Title | Work-Item / Task Id | Work-Item / Task Title | Description | Estimation (Hours) | Assigned To | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -104,15 +104,15 @@ Para mostrar la interacción, ejecutamos algunos endpoints.
 
 1. GET /api/v1/receipts el cual nos permite buscar todos los recibos y/o buscar recibos por bookingCode.
 
-![GET receipts](../assets/images/others/GET-receipts.png)
+<img src="../assets/images/others/GET-receipts.png" alt="GET receipts" style="width: 100vw;">
 
 2. POST /api/v1/reservations el cual nos permite añadir una reserva a la base de datos.
 
-![POST reservations](../assets/images/others/POST-reservations.png)
+<img src="../assets/images/others/POST-reservations.png" alt="POST reservations" style="width: 100vw;">
 
 3. PUT /api/v1/subscriptions/{subscriptionId} el cual nos permite actualizar la información de una suscripción.
 
-![PUT subscriptions](../assets/images/others/PUT-subscriptions.png)
+<img src="../assets/images/others/PUT-subscriptions.png" alt="PUT subscriptions" style="width: 100vw;">
 
 #### *5.2.3.7. Software Deployment Evidence for Sprint Review*
 
@@ -120,11 +120,11 @@ Durante el Sprint 3 se realizó el despliegue del backend de SpotGo en un entorn
 
 **Swagger Documentation Link:** [https://spotgo-backend-axiora.up.railway.app/swagger-ui/index.html](https://spotgo-backend-axiora.up.railway.app/swagger-ui/index.html)
 
-![Deployment for Sprint 3 Part 1](../assets/images/others/s3-deployment-1.png)
+<img src="../assets/images/others/s3-deployment-1.png" alt="Deployment for Sprint 3 Part 1" style="width: 100vw;">
 
-![Deployment for Sprint 3 Part 2](../assets/images/others/s3-deployment-2.png)
+<img src="../assets/images/others/s3-deployment-2.png" alt="Deployment for Sprint 3 Part 2" style="width: 100vw;">
 
-![Deployment for Sprint 3 Part 3](../assets/images/others/s3-deployment-3.png)
+<img src="../assets/images/others/s3-deployment-3.png" alt="Deployment for Sprint 3 Part 3" style="width: 100vw;">
 
 #### *5.2.3.8. Team Collaboration Insights during Sprint*
 
@@ -132,4 +132,5 @@ Para la organización técnica del desarrollo del Backend, el equipo adoptó un 
 
 A continuación se presenta la evidencia de las interacciones y control de colaboración registrados durante el transcurso de este Sprint:
 
-![Team Insights Sprint 3](../assets/images/others/s3-insights.png)
+<img src="../assets/images/others/s3-insights-review.png" alt="Team Insights Sprint 3 Review" style="width: 100vw;">
+<img src="../assets/images/others/s3-insights.png" alt="Team Insights Sprint 3" style="width: 100vw;">
