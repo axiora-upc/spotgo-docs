@@ -160,7 +160,24 @@ En esta sección se presentará la evaluación heurística de la experiencia de 
 
 La evaluación permitirá identificar problemas de usabilidad en las vistas del usuario y del administrador, priorizar su severidad y proponer mejoras concretas para optimizar la experiencia general del sistema. En el caso del usuario final, se revisarán pantallas como Dashboard, Reservations, Subscriptions, Receipts, Favorites y History. En el caso del administrador, se evaluarán Real-time Map, Analytics Dashboard y Settings.
 
-**Tareas a Evaluar
+## UX Heuristics & Principles Evaluation  
+**Usability – Inclusive Design – Information Architecture**
+
+**CARRERA:** Ingeniería de Software  
+**CURSO:** Desarrollo de Aplicaciones Open Source  
+**SECCIÓN:** 12029  
+**PROFESORES:** Todos  
+**AUDITOR:** Equipo de evaluación UX SpotGo  
+**CLIENTE(S):** Usuarios del sistema SpotGo  
+
+---
+
+### SITE o APP A EVALUAR:
+**SpotGo**
+
+---
+
+## TAREAS A EVALUAR:
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
@@ -173,64 +190,106 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 7. Analizar reportes y métricas desde el dashboard  
 8. Administrar empleados  
 
-**Tabla de resumen**
+---
 
-| # | Problema | Severidad | Heurística violada |
-| --- | --- | --- | --- |
-| 1 | La información de disponibilidad en el mapa no diferencia claramente los estados de los espacios. | 2 | Reconocimiento antes que recuerdo |
-| 2 | Los módulos de Analytics muestran demasiada información en una sola vista. | 2 | Diseño estético y minimalista |
-| 3 | El historial de reservas mezcla reservas activas y finalizadas sin suficiente diferenciación. | 2 | Prevención de errores |
-| 4 | Los planes y estados de suscripción no se diferencian claramente por color. | 2 | Consistencia y estándares |
-| 5 | Algunas acciones importantes no muestran confirmación visual al completarse. | 2 | Visibilidad del estado del sistema |
+## ESCALA DE SEVERIDAD:
 
-**Descripción del problema**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
-*Problema 1: La disponibilidad de los espacios en el mapa no se distingue claramente*
+| Nivel | Descripción |
+|------|-------------|
+| 1 | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al siguiente release. |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
 
-**Severidad:** 2  
+---
 
-**Heurística violada:** Usabilidad - Reconocimiento antes que recuerdo  
+## TABLA RESUMEN:
 
-**Problema:** En el mapa en tiempo real los espacios disponibles, ocupados y en mantenimiento no presentan diferencias visuales suficientemente claras. Esto obliga al usuario a interpretar cada elemento con mayor atención y dificulta identificar rápidamente los espacios libres.
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+|---|----------|---------------------|----------------------------------|
+| 1 | La información de disponibilidad en el mapa no diferencia claramente los estados de los espacios. | 2 | Usability: Reconocimiento antes que recuerdo |
+| 2 | Los módulos de Analytics muestran demasiada información en una sola vista. | 2 | Usability: Diseño estético y minimalista |
+| 3 | El historial de reservas mezcla reservas activas y finalizadas sin suficiente diferenciación. | 2 | Usability: Prevención de errores |
+| 4 | Los planes y estados de suscripción no se diferencian claramente por color. | 2 | Usability: Consistencia y estándares |
+| 5 | Algunas acciones importantes no muestran confirmación visual al completarse. | 2 | Usability: Visibilidad del estado del sistema |
 
-**Recomendación:** Utilizar colores, iconos o etiquetas más representativas para cada estado, además de una leyenda clara que facilite la interpretación del mapa.
+---
 
-*Problema 2: El módulo de Analytics presenta demasiada información en una sola vista*
+## DESCRIPCIÓN DE PROBLEMAS:
 
-**Severidad:** 2  
+---
 
-**Heurística violada:** Usabilidad - Diseño estético y minimalista  
-
-**Problema:** La vista de Analytics muestra múltiples gráficos y métricas al mismo tiempo, lo que puede dificultar identificar rápidamente la información más importante para la toma de decisiones.
-
-**Recomendación:** Agrupar los indicadores por categorías y priorizar las métricas clave mediante una mejor jerarquía visual.
-
-*Problema 3: Las reservas finalizadas aparecen junto con las reservas activas*
-
-**Severidad:** 2  
-
-**Heurística violada:** Usabilidad - Prevención de errores  
-
-**Problema:** El historial de reservas muestra registros activos, completados y cancelados sin una separación visual clara. Esto puede generar confusión y hacer que el usuario interprete incorrectamente el estado de una reserva.
-
-**Recomendación:** Separar las reservas activas de las finalizadas o utilizar etiquetas y colores diferenciados para cada estado.
-
-*Problema 4: Los planes y estados de suscripción no se diferencian claramente por color*
+### PROBLEMA #1: La disponibilidad de los espacios en el mapa no se distingue claramente
 
 **Severidad:** 2  
+**Heurística violada:** Usability - Reconocimiento antes que recuerdo  
 
-**Heurística violada:** Usabilidad - Consistencia y estándares  
+**Problema:**  
+En el mapa en tiempo real de SpotGo, los espacios disponibles, ocupados y en mantenimiento no presentan diferencias visuales suficientemente claras. Esto obliga al usuario a interpretar cada elemento con mayor atención y dificulta identificar rápidamente los espacios libres disponibles.
 
-**Problema:** En la sección de suscripciones, los colores no permiten diferenciar claramente entre los tipos de plan (gratuito, mensual y anual) ni entre los estados de la suscripción (activo, pendiente o vencido), lo que genera confusión visual.
+(Incluir además una captura de pantalla ilustrando el problema).
 
-**Recomendación:** Definir colores consistentes y diferenciados para planes y estados de suscripción, permitiendo una identificación rápida e intuitiva.
+**Recomendación:**  
+Utilizar colores, íconos o etiquetas más representativas para cada estado de los espacios, además de una leyenda clara que facilite la interpretación del mapa.
 
-*Problema 5: Las acciones realizadas no siempre muestran retroalimentación inmediata*
+---
+
+### PROBLEMA #2: El módulo de Analytics presenta demasiada información en una sola vista
 
 **Severidad:** 2  
+**Heurística violada:** Usability - Diseño estético y minimalista  
 
-**Heurística violada:** Usabilidad - Visibilidad del estado del sistema  
+**Problema:**  
+La vista de Analytics en SpotGo muestra múltiples gráficos y métricas al mismo tiempo, lo que puede dificultar identificar rápidamente la información más importante para la toma de decisiones.
 
-**Problema:** Después de realizar acciones como guardar o actualizar información, el sistema no siempre muestra mensajes de confirmación claros, lo que genera incertidumbre en el usuario.
+(Incluir además una captura de pantalla ilustrando el problema).
 
-**Recomendación:** Incluir notificaciones, mensajes de éxito o indicadores visuales que confirmen la ejecución correcta de las acciones.
+**Recomendación:**  
+Agrupar los indicadores por categorías y priorizar las métricas clave mediante una jerarquía visual más clara.
+
+---
+
+### PROBLEMA #3: Las reservas finalizadas aparecen junto con las reservas activas
+
+**Severidad:** 2  
+**Heurística violada:** Usability - Prevención de errores  
+
+**Problema:**  
+El historial de reservas en SpotGo muestra registros activos, completados y cancelados sin una separación visual clara. Esto puede generar confusión e inducir al usuario a interpretar incorrectamente el estado de una reserva.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+**Recomendación:**  
+Separar las reservas activas de las finalizadas o utilizar etiquetas y colores diferenciados para cada estado.
+
+---
+
+### PROBLEMA #4: Los planes y estados de suscripción no se diferencian claramente por color
+
+**Severidad:** 2  
+**Heurística violada:** Usability - Consistencia y estándares  
+
+**Problema:**  
+En SpotGo, los colores utilizados para los planes (gratuito, mensual, anual) y los estados de suscripción (activo, pendiente, vencido) no permiten una diferenciación clara, generando confusión en la interpretación de la información.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+**Recomendación:**  
+Definir una convención visual consistente para planes y estados de suscripción, asegurando colores distintos y fácilmente reconocibles para cada categoría.
+
+---
+
+### PROBLEMA #5: Algunas acciones importantes no muestran confirmación visual al completarse
+
+**Severidad:** 2  
+**Heurística violada:** Usability - Visibilidad del estado del sistema  
+
+**Problema:**  
+En SpotGo, después de realizar acciones como guardar, actualizar o confirmar una operación, el sistema no siempre muestra una retroalimentación clara al usuario, lo que genera incertidumbre sobre si la acción fue completada correctamente.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+**Recomendación:**  
+Incluir mensajes de éxito, notificaciones tipo toast o indicadores visuales que confirmen la ejecución correcta de las acciones realizadas.
