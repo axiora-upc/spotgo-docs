@@ -24,7 +24,7 @@ Para el desarrollo del tercer sprint nos centramos en el elaboración del backen
 
 A continuación se detalla la matriz de liderazgo y colaboración (LACX) para brindar claridad en la comunicación del equipo durante el desarrollo de las tareas de este Sprint.
 
-| Team Member (Last Name, First Name) | GitHub Username | Develop | Billing | Parking | Profiles | Monitoring |
+| Team Member (Last Name, First Name) | GitHub Username | Parking | Monitoring | RESTful Config | Frontend Interceptor | Billing |
 | --- | --- | --- | --- | --- | --- | --- |
 | Ruiz Mideyros, Adrian | @AdrixRyz | L | C | C | C | C |
 | Rojas Tello, Nestor Alonso | @nes-ro | C | L | C | C | C |
@@ -78,26 +78,17 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
 #### *5.2.3.4. Development Evidence for Sprint Review*
 
 | Repository | Branch | Commit Id | Commit Message | Committed By | Commit Date |
-|---|---|---|---|---|---|
-| spotgo-backend | main | 22fb0c5 | Merge pull request #6 from axiora-upc/develop | CesarJrCR | 2026-06-20 |
-| spotgo-backend | develop | eb91983 | feat: backend first version | AdrixRyz | 2026-06-20 |
-| spotgo-backend | develop | 7c20334 | docs: add README.md | AdrixRyz | 2026-06-20 |
-| spotgo-backend | develop | 69bc668 | fix: swagger documentation | AdrixRyz | 2026-06-20 |
-| spotgo-backend | develop | 48a986c | feat: align backend API with frontend format | AdrixRyz | 2026-06-20 |
-| spotgo-backend | develop | 3da7505 | fix: naming mistake | AdrixRyz | 2026-06-20 |
-| spotgo-backend | main | ef0cb5e | Merge pull request #5 from axiora-upc/feature/parking | AdrixRyz | 2026-06-20 |
-| spotgo-backend | feature/parking | 5c9ba8e | feat: update database backend connections | AdrixRyz | 2026-06-20 |
-| spotgo-backend | main | 193a3bf | fix: enable JPA auditing | AdrixRyz | 2026-06-18 |
-| spotgo-backend | main | 5a7db6a | Merge pull request #4 from axiora-upc/feature/billing-module | johancg04 | 2026-06-18 |
-| spotgo-backend | feature/billing-module | 66ecdb9 | feat(billing): add billing bounded context | Jobi | 2026-06-18 |
-| spotgo-backend | main | 15ec769 | Merge pull request #3 from axiora-upc/feature/parking | AdrixRyz | 2026-06-18 |
-| spotgo-backend | feature/parking | 525852a | feat: add support for detected spots creation | AdrixRyz | 2026-06-18 |
-| spotgo-backend | main | af1923d | Merge pull request #2 from axiora-upc/feature/parking | AdrixRyz | 2026-06-18 |
-| spotgo-backend | feature/parking | 27c8fee | feat: configure production profile and endpoints for spring boot | AdrixRyz | 2026-06-18 |
-| spotgo-backend | main | 642874c | Merge pull request #1 from axiora-upc/feature/parking | AdrixRyz | 2026-06-18 |
-| spotgo-backend | feature/parking | 6c33093 | feat(parking): implement parking module | AdrixRyz | 2026-06-18 |
+| --- | --- | --- | --- | --- | --- |
 | spotgo-backend | main | 90a34f8 | chore: initial project setup | AdrixRyz | 2026-06-15 |
-| spotgo-backend | main | b5693f5 | Initial commit | AdrixRyz | 2026-04-08 |
+| spotgo-backend | feature/parking | 6c33093 | feat: implement parking module | AdrixRyz | 2026-06-18 |
+| spotgo-backend | feature/parking | 27c8fee | feat: configure production profile and endpoints for spring boot | AdrixRyz | 2026-06-18 |
+| spotgo-backend | feature/parking | 525852a | feat: add support for detected spots creation | AdrixRyz | 2026-06-18 |
+| spotgo-backend | feature/billing | 66ecdb9 | feat(billing): add billing bounded context | johancg04 | 2026-06-18 |
+| spotgo-backend | feature/parking | 5c9ba8e | feat: update database backend connections | AdrixRyz | 2026-06-20 |
+| spotgo-backend | develop | eb91983 | feat: backend first version | AdrixRyz | 2026-06-20 |
+| spotgo-backend | develop | 48a986c | feat: align backend API with frontend format | AdrixRyz | 2026-06-20 |
+| spotgo-backend | feature/monitoring | 7e641de | feat: add base of monitoring | nes-ro | 2026-06-20 |
+| spotgo-backend | feature/monitoring | bfdf832 | feat: add endpoints configurationsof employees, occupancy, and weekly trends | nes-ro | 2026-06-20 |
 
 #### *5.2.3.5. Execution Evidence for Sprint Review*
 
@@ -117,11 +108,15 @@ Durante el Sprint 3 se documentaron los endpoints REST correspondientes a los co
 
 | Recurso | Endpoint Base | Acciones Implementadas |
 | --- | --- | --- |
-| Parkings | `/api/v1/parkings` | GET, POST, PATCH por ID |
+| Employees | `/api/v1/employees` | GET, POST, PUT por ID, DELETE por ID |
 | Blueprints | `/api/v1/blueprints` | GET, POST, DELETE por ID, GET por parking |
+| Client Reports | `/api/v1/clientReports` | GET, POST, PATCH por ID |
+| Occupancy By Hour | `/api/v1/occupancyByHour` | GET |
+| Weekly Trends | `/api/v1/weeklyTrends` | GET |
 | Detected Spots | `/api/v1/detectedSpots` | GET, POST, PATCH status por ID, GET por blueprint |
-| Reservations | `/api/v1/reservations` | GET, POST |
+| Parkings | `/api/v1/parkings` | GET, POST, PATCH por ID |
 | Receipts | `/api/v1/receipts` | GET, POST, GET por ID, DELETE |
+| Reservations | `/api/v1/reservations` | GET, POST |
 | Client Plans | `/api/v1/clientPlans` | GET, GET por ID |
 | Subscriptions | `/api/v1/subscriptions` | GET, POST, GET por ID, PUT, PATCH |
 
