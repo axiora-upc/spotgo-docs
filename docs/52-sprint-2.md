@@ -41,38 +41,16 @@ El sprint Backlog se centra en la elaboración del frontend principal de SpotGo,
 
 | User Story Id | User Story Title | Work-Item / Task Id | Work-Item / Task Title | Description | Estimation (Hours) | Assigned To | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| US01 | Client Registration | TS01.1 | Develop User Registration Module | Ejecutar formulario de registro de usuarios con validación de credenciales y persistencia de datos. | 4 | @AdrixRyz | To Do |
-| US02 | User Login | TS02.1 | Develop Authentication Module | Poner en marcha el inicio de sesión seguro con validación de credenciales y generación de tokens. | 4 | @CesarJrCR | To Do |
-| US03 | B2B Tenant Registration | TS03.1 | Develop Tenant Registration Module | Aplicar el registro de nuevos tenants y generación de credenciales administrativas. | 4 | @AdrixRyz | To Do |
-| US04 | Staff Profile Assignment | TS04.1 | Develop Staff Profile Assignment Module | Poner en marcha asignación y revocación de perfiles Staff para vehículos autorizados. | 3 | @AdrixRyz | Done |
-| US05 | Upload Parking Croquis | TS05.1 | Develop Croquis Upload Module | Implementar el módulo de carga de croquis permitiendo subir imágenes PNG/JPG y validar formatos soportados. | 4 | @nes-ro | Done |
-| US06 | Automatic Digital Map Generation | TS06.1 | Develop Automatic Map Generator | Aplicar la lógica de procesamiento del croquis para generar automáticamente zonas y espacios del estacionamiento. | 3 | @johancg04 | In Progress |
-| US07 | Configure Parking Zones | TS07.1 | Develop Parking Zone Manager | Poner en practica la configuración y asignación de zonas de estacionamiento para visitantes, taxis y personal. | 3 | @AdrixRyz | In Progress |
-| US08 | Smart Routing Execution | TS08.1 | Develop Smart Routing Engine | Implementar el motor de enrutamiento inteligente para asignar espacios según el perfil del vehículo detectado. | 4 | @CesarJrCR | To Do |
-| US09 | Entry Barrier Check-in | TS09.1 | Implement Entry Barrier Automation | Aplicar la automatización de apertura de barrera basada en validación de acceso y asignación de espacio. | 2 | @AdrixRyz | In Progress |
-| US10 | Virtual Ticket Generation | TS10.1 | Develop Virtual Ticket Module | Llevar a cabo la generación y visualización de tickets virtuales con información del espacio asignado. | 3 | @nes-ro | Done |
-| US11 | Spot Occupancy Detection | TS11.1 | Develop Occupancy Detection Logic | Aplicar la lógica de actualización automática del estado de ocupación mediante sensores IoT. | 3 | @johancg04 | Done |
-| US12 | Spot Availability Detection | TS12.1 | Develop Spot Availability Tracker | Poner en marcha la actualización automática de disponibilidad de espacios mediante sensores IoT. | 4 | @CesarJrCR | Done |
-| US13 | Unauthorized Parking Detection | TS13.1 | Develop Parking Infraction Detection | Implementar la detección de estacionamiento no autorizado según reglas de zonas y perfiles. | 2 | @CesarJrCR | Done |
-| US14 | Availability Alerts | TS14.1 | Develop Alert Notification System | Poner en marcha sistema de alertas en tiempo real para ocupación alta e infracciones. | 4 | @nes-ro | Done |
-| US15 | Real-time Admin Dashboard | TS15.1 | Develop Real-time Monitoring Dashboard | Poner en marcha dashboard en tiempo real con visualización dinámica de ocupación y filtros por zonas. | 4 | @CesarJrCR | Done |
-| US16 | Client Occupancy View | TS16.1 | Develop Client Parking Map View | Implementar vista interactiva para clientes mostrando espacios disponibles y rutas asignadas. | 3 | @CesarJrCR | Done |
-| US17 | B2C Digital Payment | TS17.1 | Integrate Digital Payment Gateway | Integrar pagos digitales mediante Stripe API para autorización de checkout. | 3 | @johancg04 | In Progress |
-| US18 | B2C Monthly Subscription | TS18.1 | Develop Subscription Management Module | Poner en marcha la gestión de suscripciones mensuales y renovación automática de planes. | 2 | @johancg04 | In Progress |
-| US19 | B2B SaaS Subscription Payment | TS19.1 | Develop SaaS Billing Module | Poner en practica pagos recurrentes y actualización de planes SaaS para administradores B2B. | 2 | @johancg04 | In Progress |
-| US20 | Service Suspension Warning | TS20.1 | Develop Payment Failure Alert System | Aplicar alertas automáticas de suspensión por fallos en pagos recurrentes. | 4 | @R3memo | To Do |
-| US21 | Automated Electronic Billing | TS21.1 | Develop Electronic Billing Integration | Llevar a cabo generación automática de comprobantes electrónicos compatibles con SUNAT. | 3 | @CesarJrCR | Done |
-| US22 | View Digital Receipts | TS22.1 | Develop Digital Receipt Viewer | Implementar módulo para visualizar y descargar comprobantes electrónicos en PDF. | 3 | @CesarJrCR | Done |
-| US23 | Admin B2B Billing Panel | TS23.1 | Develop Billing Administration Panel | Ejecutar el panel administrativo para visualización de facturas y datos tributarios. | 4 | @R3memo | To Do |
-| US24 | Exit Barrier Authorization | TS24.1 | Implement Exit Authorization Module | Poner en practica validación automática de pago y apertura de barrera de salida. | 2 | @AdrixRyz | In Progress |
-| US25 | Landing Page Value Proposition | TS25.1 | Develop Static Landing Page | Crear landing page estática con HTML/CSS/JS puro mostrando las funcionalidades del sistema. | 3 | @nes-ro | Done |
-| US26 | Landing Page Navigation | TS26.1 | Implement Landing Page Navigation | Configurar navegación por anclas y redirección a la Web App mediante enlaces estáticos. | 2 | @nes-ro | Done |
-| US27 | Product Promotional Video | TS27.1 | Embed Promotional Video | Integrar video promocional de YouTube con fallback a imagen estática. | 2 | @nes-ro | To Do |
-| US28 | Asynchronous Payment Confirmation | TS28.1 | Develop Stripe Webhook Integration | Ejecutar los endpoint webhook para procesar confirmaciones asíncronas de Stripe. | 2 | @CesarJrCR | To Do |
-| US29 | Screen Reader Accessibility | TS29.1 | Implement Accessibility Enhancements | Configurar atributos ARIA y navegación accesible mediante teclado en la Web App. | 4 | @R3memo | In Progress |
-| US30 | Platform Language Selection | TS30.1 | Implement Internationalization Support | Configurar soporte i18n para Inglés y Español en la aplicación Angular. | 3 | @johancg04 | Done |
-| US31 | API Integration Documentation | TS31.1 | Generate Swagger API Documentation | Generar documentación OpenAPI mediante Swagger para todos los endpoints RESTful. | 3 | @johancg04 | To Do |
-| US32 | Landing Page Language Switcher | TS32.1 | Implement JS Dictionary | Crear el script Vanilla JS para alternar los nodos de texto entre Español e Inglés del DOM. | 4 | @nes-ro | Done |
+| US05 | Upload Parking Croquis | TS05.1 | Develop Croquis Upload Module | Implementar el módulo de carga de croquis permitiendo subir imágenes PNG/JPG y validar formatos soportados. | 4 | @nes-ro | In Progress |
+| US09 | Virtual Receipt Generation | TS09.1 | Develop Virtual Ticket Module | Llevar a cabo la generación y visualización de tickets virtuales con información del espacio asignado. | 3 | @nes-ro | Done |
+| US10 | Spot Occupancy Detection | TS10.1 | Develop Occupancy Detection Logic | Aplicar la lógica de actualización automática del estado de ocupación. | 3 | @johancg04 | In Progress |
+| US11 | Spot Availability Detection | TS11.1 | Develop Spot Availability Tracker | Poner en marcha la actualización automática de disponibilidad de espacios. | 4 | @CesarJrCR | In Progress |
+| US13 | Availability Alerts | TS13.1 | Develop Alert Notification System | Poner en marcha sistema de alertas en tiempo real para ocupación alta e infracciones. | 4 | @nes-ro | Done |
+| US14 | Real-time Admin Dashboard | TS14.1 | Develop Real-time Monitoring Dashboard | Poner en marcha dashboard en tiempo real con visualización dinámica de ocupación y filtros por zonas. | 4 | @CesarJrCR | Done |
+| US15 | Client Occupancy View | TS15.1 | Develop Client Parking Map View | Implementar vista interactiva para clientes mostrando espacios disponibles y rutas asignadas. | 3 | @CesarJrCR | Done |
+| US20 | Automated Electronic Billing | TS20.1 | Develop Electronic Billing Integration | Llevar a cabo generación automática de comprobantes electrónicos compatibles con SUNAT. | 3 | @CesarJrCR | Done |
+| US21 | View Digital Receipts | TS21.1 | Develop Digital Receipt Viewer | Implementar módulo para visualizar y descargar comprobantes electrónicos en PDF. | 3 | @CesarJrCR | Done |
+| US28 | Platform Language Selection | TS28.1 | Implement Internationalization Support | Configurar soporte i18n para Inglés y Español en la aplicación Angular. | 3 | @johancg04 | Done |
 
 ## 5.2.2.4. Development Evidence for Sprint Review
 
