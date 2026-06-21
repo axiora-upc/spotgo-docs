@@ -51,7 +51,7 @@ El sprint backlog se estructuró en torno a la creación de una Landing Page est
 
 En la siguiente tabla se resumen los principales commits realizados en los repositorios de SpotGo correspondientes al alcance del primer Sprint, aplicando Conventional Commits.
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on |
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on |
 | --- | --- | --- | --- | --- | --- |
 | axiora-upc/spotgo-landing | feature/struct | 0ea6e9e | feat: add initial structure | Implementa la estructura principal del proyecto así como el header y el footer. | 2026-04-24 |
 | axiora-upc/spotgo-landing | feature/hero-trustedbar-drivers | a5693ee | feat: add structure and styles of hero, trustedbar and drivers section | Implementa las secciones de hero, trustedbar y drivers section. | 2026-04-24 |
@@ -69,7 +69,7 @@ Durante este Sprint, el equipo logró implementar la versión inicial del Landin
 *Figura 84 (Landing Page - Lang)*
 ![Landing Page - Lang](../assets/images/figures/84-landing-page-lang.png)
 
-Video de Demostración de Navegación de la Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e177_upc_edu_pe/IQDYdXQpcuFATYFoR1HYgMP_AQa4ZqLQcXEe6XCnQa2-WBY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rETy8f
+**Landing Page Demostration Video:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e177_upc_edu_pe/IQDYdXQpcuFATYFoR1HYgMP_AQa4ZqLQcXEe6XCnQa2-WBY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rETy8f](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e177_upc_edu_pe/IQDYdXQpcuFATYFoR1HYgMP_AQa4ZqLQcXEe6XCnQa2-WBY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rETy8f)
 
 #### *5.2.1.6. Services Documentation Evidence for Sprint Review*
 
@@ -79,7 +79,7 @@ N/A. Durante el Sprint 1 el esfuerzo de desarrollo se enfocó exclusivamente en 
 
 Para el despliegue continuo (CI/CD) de este Sprint, se configuró el entorno de GitHub Pages conectado directamente al repositorio de GitHub del Landing Page estático, permitiendo publicaciones automáticas y ultra-rápidas con cada PR fusionado en la rama main.
 
-![Software Deployment for Sprint 1 2](../assets/images/others/s1-deployment.png)
+![Software Deployment for Sprint 1](../assets/images/others/s1-deployment.png)
 
 #### *5.2.1.8. Team Collaboration Insights during Sprint*
 

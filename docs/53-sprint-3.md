@@ -2,7 +2,7 @@
 
 #### *5.2.3.1. Sprint Planning 3*
 
-Para el desarrollo del tercer sprint nos centramos en el elaboración del backend de nuestra aplicación, para ello lo dividimos de acuerdo a la cantidad de bounded context con cada integrante del grupo (fueron 5 bounded context, 1 por cada integrante). El back sera elaborado teniendo en cuenta el flujo de datos del Diagrama de Base de datos.
+Para el desarrollo del tercer sprint nos centramos en el elaboración del backend de nuestra aplicación, para ello lo dividimos de acuerdo a la cantidad de bounded context con cada integrante del grupo (fueron 5 bounded context, 1 por cada integrante). El back será elaborado teniendo en cuenta el flujo de datos del Diagrama de Base de datos.
 
 | **Sprint #** | 3 |
 | --- | --- |
@@ -38,20 +38,20 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
 
 **Trello link:** [https://trello.com/invite/b/6a3044b58529d68c1f19afee/ATTIa322332a59d2dc5bf472752e3591fc3f5CBEB433/axiora-trello](https://trello.com/invite/b/6a3044b58529d68c1f19afee/ATTIa322332a59d2dc5bf472752e3591fc3f5CBEB433/axiora-trello )
 
-<img src="../assets/images/others/s3-sprint-backlog.png" alt="Sprint Backlog 3" style="width: 100vw;">
+![Sprint Backlog 3](../assets/images/others/s3-sprint-backlog.png)
 
 | User Story Id | User Story Title | Work-Item / Task Id | Work-Item / Task Title | Description | Estimation (Hours) | Assigned To | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | US05 | Upload Parking Croquis | TS05.1 | Develop Croquis Upload Module | Implementar el módulo de carga de croquis permitiendo subir imágenes PNG/JPG y validar formatos soportados. | 4 | @nes-ro | Done |
-| US09 | Virtual Receipt Generation | TS09.1 | Develop Virtual Ticket Module | Llevar a cabo la generación y visualización de tickets virtuales con información del espacio asignado. | 3 | @nes-ro | Done |
+| US09 | Virtual Receipt Generation | TS09.1 | Develop Virtual Receipt Module | Llevar a cabo la generación y visualización de recibos virtuales con información del espacio asignado. | 3 | @nes-ro | Done |
 | US10 | Spot Occupancy Detection | TS10.1 | Develop Occupancy Detection Logic | Aplicar la lógica de actualización automática del estado de ocupación mediante sensores IoT. | 3 | @johancg04 | Done |
-| US11 | Spot Availability Detection | TS11.1 | Develop Spot Availability Tracker | Poner en marcha la actualización automática de disponibilidad de espacios mediante sensores IoT. | 4 | @CesarJrCR | Done |
+| US11 | Spot Availability Detection | TS11.1 | Develop Spot Availability Tracker | Poner en marcha la actualización automática de disponibilidad de espacios. | 4 | @CesarJrCR | Done |
 | US13 | Availability Alerts | TS13.1 | Develop Alert Notification System | Poner en marcha sistema de alertas en tiempo real para ocupación alta e infracciones. | 4 | @nes-ro | Done |
 | US14 | Real-time Admin Dashboard | TS14.1 | Develop Real-time Monitoring Dashboard | Poner en marcha dashboard en tiempo real con visualización dinámica de ocupación y filtros por zonas. | 4 | @CesarJrCR | Done |
 | US15 | Client Occupancy View | TS15.1 | Develop Client Parking Map View | Implementar vista interactiva para clientes mostrando espacios disponibles y rutas asignadas. | 3 | @CesarJrCR | Done |
 | US20 | Automated Electronic Billing | TS20.1 | Develop Electronic Billing Integration | Llevar a cabo generación automática de comprobantes electrónicos compatibles con SUNAT. | 3 | @CesarJrCR | Done |
 | US21 | View Digital Receipts | TS21.1 | Develop Digital Receipt Viewer | Implementar módulo para visualizar y descargar comprobantes electrónicos en PDF. | 3 | @CesarJrCR | Done |
-| US28 | Platform Language Selection | TS28.1 | Implement Internationalization Support | Configurar soporte i18n para Inglés y Español en la aplicación Angular. | 3 | @johancg04 | Done |
+| US25 | Product Promotional Video | TS21.1 | Develop Promotional Video | Hacer un video promocional del aplicativo. | 3 | @CesarJrCR | Done |
 
 #### *5.2.3.4. Development Evidence for Sprint Review*
 
@@ -70,7 +70,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
 
 #### *5.2.3.5. Execution Evidence for Sprint Review*
 
-Durante el Sprint 3 se logró avanzar en la integración funcional entre el frontend y los servicios backend desarrollados para los principales flujos de SpotGo. Se implementaron y validaron vistas relacionadas, las reservas, suscripciones, recibos, parking favoritos, historial de parkings en lo que respecta a la vista de usuario y mapa en tiempo real, reportes, lista de empleados, sección de analytics y configuración para adiministrador. Reemplazando progresivamente el uso de datos simulados por peticiones reales a la API. Las evidencias de ejecución presentadas en esta sección muestran las principales vistas implementadas y permiten comprobar que los usuarios pueden interactuar con funcionalidades clave del sistema dentro del alcance definido para el Sprint.
+Durante el Sprint 3 se logró avanzar en la integración funcional entre el frontend y los servicios backend desarrollados para los principales flujos de SpotGo. Se implementaron y validaron vistas relacionadas, las reservas, suscripciones, recibos, parking favoritos, historial de parkings en lo que respecta a la vista de usuario y mapa en tiempo real, reportes, lista de empleados, sección de analytics y configuración para administrador. Reemplazando progresivamente el uso de datos simulados por peticiones reales a la API. Las evidencias de ejecución presentadas en esta sección muestran las principales vistas implementadas y permiten comprobar que los usuarios pueden interactuar con funcionalidades clave del sistema dentro del alcance definido para el Sprint.
 
 **Principales entregables funcionales:**
 
@@ -104,27 +104,27 @@ Para mostrar la interacción, ejecutamos algunos endpoints.
 
 1. GET /api/v1/receipts el cual nos permite buscar todos los recibos y/o buscar recibos por bookingCode.
 
-<img src="../assets/images/others/GET-receipts.png" alt="GET receipts" style="width: 100vw;">
+![GET receipts](../assets/images/others/GET-receipts.png)
 
 2. POST /api/v1/reservations el cual nos permite añadir una reserva a la base de datos.
 
-<img src="../assets/images/others/POST-reservations.png" alt="POST reservations" style="width: 100vw;">
+![POST reservations](../assets/images/others/POST-reservations.png)
 
 3. PUT /api/v1/subscriptions/{subscriptionId} el cual nos permite actualizar la información de una suscripción.
 
-<img src="../assets/images/others/PUT-subscriptions.png" alt="PUT subscriptions" style="width: 100vw;">
+![PUT subscriptions](../assets/images/others/PUT-subscriptions.png)
 
 #### *5.2.3.7. Software Deployment Evidence for Sprint Review*
 
 Durante el Sprint 3 se realizó el despliegue del backend de SpotGo en un entorno de producción utilizando Railway como plataforma de hosting. Este despliegue permitió validar la correcta configuración del entorno, la conexión a la base de datos PostgreSQL y la disponibilidad de los servicios REST implementados para su consumo desde el frontend. La evidencia presentada en esta sección muestra capturas del proceso de despliegue en Railway, confirmando que el backend está operativo y accesible para su integración con el frontend.
 
-**Swagger Documentation Link:** [https://spotgo-backend-axiora.up.railway.app/swagger-ui/index.html](https://spotgo-backend-axiora.up.railway.app/swagger-ui/index.html)
+**Backend Swagger Documentation Link:** [https://spotgo-backend-axiora.up.railway.app/swagger-ui/index.html](https://spotgo-backend-axiora.up.railway.app/swagger-ui/index.html)
 
-<img src="../assets/images/others/s3-deployment-1.png" alt="Deployment for Sprint 3 Part 1" style="width: 100vw;">
+![Deployment for Sprint 3 Part 1](../assets/images/others/s3-deployment-1.png)
 
-<img src="../assets/images/others/s3-deployment-2.png" alt="Deployment for Sprint 3 Part 2" style="width: 100vw;">
+![Deployment for Sprint 3 Part 2](../assets/images/others/s3-deployment-2.png)
 
-<img src="../assets/images/others/s3-deployment-3.png" alt="Deployment for Sprint 3 Part 3" style="width: 100vw;">
+![Deployment for Sprint 3 Part 3](../assets/images/others/s3-deployment-3.png)
 
 #### *5.2.3.8. Team Collaboration Insights during Sprint*
 
@@ -132,5 +132,4 @@ Para la organización técnica del desarrollo del Backend, el equipo adoptó un 
 
 A continuación se presenta la evidencia de las interacciones y control de colaboración registrados durante el transcurso de este Sprint:
 
-<img src="../assets/images/others/s3-insights-review.png" alt="Team Insights Sprint 3 Review" style="width: 100vw;">
-<img src="../assets/images/others/s3-insights.png" alt="Team Insights Sprint 3" style="width: 100vw;">
+![Team Insights Sprint 3](../assets/images/others/s3-insights.png)

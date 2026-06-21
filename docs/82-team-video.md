@@ -4,6 +4,6 @@ En esta sección se presenta el video About-the-Team de Axiora, equipo responsab
 
 Asimismo, se muestra cómo el equipo organizó el trabajo durante las distintas etapas del proyecto, desde la investigación inicial y el diseño de la propuesta, hasta la implementación del frontend, backend, despliegue y validación de SpotGo.
 
-**Video About-the-Team Link:** 
+**Video About-the-Team Link:** https://youtu.be/IRr8sYOzKZo?si=5Ha_syyuT4NtNw-o
 
 ![Video About-the-Team](../assets/images/others/team-video-evidence.png)

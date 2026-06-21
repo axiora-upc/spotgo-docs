@@ -8,29 +8,29 @@ Para garantizar un desarrollo fluido, estandarizado y compatible entre todos los
 
 Se listan a continuación las herramientas utilizadas a lo largo de todo el ciclo de vida del proyecto, cubriendo desde la gestión hasta el despliegue:
 
-* **Project & Requirements Management:**
-    * **Trello:** Herramienta SaaS para la gestión ágil del Product Backlog y Sprints. [Referencia: trello.com](https://trello.com/)
-    * **UXPressia:** Herramienta SaaS para la gestión de requerimientos (Journey Maps, User Personas). [Referencia: uxpressia.com](https://uxpressia.com/)
-* **Product UX/UI Design:**
-    * **Figma:** Herramienta SaaS para la elaboración de Wireframes, Mock-ups y Prototipos. [Referencia: figma.com](https://www.figma.com/)
-* **Herramientas de Desarrollo (IDEs y Editores):**
-    * **WebStorm:** IDE para el desarrollo de Frontend & Web App (Extensiones: Angular Language Service, Prettier, ESLint). [Descarga: jetbrains.com/webstorm](https://www.jetbrains.com/webstorm/)
-    * **IntelliJ IDEA:** IDE optimizado para el desarrollo del Backend con Spring Boot. [Descarga: jetbrains.com/idea](https://www.jetbrains.com/idea/)
-* **Stack Tecnológico y Entorno de Ejecución:**
-    * **Node.js (LTS v20+):** Entorno de ejecución para Angular y la Landing Page. [Descarga: nodejs.org](https://nodejs.org/)
-    * **Java Development Kit (JDK 17):** Entorno base para Spring Boot. [Descarga: oracle.com/java](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
-    * **PostgreSQL & pgAdmin (v15+):** Motor de base de datos relacional y cliente de administración local. [Descarga: postgresql.org](https://www.postgresql.org/download/)
-* **Herramientas de Pruebas y Documentación:**
-    * **Postman:** Testeo y validación de los endpoints del backend. [Descarga: postman.com](https://www.postman.com/downloads/)
-    * **Swagger (OpenAPI):** Generación automática de la documentación de la API. (Integrado en dependencias de Spring Boot).
+- **Project & Requirements Management:**
+  - **Trello:** Herramienta SaaS para la gestión ágil del Product Backlog y Sprints. [Referencia: trello.com](https://trello.com/)
+  - **UXPressia:** Herramienta SaaS para la gestión de requerimientos (Journey Maps, User Personas). [Referencia: uxpressia.com](https://uxpressia.com/)
+- **Product UX/UI Design:**
+  - **Figma:** Herramienta SaaS para la elaboración de Wireframes, Mock-ups y Prototipos. [Referencia: figma.com](https://www.figma.com/)
+- **Herramientas de Desarrollo (IDEs y Editores):**
+  - **WebStorm:** IDE para el desarrollo de Frontend & Web App (Extensiones: Angular Language Service, Prettier, ESLint). [Descarga: jetbrains.com/webstorm](https://www.jetbrains.com/webstorm/)
+  - **IntelliJ IDEA:** IDE optimizado para el desarrollo del Backend con Spring Boot. [Descarga: jetbrains.com/idea](https://www.jetbrains.com/idea/)
+- **Stack Tecnológico y Entorno de Ejecución:**
+  - **Node.js (LTS v20+):** Entorno de ejecución para Angular y la Landing Page. [Descarga: nodejs.org](https://nodejs.org/)
+  - **Java Development Kit (JDK 17):** Entorno base para Spring Boot. [Descarga: oracle.com/java](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+  - **PostgreSQL & pgAdmin (v15+):** Motor de base de datos relacional y cliente de administración local. [Descarga: postgresql.org](https://www.postgresql.org/download/)
+- **Herramientas de Pruebas y Documentación:**
+  - **Postman:** Testeo y validación de los endpoints del backend. [Descarga: postman.com](https://www.postman.com/downloads/)
+  - **Swagger (OpenAPI):** Generación automática de la documentación de la API. (Integrado en dependencias de Spring Boot).
 
 ### 5.1.2. Source Code Management
 
 El código fuente del proyecto se gestionará utilizando **Git** como sistema de control de versiones y **GitHub** como plataforma colaborativa. Los repositorios oficiales de la organización son:
 
-* **Landing Page:** [https://github.com/axiora-upc/spotgo-landing](https://github.com/axiora-upc/spotgo-landing)
-* **Frontend Web Application:** [https://github.com/axiora-upc/spotgo-frontend](https://github.com/axiora-upc/spotgo-frontend)
-* **RESTful Web Services:** [https://github.com/axiora-upc/spotgo-backend](https://github.com/axiora-upc/spotgo-backend)
+- **Landing Page:** [https://github.com/axiora-upc/spotgo-landing](https://github.com/axiora-upc/spotgo-landing)
+- **Frontend Web Application:** [https://github.com/axiora-upc/spotgo-frontend](https://github.com/axiora-upc/spotgo-frontend)
+- **RESTful Web Services:** [https://github.com/axiora-upc/spotgo-backend](https://github.com/axiora-upc/spotgo-backend)
 
 **Estrategia de Ramas (GitFlow)**
 Se utilizará un flujo de trabajo basado en GitFlow para proteger la estabilidad del producto:
@@ -48,10 +48,10 @@ Se utilizará un flujo de trabajo basado en GitFlow para proteger la estabilidad
 
 Para mantener la legibilidad y calidad del código, todo el equipo aplicará **nomenclatura estrictamente en inglés** para clases, variables, métodos y bases de datos. Además, se adoptan las siguientes guías de estilo oficiales:
 
-* **HTML & CSS:** Se seguirán las directrices de la [HTML Style Guide and Coding Conventions](https://www.w3schools.com/html/html5_syntax.asp) de W3C y la [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html).
-* **Frontend (Angular / TypeScript):** Se respetará la [Angular Coding Style Guide](https://angular.io/guide/styleguide). Las clases usarán `PascalCase`, variables/métodos `camelCase`, y archivos `kebab-case`. Se utilizará Prettier y ESLint para automatizar el formato.
-* **Backend (Spring Boot / Java):** Se aplicará la [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html). La arquitectura se dividirá en capas estrictas (Controllers, Services, Repositories, Entities). Los endpoints RESTful usarán sustantivos en plural (ej. `GET /api/v1/parking-spots`).
-* **Requerimientos:** Se emplearán las [Gherkin Conventions](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/) para la redacción estructurada de los criterios de aceptación (Given/When/Then).
+- **HTML & CSS:** Se seguirán las directrices de la [HTML Style Guide and Coding Conventions](https://www.w3schools.com/html/html5_syntax.asp) de W3C y la [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html).
+- **Frontend (Angular / TypeScript):** Se respetará la [Angular Coding Style Guide](https://angular.io/guide/styleguide). Las clases usarán `PascalCase`, variables/métodos `camelCase`, y archivos `kebab-case`. Se utilizará Prettier y ESLint para automatizar el formato.
+- **Backend (Spring Boot / Java):** Se aplicará la [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html). La arquitectura se dividirá en capas estrictas (Controllers, Services, Repositories, Entities). Los endpoints RESTful usarán sustantivos en plural (ej. `GET /api/v1/parking-spots`).
+- **Requerimientos:** Se emplearán las [Gherkin Conventions](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/) para la redacción estructurada de los criterios de aceptación (Given/When/Then).
 
 ### 5.1.4. Software Deployment Configuration
 

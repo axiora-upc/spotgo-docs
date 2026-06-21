@@ -46,7 +46,6 @@
 | US29 | API Integration Documentation | **As a** Developer,<br>**I want** to generate OpenAPI documentation via Swagger,<br>**so that** front-end developers can easily integrate the RESTful API. | **Scenario 1: Access Swagger UI**<br>**Given** the backend is deployed<br>**When** navigating to the `/swagger-ui` route<br>**Then** all active endpoints are listed with parameters, verbs, and response examples.<br><br>**Scenario 2: Try out endpoint**<br>**Given** a developer is in the Swagger UI<br>**When** they fill the parameters for a GET request and click "Execute"<br>**Then** Swagger performs the real HTTP call and displays the live JSON response. | E4 |
 | US30 | Landing Page Language Switcher | **As a** Visitor,<br>**I want** toggle the landing page language between Spanish and English using a simple JS script,<br>**so that** I can read it in my preferred language. | **Scenario 1: Switch to English**<br>**Given** the site is currently in Spanish<br>**When** the user clicks the "EN" toggle button<br>**Then** a simple Vanilla JS script updates the text nodes to English instantly without reloading the page.<br><br>**Scenario 2: Switch back to Spanish**<br>**Given** the site is in English<br>**When** the user clicks "ES"<br>**Then** the JS script restores the original Spanish text dictionary. | E4 |
 
-
 ## 3.2. Impact Mapping
 
 El Impact Mapping desarrollado para SpotGo tiene como propósito alinear las funcionalidades del sistema con nuestros objetivos estratégicos de negocio, asegurando que cada línea de código aporte valor real. 

@@ -26,7 +26,7 @@ Este repositorio contiene el informe completo del trabajo final, incluyendo inve
 
 ## Equipo
 
-| Integrante | Codigo |
+| Integrante | Código |
 | --- | --- |
 | Ruiz Mideyros, Adrian | U20241E177 |
 | Rojas Tello, Nestor Alonso | U202317099 |
@@ -57,8 +57,10 @@ Este repositorio contiene el informe completo del trabajo final, incluyendo inve
 
 1. Inicia por [docs/00-cover.md](docs/00-cover.md) para revisar la portada y el control de versiones.
 2. Continua en orden secuencial del capitulo I al V.
-3. Revisa [docs/51-sprint-1.md](docs/51-sprint-1.md) y [docs/52-sprint-2.md](docs/52-sprint-2.md) para la evidencia de los sprints.
-4. Cierra con conclusiones, recomendaciones, bibliografia y anexos.
+3. Revisa [docs/51-sprint-1.md](docs/51-sprint-1.md), [docs/52-sprint-2.md](docs/52-sprint-2.md) y [docs/53-sprint-3.md](docs/53-sprint-3.md) para la evidencia de los sprints.
+4. Sigue con [docs/60-validation-interviews.md](docs/60-validation-interviews.md) para conocer las entrevistas de validacion realizadas.
+5. Mira el video about the product en [docs/70-product-video.md](docs/70-product-video.md) para conocer las funcionalidades principales de SpotGo.
+6. Cierra con conclusiones, recomendaciones, mira el video about the team en [docs/82-team-video.md](docs/82-team-video.md), y por último la bibliografia y anexos.
 
 ## Convenciones de Trabajo
 

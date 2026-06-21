@@ -2,7 +2,7 @@
 
 #### *5.2.2.1. Sprint Planning 2*
 
-Para el desarrollo del segundo sprint nos centramos en el elaboración del frontend de nuetra aplicación, para ello lo  dividimos de acuerdo a la cantidad de bounded context con cada integrante del grupo (fueron 5 bounded context, 1 por cada integrante). En el Frontend podemos encontrar Dashboard, Reservaciones de estacionamiento, Suscripciones, Recibos, Favoritos y Historial de estacionamientos visitados.
+Para el desarrollo del segundo sprint nos centramos en el elaboración del frontend de nuestra aplicación, para ello lo  dividimos de acuerdo a la cantidad de bounded context con cada integrante del grupo (fueron 5 bounded context, 1 por cada integrante). En el Frontend podemos encontrar Dashboard, Reservaciones de estacionamiento, Suscripciones, Recibos, Favoritos y Historial de estacionamientos visitados.
 
 | **Sprint #** | 2 |
 | --- | --- |
@@ -42,7 +42,7 @@ El sprint Backlog se centra en la elaboración del frontend principal de SpotGo,
 | User Story Id | User Story Title | Work-Item / Task Id | Work-Item / Task Title | Description | Estimation (Hours) | Assigned To | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | US05 | Upload Parking Croquis | TS05.1 | Develop Croquis Upload Module | Implementar el módulo de carga de croquis permitiendo subir imágenes PNG/JPG y validar formatos soportados. | 4 | @nes-ro | In Progress |
-| US09 | Virtual Receipt Generation | TS09.1 | Develop Virtual Ticket Module | Llevar a cabo la generación y visualización de tickets virtuales con información del espacio asignado. | 3 | @nes-ro | Done |
+| US09 | Virtual Receipt Generation | TS09.1 | Develop Virtual Receipt Module | Llevar a cabo la generación y visualización de recibos virtuales con información del espacio asignado. | 3 | @nes-ro | In Progress |
 | US10 | Spot Occupancy Detection | TS10.1 | Develop Occupancy Detection Logic | Aplicar la lógica de actualización automática del estado de ocupación. | 3 | @johancg04 | In Progress |
 | US11 | Spot Availability Detection | TS11.1 | Develop Spot Availability Tracker | Poner en marcha la actualización automática de disponibilidad de espacios. | 4 | @CesarJrCR | In Progress |
 | US13 | Availability Alerts | TS13.1 | Develop Alert Notification System | Poner en marcha sistema de alertas en tiempo real para ocupación alta e infracciones. | 4 | @nes-ro | Done |
@@ -79,8 +79,8 @@ Durante el Sprint 2, el equipo implementó los módulos principales de la interf
 | spotgo-frontend | feature/settings-view | d1f38a0 | feat(settings): add responsive styles for settings dashboard | CesarJrCR | 2026-05-14 |
 | spotgo-frontend | feature/settings-view | 8bcf531 | feat(settings): implement account settings translations | CesarJrCR | 2026-05-14 |
 | spotgo-frontend | feature/payment | 722e6fc | feat: subscriptions view finalized | nes-ro | 2026-05-14 |
-| spotgo-frontend | feature/payment | 53ff704 | feat: add receivs views and language for subscriptions | nes-ro | 2026-05-14 |
-| spotgo-frontend | feature/payment | 5dd0462 | feat: add suscription and database json server config | nes-ro | 2026-05-14 |
+| spotgo-frontend | feature/payment | 53ff704 | feat: add receipts views and language for subscriptions | nes-ro | 2026-05-14 |
+| spotgo-frontend | feature/payment | 5dd0462 | feat: add subscription and database json server config | nes-ro | 2026-05-14 |
 | spotgo-frontend | feature/payment | 23994d2 | Merge branch 'develop' into feature/payment | nes-ro | 2026-05-14 |
 | spotgo-frontend | feature/iot-monitoring | 6ac28f1 | feat(iot): implement realtime occupancy synchronization | R3memo | 2026-05-14 |
 | spotgo-frontend | feature/iot-monitoring | 9d3f4bc | feat(iot): add parking sensor monitoring service | R3memo | 2026-05-14 |
@@ -184,9 +184,9 @@ A continuación, se presenta la relación de endpoints implementados y documenta
 
 Durante el sprint 2 se implementó la infraestructura de despliegue continuo para la aplicación web SpotGo utilizando Vercel. La configuración de despliegue se realizó mediante el archivo `vercel.json`, que define las rutas de redirección, los endpoints de la API simulada y las variables de entorno necesarias para la correcta ejecución de la aplicación en producción.
 
-![Software Deployment](../assets/images/others/s2-deployment.png)
+![Software Deployment for Sprint 2](../assets/images/others/s2-deployment.png)
 
-**Enlace al Frontend Desplegado (Angular):** [https://spotgo-frontend.vercel.app](https://spotgo-frontend.vercel.app)
+**Frontend Deployment Link (Angular):** [https://spotgo-frontend.vercel.app](https://spotgo-frontend.vercel.app)
 
 #### *5.2.2.8. Team Collaboration Insights during Sprint*
 

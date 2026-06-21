@@ -54,15 +54,16 @@
 | 0.1.15 | 25/4/26 | @AdrixRyz | docs: añadir todos los puntos del sprint 1 |
 | 0.1.16 | 25/4/26 | @nes-ro | docs: añadir los 4 puntos finales |
 | 0.1.17 | 25/4/26 | @johancg04 | docs: añadir student outcome y report insights |
-| 0.1.18 | 25/4/26 | @AdrixRyz | docs: añadir correcciones finales del av1 |
-| 0.2.0 | 9/5/26 | @AdrixRyz | docs: añadir correcciones de la revisión del av1 |
-| 0.2.1 | 14/5/26 | @AdrixRyz | docs: añadir el sprint 2 |
-| 0.3.0 | 15/6/26 | @R3memo | docs: añadir correcciones de la revisión del tb1 |
-| 0.3.1 | 19/6/26 | @CesarJrCR | docs: añadir el sprint 3 |
+| 0.1.18 | 25/4/26 | @AdrixRyz | docs: añadir ajustes finales para el av1 |
+| 0.2.0 | 9/5/26 | @johancg04 | docs: añadir correcciones de la revisión del av1 |
+| 0.2.1 | 14/5/26 | @AdrixRyz | docs: añadir todos los puntos del sprint 2 |
+| 0.3.0 | 15/6/26 | @nes-ro | docs: añadir correcciones de la revisión del tb1 |
+| 0.3.1 | 19/6/26 | @CesarJrCR | docs: añadir todos los puntos del sprint 3 |
+| 0.3.2 | 20/6/26 | @R3memo | docs: añadir los puntos de validation interviews |
 
 # Project Report Collaboration Insights
 
-Repositorio de la documentación del proyecto: [https://github.com/axiora-upc/spotgo-docs](https://github.com/axiora-upc/spotgo-docs)
+**Repositorio de la documentación del proyecto:** [https://github.com/axiora-upc/spotgo-docs](https://github.com/axiora-upc/spotgo-docs)
 
 A continuación, se detallan las actividades realizadas en cada entrega, la participación de los miembros del equipo, y las evidencias correspondientes.
 

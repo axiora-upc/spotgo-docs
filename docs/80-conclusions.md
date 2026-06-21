@@ -18,9 +18,7 @@
 
 - **Sobre la arquitectura frontend:** La modularización de componentes y separación de responsabilidades dentro del frontend permitió mantener un código más organizado, reutilizable y escalable. Esto facilita futuras integraciones con servicios backend, APIs REST y actualizaciones en tiempo real sin comprometer la mantenibilidad del sistema.
 
-- **Sobre el avance funcional del producto:** El Sprint 2 permitió evidenciar un progreso significativo en la construcción del producto mínimo viable (*MVP*), al contar con prototipos funcionales navegables que representan los principales flujos del sistema, sentando las bases para futuras implementaciones backend e integración con servicios IoT.
-
-- **Conclusión general del proyecto:** Finalmente, se concluye que SpotGo presenta una propuesta tecnológica viable para optimizar la gestión de estacionamientos mediante monitoreo inteligente y organización por perfiles de usuario. El trabajo desarrollado en ambos sprints permitió validar el problema, estructurar la solución y materializar una primera experiencia funcional del sistema, estableciendo una base sólida para futuras iteraciones e integraciones tecnológicas.
+- **Sobre el avance funcional del producto:** El Sprint 2 permitió evidenciar un progreso significativo en la construcción del producto mínimo viable (*MVP*), al contar con prototipos funcionales navegables que representan los principales flujos del sistema, los cuales fueron posteriormente conectados con servicios backend reales en el Sprint 3.
 
 ## Sprint 3 – Desarrollo Backend
 

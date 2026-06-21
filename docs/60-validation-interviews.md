@@ -89,35 +89,35 @@ Para el segmento de administradores o personal operativo de estacionamiento, se 
 
 **Validation Interviews Link:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e321_upc_edu_pe/IQAk4z3kWBHSSIjacQX92K-yAU1F1K-hu-iHICws5o4SayA?e=ZSgRmX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e321_upc_edu_pe/IQAk4z3kWBHSSIjacQX92K-yAU1F1K-hu-iHICws5o4SayA?e=ZSgRmX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-<img src="../assets/images/interviews/validation/validation-interview-video.png" alt="General Validation Interview Video" style="width: 100vw;">
+![Validation Interviews Evidence](../assets/images/others/validation-interviews-evidence.png)
 
 **Primer Segmento Objetivo (Administradores o personal operativo de estacionamiento)**
 
 **Entrevista 1**
-| Screnshoot: | ![Entrevista S1 2](../assets/images/interviews/validation/entrevista-1-2.png) |
+| Screenshot: | ![Entrevista S1 1](../assets/images/interviews/validation/entrevista-1-1.png) |
 | --- | --- |
-| Inicia | |
-| Duración: | |
+| Inicia | 00:00 |
+| Duración: | 6:53 |
 | Nombre completo: | Renzo Cumpa |
 | Edad: | 31 años |
 | Distrito: | Cercado de Lima |
 | Resumen: | El entrevistado manifestó una percepción positiva sobre la interfaz del sistema, indicando que el mapa en tiempo real y el uso de colores para identificar espacios disponibles, ocupados y en mantenimiento son fáciles de interpretar. Asimismo, consideró que las métricas principales y la sección de Analytics proporcionan información relevante para supervisar las operaciones y tomar decisiones rápidas relacionadas con el negocio. También destacó la utilidad de los filtros de fecha y de los indicadores de ingresos, ocupación y disponibilidad, ya que permiten analizar el rendimiento del estacionamiento de manera eficiente. Como aspectos de mejora, señaló que los botones para exportar registros podrían tener una mayor visibilidad y expresó algunas dudas sobre la configuración del perfil y la gestión de información de los trabajadores. En general, resaltó la sección de análisis como la funcionalidad más útil debido a la forma clara y simplificada en que presenta la información necesaria para la administración diaria. |
 
 **Entrevista 2**
-| Screnshoot: | ![Entrevista S1 1](../assets/images/interviews/validation/entrevista-1-1.png) |
+| Screenshot: | ![Entrevista S1 2](../assets/images/interviews/validation/entrevista-1-2.png) |
 | --- | --- |
-| Inicia | |
-| Duración: | |
+| Inicia | 6:53 |
+| Duración: | 7:27 |
 | Nombre completo: | Nicolas Castro |
 | Edad: | 25 años |
 | Distrito: | Cercado de Lima |
 | Resumen: | El entrevistado indicó que los colores utilizados para representar los espacios disponibles, ocupados y en mantenimiento son fáciles de interpretar y permiten identificar rápidamente el estado del estacionamiento. Asimismo, señaló que las métricas principales del panel y la sección de Analytics proporcionan información relevante para supervisar la operación diaria y facilitan la toma de decisiones. Consideró que los filtros de fecha resultan útiles para analizar y comparar el rendimiento en distintos periodos, mientras que la configuración del perfil y del negocio es sencilla de revisar y administrar. También destacó que las acciones de exportar registros, actualizar información y solicitar soporte técnico son fáciles de encontrar y comprender. Finalmente, mencionó que el mapa en tiempo real y las métricas del panel son las funcionalidades más valiosas del sistema, y sugirió incorporar ayudas o descripciones adicionales para facilitar el uso de funciones más avanzadas y mejorar la experiencia de usuarios con menor familiaridad tecnológica. |
 
 **Entrevista 3**
-| Screnshoot: | ![Entrevista S1 3](../assets/images/interviews/validation/entrevista-1-3.png) |
+| Screenshot: | ![Entrevista S1 3](../assets/images/interviews/validation/entrevista-1-3.png) |
 | --- | --- |
-| Inicia | |
-| Duración: | |
+| Inicia | 34:48 |
+| Duración: | 6:56 |
 | Nombre completo: | Jimmy Giménez |
 | Edad: | 28 años |
 | Distrito: | Rimac |
@@ -126,20 +126,20 @@ Para el segmento de administradores o personal operativo de estacionamiento, se 
 **Segundo Segmento Objetivo (Conductores y usuarios finales (clientes))**
 
 **Entrevista 1**
-| Screnshoot: | ![Entrevista S2 1](../assets/images/interviews/validation/entrevista-2-1.png) |
+| Screenshot: | ![Entrevista S2 1](../assets/images/interviews/validation/entrevista-2-1.png) |
 | --- | --- |
-| Inicia | |
-| Duración: | |
+| Inicia | 20:48 |
+| Duración: | 6:32 |
 | Nombre completo: | Fabio Cordova |
 | Edad: | 24 años |
 | Distrito: | San Isidro |
 | Resumen: | El entrevistado indicó que el dashboard y el mapa permiten identificar rápidamente los estacionamientos cercanos y las zonas con mayor disponibilidad. Asimismo, señaló que la información presentada es clara y no genera sobrecarga visual, por lo que la diferencia entre espacios disponibles y ocupados resulta fácil de comprender. Consideró que las secciones de favoritos, reservas, suscripciones, recibos e historial son intuitivas y muestran la información necesaria para gestionar sus estacionamientos y controlar sus gastos. Además, destacó la utilidad de descargar recibos en PDF y mantener un registro de pagos. Como sugerencia de mejora, propuso incorporar información sobre los espacios más convenientes dentro del estacionamiento y mostrar referencias de acceso cercanas al destino del usuario. Finalmente, mencionó que las reseñas y la posibilidad de verificar la confiabilidad del establecimiento serían factores importantes para aumentar la confianza al momento de realizar una reserva. |
 
 **Entrevista 2**
-| Screnshoot: | ![Entrevista S2 2](../assets/images/interviews/validation/entrevista-2-2.png) |
+| Screenshot: | ![Entrevista S2 2](../assets/images/interviews/validation/entrevista-2-2.png) |
 | --- | --- |
-| Inicia | |
-| Duración: | |
+| Inicia | 14:20 |
+| Duración: | 6:28 |
 | Nombre completo: | Sergio Evangelista |
 | Edad: | 21 años |
 | Distrito: | San Miguel |
@@ -147,10 +147,10 @@ Para el segmento de administradores o personal operativo de estacionamiento, se 
 
 **Entrevista 3**
 
-| Screnshoot: | ![Entrevista S2 3](../assets/images/interviews/validation/entrevista-2-3.png) |
+| Screenshot: | ![Entrevista S2 3](../assets/images/interviews/validation/entrevista-2-3.png) |
 | --- | --- |
-| Inicia | |
-| Duración: | |
+| Inicia | 27:20 |
+| Duración: | 7:28 |
 | Nombre completo: | Matthew Oshiko Okuhama |
 | Edad: | 21 años |
 | Distrito: | Jesús María |
@@ -208,53 +208,52 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 **Descripción de problemas**
 
-*PROBLEMA #1: La disponibilidad de los espacios en el mapa no se distingue claramente*
+***PROBLEMA #1: La disponibilidad de los espacios en el mapa no se distingue claramente***
 
 **Severidad:** 2  
 **Heurística violada:** Usability - Reconocimiento antes que recuerdo  
 **Problema:** En el mapa en tiempo real de SpotGo, los espacios disponibles, ocupados y en mantenimiento no presentan diferencias visuales suficientemente claras. Esto obliga al usuario a interpretar cada elemento con mayor atención y dificulta identificar rápidamente los espacios libres disponibles.
 
-<img src="../assets/images/others/1-problem.png" alt="Problem 1 Photo" style="width: 100vw;">
+![Problem 1 Photo](../assets/images/others/heuristic-p1.png)
 
 **Recomendación:** Utilizar colores, íconos o etiquetas más representativas para cada estado de los espacios, además de una leyenda clara que facilite la interpretación del mapa.
 
-*PROBLEMA #2: El módulo de Analytics presenta demasiada información en una sola vista*
+***PROBLEMA #2: El módulo de Analytics presenta demasiada información en una sola vista***
 
 **Severidad:** 2  
 **Heurística violada:** Usability - Diseño estético y minimalista  
 **Problema:** La vista de Analytics en SpotGo muestra múltiples gráficos y métricas al mismo tiempo, lo que puede dificultar identificar rápidamente la información más importante para la toma de decisiones.
 
-<img src="../assets/images/others/2-problem.png" alt="Problem 2 Photo" style="width: 100vw;">
+![Problem 2 Photo](../assets/images/others/heuristic-p2.png)
 
 **Recomendación:** Agrupar los indicadores por categorías y priorizar las métricas clave mediante una jerarquía visual más clara.
 
-*PROBLEMA #3: Las reservas finalizadas aparecen junto con las reservas activas*
+***PROBLEMA #3: Las reservas finalizadas aparecen junto con las reservas activas***
 
 **Severidad:** 2  
 **Heurística violada:** Usability - Prevención de errores  
 **Problema:** El historial de reservas en SpotGo muestra registros activos, completados y cancelados sin una separación visual clara. Esto puede generar confusión e inducir al usuario a interpretar incorrectamente el estado de una reserva.
 
-<img src="../assets/images/others/3-problem.png" alt="Problem 3 Photo" style="width: 100vw;">
+![Problem 3 Photo](../assets/images/others/heuristic-p3.png)
 
 **Recomendación:** Separar las reservas activas de las finalizadas o utilizar etiquetas y colores diferenciados para cada estado.
 
-*PROBLEMA #4: Los planes y estados de suscripción no se diferencian claramente por color*
+***PROBLEMA #4: Los planes y estados de suscripción no se diferencian claramente por color***
 
 **Severidad:** 2  
 **Heurística violada:** Usability - Consistencia y estándares  
 **Problema:** En SpotGo, los colores utilizados para los planes (gratuito, mensual, anual) y los estados de suscripción (activo, pendiente, vencido) no permiten una diferenciación clara, generando confusión en la interpretación de la información.
 
-<img src="../assets/images/others/4-problem.png" alt="Problem 4 Photo" style="width: 100vw;">
+![Problem 4 Photo](../assets/images/others/heuristic-p4.png)
 
 **Recomendación:** Definir una convención visual consistente para planes y estados de suscripción, asegurando colores distintos y fácilmente reconocibles para cada categoría.
 
-*PROBLEMA #5: Algunas acciones importantes no muestran confirmación visual al completarse*
+***PROBLEMA #5: Algunas acciones importantes no muestran confirmación visual al completarse***
 
 **Severidad:** 2  
 **Heurística violada:** Usability - Visibilidad del estado del sistema  
 **Problema:** En SpotGo, después de realizar acciones como guardar, actualizar o confirmar una operación, el sistema no siempre muestra una retroalimentación clara al usuario, lo que genera incertidumbre sobre si la acción fue completada correctamente.
 
-<img src="../assets/images/others/5-problem.png" alt="Problem 5 Photo" style="width: 100vw;">
-
+![Problem 5 Photo](../assets/images/others/heuristic-p5.png)
 
 **Recomendación:** Incluir mensajes de éxito, notificaciones tipo toast o indicadores visuales que confirmen la ejecución correcta de las acciones realizadas.

@@ -134,6 +134,8 @@ El sistema incluye un módulo de analítica avanzada para administradores, permi
 
 **Needfinding Interviews Link:** [https://www.capcut.com/sv2/ZS9LoHLMkdL5V-kGTXS](https://www.capcut.com/sv2/ZS9LoHLMkdL5V-kGTXS)
 
+![Needfinding Interviews Evidence](../assets/images/others/needfinding-interviews-evidence.png)
+
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
 **Entrevista 1**

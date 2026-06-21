@@ -20,4 +20,4 @@
 | Repositorio del Frontend | [https://github.com/axiora-upc/spotgo-frontend](https://github.com/axiora-upc/spotgo-frontend) |
 | Frontend Desplegado | [https://spotgo-frontend.vercel.app](https://spotgo-frontend.vercel.app) |
 | Repositorio del Backend | [https://github.com/axiora-upc/spotgo-backend](https://github.com/axiora-upc/spotgo-backend) |
-| Backend Desplegado (Swagger Docs) | [https://spotgo-backend-axiora.up.railway.app/swagger-ui/index.html](https://spotgo-backend-axiora.up.railway.app/swagger-ui/index.html) |
+| Backend Desplegado (Swagger Documentation) | [https://spotgo-backend-axiora.up.railway.app/swagger-ui/index.html](https://spotgo-backend-axiora.up.railway.app/swagger-ui/index.html) |
