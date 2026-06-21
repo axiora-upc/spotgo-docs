@@ -105,7 +105,7 @@ Para el segmento de administradores o personal operativo de estacionamiento, se 
 **Entrevista 2**
 | Entrevistado: | Entrevistador: César Contreras |
 | --- | --- |
-| <img src="../assets/images/interviews/validation/03-entrevista-administrador02.png" width="555"/> | <img src="../assets/images/interviews/validation/04-entrevistador02.png" width="140"/> |
+| <img src="../assets/images/interviews/validation/03-entrevista-administrador02.png" width="557"/> | <img src="../assets/images/interviews/validation/04-entrevistador02.png" width="145"/> |
 | Inicia | |
 | Duración: | |
 | Nombre completo: | Renzo Cumpa |
@@ -129,7 +129,7 @@ Para el segmento de administradores o personal operativo de estacionamiento, se 
 **Entrevista 1**
 | Entrevistado: | Entrevistador: Nestor Rojas |
 | --- | --- |
-| <img src="../assets/images/interviews/validation/07-entrevista-conductor01.png" width="555"/> | <img src="../assets/images/interviews/validation/08-entrevistador04.png" width="140"/> |
+| <img src="../assets/images/interviews/validation/07-entrevista-conductor01.png" width="560"/> | <img src="../assets/images/interviews/validation/08-entrevistador04.png" width="145"/> |
 | Inicia | |
 | Duración: | |
 | Nombre completo: | Fabio Cordova |
@@ -144,8 +144,8 @@ Para el segmento de administradores o personal operativo de estacionamiento, se 
 | Inicia | |
 | Duración: | |
 | Nombre completo: | Sergio Evangelista |
-| Edad: | años |
-| Distrito: |  |
+| Edad: | 21 años |
+| Distrito: | San Miguel |
 | Resumen: | El entrevistado destacó que el dashboard y el mapa permiten identificar rápidamente los estacionamientos disponibles gracias a la información presentada de forma clara e intuitiva. Consideró que la diferenciación por colores facilita comprender el estado de los espacios y que las funciones de favoritos y reserva directa desde el mapa contribuyen significativamente al ahorro de tiempo. Asimismo, señaló que las secciones de reservas, recibos e historial son fáciles de utilizar y resultan útiles, especialmente la opción de descargar comprobantes en PDF para llevar un mejor control de gastos. Sin embargo, indicó que la sección de suscripciones podría mejorar, ya que las diferencias entre los planes no son completamente claras y la información podría mostrarse de una manera más visual. Finalmente, mencionó que disponer de información relacionada con la seguridad del estacionamiento, como cámaras o fotografías del lugar, aumentaría su confianza al momento de realizar una reserva. |
 
 **Entrevista 3**
@@ -156,8 +156,8 @@ Para el segmento de administradores o personal operativo de estacionamiento, se 
 | Inicia | |
 | Duración: | |
 | Nombre completo: | Matthew Oshiko Okuhama |
-| Edad: |  años |
-| Distrito: |  |
+| Edad: | 21 años |
+| Distrito: | Jesús María |
 | Resumen: | El entrevistado manifestó que el dashboard y el mapa permiten identificar fácilmente los estacionamientos cercanos y la disponibilidad de espacios gracias al uso de colores e indicadores claros. Asimismo, consideró que las secciones de favoritos, reservas, suscripciones, recibos e historial presentan la información de manera organizada y comprensible, facilitando la gestión de reservas y el acceso a comprobantes de pago. Destacó como especialmente útil la posibilidad de descargar recibos en PDF o enviarlos por correo, así como la opción de realizar reservas directamente desde el mapa, ya que contribuye a ahorrar tiempo. Además, señaló que contar con fotografías del estacionamiento, opiniones de otros usuarios e información sobre la seguridad y los servicios ofrecidos aumentaría la confianza al momento de realizar una reserva. Finalmente, indicó que la interfaz es intuitiva y fácil de utilizar, aunque sugirió incorporar mensajes de ayuda o descripciones adicionales para facilitar la adaptación de los nuevos usuarios. |
 
 ## 5.3.3. Evaluaciones según heurísticas
