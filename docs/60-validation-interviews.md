@@ -89,6 +89,8 @@ Para el segmento de administradores o personal operativo de estacionamiento, se 
 
 **Validation Interviews Link:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e321_upc_edu_pe/IQAk4z3kWBHSSIjacQX92K-yAU1F1K-hu-iHICws5o4SayA?e=ZSgRmX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e321_upc_edu_pe/IQAk4z3kWBHSSIjacQX92K-yAU1F1K-hu-iHICws5o4SayA?e=ZSgRmX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+<img src="../assets/images/interviews/validation/validation-interview-video.png" alt="General Validation Interview Video" style="width: 100vw;">
+
 **Primer Segmento Objetivo (Administradores o personal operativo de estacionamiento)**
 
 **Entrevista 1**
@@ -212,7 +214,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 **Heurística violada:** Usability - Reconocimiento antes que recuerdo  
 **Problema:** En el mapa en tiempo real de SpotGo, los espacios disponibles, ocupados y en mantenimiento no presentan diferencias visuales suficientemente claras. Esto obliga al usuario a interpretar cada elemento con mayor atención y dificulta identificar rápidamente los espacios libres disponibles.
 
-(Incluir además una captura de pantalla ilustrando el problema).
+<img src="../assets/images/others/1-problem.png" alt="Problem 1 Photo" style="width: 100vw;">
 
 **Recomendación:** Utilizar colores, íconos o etiquetas más representativas para cada estado de los espacios, además de una leyenda clara que facilite la interpretación del mapa.
 
@@ -222,7 +224,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 **Heurística violada:** Usability - Diseño estético y minimalista  
 **Problema:** La vista de Analytics en SpotGo muestra múltiples gráficos y métricas al mismo tiempo, lo que puede dificultar identificar rápidamente la información más importante para la toma de decisiones.
 
-(Incluir además una captura de pantalla ilustrando el problema).
+<img src="../assets/images/others/2-problem.png" alt="Problem 2 Photo" style="width: 100vw;">
 
 **Recomendación:** Agrupar los indicadores por categorías y priorizar las métricas clave mediante una jerarquía visual más clara.
 
@@ -232,7 +234,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 **Heurística violada:** Usability - Prevención de errores  
 **Problema:** El historial de reservas en SpotGo muestra registros activos, completados y cancelados sin una separación visual clara. Esto puede generar confusión e inducir al usuario a interpretar incorrectamente el estado de una reserva.
 
-(Incluir además una captura de pantalla ilustrando el problema).
+<img src="../assets/images/others/3-problem.png" alt="Problem 3 Photo" style="width: 100vw;">
 
 **Recomendación:** Separar las reservas activas de las finalizadas o utilizar etiquetas y colores diferenciados para cada estado.
 
@@ -242,7 +244,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 **Heurística violada:** Usability - Consistencia y estándares  
 **Problema:** En SpotGo, los colores utilizados para los planes (gratuito, mensual, anual) y los estados de suscripción (activo, pendiente, vencido) no permiten una diferenciación clara, generando confusión en la interpretación de la información.
 
-(Incluir además una captura de pantalla ilustrando el problema).
+<img src="../assets/images/others/4-problem.png" alt="Problem 4 Photo" style="width: 100vw;">
 
 **Recomendación:** Definir una convención visual consistente para planes y estados de suscripción, asegurando colores distintos y fácilmente reconocibles para cada categoría.
 
@@ -252,6 +254,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 **Heurística violada:** Usability - Visibilidad del estado del sistema  
 **Problema:** En SpotGo, después de realizar acciones como guardar, actualizar o confirmar una operación, el sistema no siempre muestra una retroalimentación clara al usuario, lo que genera incertidumbre sobre si la acción fue completada correctamente.
 
-(Incluir además una captura de pantalla ilustrando el problema).
+<img src="../assets/images/others/5-problem.png" alt="Problem 5 Photo" style="width: 100vw;">
+
 
 **Recomendación:** Incluir mensajes de éxito, notificaciones tipo toast o indicadores visuales que confirmen la ejecución correcta de las acciones realizadas.
