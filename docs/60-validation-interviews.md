@@ -92,15 +92,15 @@ Para el segmento de administradores o personal operativo de estacionamiento, se 
 **Primer Segmento Objetivo (Administradores o personal operativo de estacionamiento)**
 
 **Entrevista 1**
-
-| Screenshot: | ![Entrevista S1 1](../assets/images/interviews/validation/entrevista-1-1.png) |
+| Entrevistado: | Entrevistador: Paul Espinoza |
 | --- | --- |
-| Inicia: |  |
-| Duración:|  |
-| Nombre completo: |  |
-| Edad: |  |
-| Distrito: |  |
-| Resumen: |  |
+| <img src="" alt="" width="4600"/> | <img src="" width="180"/> |
+| Inicia | |
+| Duración: | |
+| Nombre completo: | Nicolas Castro Solorza |
+| Edad: | 25 años |
+| Distrito: | Cercado de Lima |
+| Resumen: | El entrevistado indicó que los colores utilizados para representar los espacios disponibles, ocupados y en mantenimiento son fáciles de interpretar y permiten identificar rápidamente el estado del estacionamiento. Asimismo, señaló que las métricas principales del panel y la sección de Analytics proporcionan información relevante para supervisar la operación diaria y facilitan la toma de decisiones. Consideró que los filtros de fecha resultan útiles para analizar y comparar el rendimiento en distintos periodos, mientras que la configuración del perfil y del negocio es sencilla de revisar y administrar. También destacó que las acciones de exportar registros, actualizar información y solicitar soporte técnico son fáciles de encontrar y comprender. Finalmente, mencionó que el mapa en tiempo real y las métricas del panel son las funcionalidades más valiosas del sistema, y sugirió incorporar ayudas o descripciones adicionales para facilitar el uso de funciones más avanzadas y mejorar la experiencia de usuarios con menor familiaridad tecnológica. |
 
 **Entrevista 2**
 
