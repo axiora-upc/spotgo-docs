@@ -22,23 +22,23 @@
 
 **Relación de integrantes:**
 
-| Apellidos, Nombres | Código      |
-| --- |-------------|
-| Ruiz Mideyros, Adrian | U20241E177  |
-| Rojas Tello, Nestor Alonso | U202317099  |
-| Espinoza Lopez, Paul Alexandro | U20241E321  |
-| Contreras Rojas, Cesar Jair | U20241D995  |
-| Contreras Granados, Johan Alexis | U202423752  |
+| Apellidos, Nombres | Código |
+| --- | --- |
+| Ruiz Mideyros, Adrian | U20241E177 |
+| Rojas Tello, Nestor Alonso | U202317099 |
+| Espinoza Lopez, Paul Alexandro | U20241E321 |
+| Contreras Rojas, Cesar Jair | U20241D995 |
+| Contreras Granados, Johan Alexis | U202423752 |
 
-**Mayo, 2026**
+**Junio, 2026**
 
 # Registro de versiones del informe
 
 | Versión | Fecha | Autor | Descripción de modificación |
 | --- | --- | --- | --- |
-| 0.1.0 | 19/4/26 | @AdrixRyz | docs: añadir los puntos previos al capitulo 1 |
-| 0.1.1 | 20/4/26 | @johancg04 | docs: añadir descripcion del startup |
-| 0.1.2 | 20/4/26 | @CesarJrCR | docs: añadir todos lo puntos de solution profile |
+| 0.1.0 | 19/4/26 | @AdrixRyz | docs: añadir los puntos previos al capítulo 1 |
+| 0.1.1 | 20/4/26 | @johancg04 | docs: añadir descripción del startup |
+| 0.1.2 | 20/4/26 | @CesarJrCR | docs: añadir todos los puntos de solution profile |
 | 0.1.3 | 20/4/26 | @nes-ro | docs: añadir segmentos objetivo |
 | 0.1.4 | 21/4/26 | @R3memo | docs: añadir todos los puntos de competidores |
 | 0.1.5 | 21/4/26 | @R3memo | docs: añadir todos los puntos de entrevistas |
@@ -54,13 +54,15 @@
 | 0.1.15 | 25/4/26 | @AdrixRyz | docs: añadir todos los puntos del sprint 1 |
 | 0.1.16 | 25/4/26 | @nes-ro | docs: añadir los 4 puntos finales |
 | 0.1.17 | 25/4/26 | @johancg04 | docs: añadir student outcome y report insights |
-| 0.1.18 | 25/4/26 | @AdrixRyz | docs: añadir correciones finales del av1 |
-| 0.2.0 | 9/5/26 | @AdrixRyz | docs: añadir correciones de la revisión del av1 |
+| 0.1.18 | 25/4/26 | @AdrixRyz | docs: añadir correcciones finales del av1 |
+| 0.2.0 | 9/5/26 | @AdrixRyz | docs: añadir correcciones de la revisión del av1 |
 | 0.2.1 | 14/5/26 | @AdrixRyz | docs: añadir el sprint 2 |
+| 0.3.0 | 15/6/26 | @R3memo | docs: añadir correcciones de la revisión del tb1 |
+| 0.3.1 | 19/6/26 | @CesarJrCR | docs: añadir el sprint 3 |
 
 # Project Report Collaboration Insights
 
-Repositorio de la documentación del proyecto: https://github.com/axiora-upc/spotgo-docs
+Repositorio de la documentación del proyecto: [https://github.com/axiora-upc/spotgo-docs](https://github.com/axiora-upc/spotgo-docs)
 
 A continuación, se detallan las actividades realizadas en cada entrega, la participación de los miembros del equipo, y las evidencias correspondientes.
 
@@ -72,7 +74,12 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 **TB1**
 
 *Report Insights TB1*
-[Photo]
+![Report Insights TB1](../assets/images/others/report-insights-tb1.png)
+
+**AV2**
+
+*Report Insights AV2*
+![Report Insights AV2](../assets/images/others/report-insights-av2.png)
 
 # Tabla de contenidos
 
@@ -172,9 +179,24 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 5.2.2.6. Services Documentation Evidence for Sprint Review  
 5.2.2.7. Software Deployment Evidence for Sprint Review  
 5.2.2.8. Team Collaboration Insights during Sprint  
+[**5.2.3. Sprint 3**](53-sprint-3.md)  
+5.2.3.1. Sprint Planning 3  
+5.2.3.2. Aspect Leaders and Collaborators  
+5.2.3.3. Sprint Backlog 3  
+5.2.3.4. Development Evidence for Sprint Review  
+5.2.3.5. Execution Evidence for Sprint Review  
+5.2.3.6. Services Documentation Evidence for Sprint Review  
+5.2.3.7. Software Deployment Evidence for Sprint Review  
+5.2.3.8. Team Collaboration Insights during Sprint  
+[**5.3. Validation Interviews**](60-validation-interviews.md)  
+5.3.1. Diseño de Entrevistas  
+5.3.2. Registro de Entrevistas  
+5.3.3. Evaluaciones según heurísticas  
+[**5.4. Video-About-the-Product**](70-product-video.md)  
 
 [**Conclusiones**](80-conclusions.md)  
 [**Recomendaciones**](81-recommendations.md)  
+[**Video-About-the-Team**](82-team-video.md)  
 [**Bibliografía**](90-bibliography.md)  
 [**Anexos**](99-annexes.md)  
 

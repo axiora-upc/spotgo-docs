@@ -2,7 +2,7 @@
 
 #### *5.2.2.1. Sprint Planning 2*
 
-Para el desarrollo del segundo sprint nos centramos en el elaboracion del frontend de nuetra aplicación, para ello lo  dividimos de acuerdo a la cantidad de bounded context con cada integrante del grupo (fueron 5 bounded context, 1 por cada integrante). En el Frontend podemos encontrar Dashboard, Reservaciones de estacionamiento, Suscripciones, Recibos, Favoritos y Historial de estacionamientos visitados.
+Para el desarrollo del segundo sprint nos centramos en el elaboración del frontend de nuetra aplicación, para ello lo  dividimos de acuerdo a la cantidad de bounded context con cada integrante del grupo (fueron 5 bounded context, 1 por cada integrante). En el Frontend podemos encontrar Dashboard, Reservaciones de estacionamiento, Suscripciones, Recibos, Favoritos y Historial de estacionamientos visitados.
 
 | **Sprint #** | 2 |
 | --- | --- |
@@ -33,11 +33,11 @@ A continuación se detalla la matriz de liderazgo y colaboración (LACX) para br
 
 #### *5.2.2.3. Sprint Backlog 2*
 
-El sprint Backlog se centra en la elaboración del frontend principal de SpotGo, esto incluye el diseño responsivo, el dashboard y el acceso por roles tanto el de administrador como el de conductor. Es gracias a estas implemetanciones que hemos logrado una aplicación interactiva conectada a servicios simulados para validar la experiencia antes de agregar las API's
+El sprint Backlog se centra en la elaboración del frontend principal de SpotGo, esto incluye el diseño responsivo, el dashboard y el acceso por roles tanto el de administrador como el de conductor. Es gracias a estas implementaciones que hemos logrado una aplicación interactiva conectada a servicios simulados para validar la experiencia antes de agregar las API's
 
-**Trello link:** https://trello.com/invite/b/6a3044b58529d68c1f19afee/ATTIa322332a59d2dc5bf472752e3591fc3f5CBEB433/axiora-trello
+**Trello link:** [https://trello.com/invite/b/6a3044b58529d68c1f19afee/ATTIa322332a59d2dc5bf472752e3591fc3f5CBEB433/axiora-trello](https://trello.com/invite/b/6a3044b58529d68c1f19afee/ATTIa322332a59d2dc5bf472752e3591fc3f5CBEB433/axiora-trello)
 
-![Sprint Backlog](../assets/images/others/trello-capture-sprint2.png)
+![Sprint Backlog 2](../assets/images/others/s2-sprint-backlog.png)
 
 | User Story Id | User Story Title | Work-Item / Task Id | Work-Item / Task Title | Description | Estimation (Hours) | Assigned To | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -79,12 +79,7 @@ El sprint Backlog se centra en la elaboración del frontend principal de SpotGo,
 Durante el Sprint 2, el equipo implementó los módulos principales de la interfaz de usuario de la plataforma Smart Parking siguiendo una arquitectura de contexto delimitado y el flujo de trabajo GitFlow. Los siguientes commits evidencian el desarrollo de funcionalidades, la monitorización en tiempo real, la gestión administrativa, la configuración de la implementación, la gestión de suscripciones y la integración de la infraestructura realizadas durante el sprint.
 
 | Repository | Branch | Commit Id | Commit Message | Committed By | Commit Date |
-|---|---|---|---|---|---|
-| spotgo-frontend | develop | f1daa94 | Merge pull request #8 from axiora-upc/feature/analytics-view | AdrixRyz | 2026-05-14 |
-| spotgo-frontend | develop | f9f5d5b | Merge pull request #7 from axiora-upc/feature/payment | nes-ro | 2026-05-14 |
-| spotgo-frontend | develop | 1f1ce5c | Merge pull request #6 from axiora-upc/feature/settings-view | CesarJrCR | 2026-05-14 |
-| spotgo-frontend | develop | 6f0dc09 | Merge pull request #5 from axiora-upc/feature/payment | AdrixRyz | 2026-05-14 |
-| spotgo-frontend | develop | 9f925cc | Merge pull request #2 from axiora-upc/feature/realtime-map | johancg04 | 2026-05-14 |
+| --- | --- | --- | --- | --- | --- |
 | spotgo-frontend | feature/realtime-map | af847e3 | feat: enhance RealtimeMap component with internal tab navigation for sub-routes | johancg04 | 2026-05-14 |
 | spotgo-frontend | feature/realtime-map | 479c045 | feat: implement MonitoringStore to manage application state for monitoring context | johancg04 | 2026-05-14 |
 | spotgo-frontend | feature/realtime-map | 15bb62c | feat: implement MonitoringApi to aggregate backend operations for monitoring context | johancg04 | 2026-05-14 |
@@ -119,12 +114,6 @@ Durante el Sprint 2, el equipo implementó los módulos principales de la interf
 | spotgo-frontend | feature/realtime-map | f0e77bd | feat: add db.json for parking snapshot, incidents, and employee data | johancg04 | 2026-05-14 |
 | spotgo-frontend | feature/realtime-map | bac9356 | feat: add reports component with template, styles, and tests | johancg04 | 2026-05-14 |
 | spotgo-frontend | feature/realtime-map | 07e26b3 | feat: add overview component with template, styles, and tests | johancg04 | 2026-05-14 |
-| spotgo-frontend | develop | ff8b350 | fix: index.js | AdrixRyz | 2026-05-14 |
-| spotgo-frontend | develop | bc47544 | fix: packages versions | AdrixRyz | 2026-05-14 |
-| spotgo-frontend | develop | a1f5266 | fix: vercel.json | AdrixRyz | 2026-05-14 |
-| spotgo-frontend | develop | 8a96193 | fix: vercel.json | AdrixRyz | 2026-05-14 |
-| spotgo-frontend | develop | e5a77e2 | fix: deploy config | AdrixRyz | 2026-05-14 |
-| spotgo-frontend | develop | 549272b | fix: deploy config | AdrixRyz | 2026-05-14 |
 
 #### *5.2.2.5. Execution Evidence for Sprint Review*
 
@@ -138,55 +127,53 @@ A continuación, se presenta la evidencia visual de las principales vistas, mód
 
 ### Vista de Usuario
 
-*Figura 88 (Dashboard)*
+*Figura 85 (Dashboard)*
 
-![Dashboard](../assets/images/execution-fronted/88-dashboard.png)
+![Dashboard](../assets/images/figures/85-dashboard.png)
 
-*Figura 89 (Reservations)*
+*Figura 86 (Reservations)*
 
-![Reservations](../assets/images/execution-fronted/89-reservations.png)
+![Reservations](../assets/images/figures/86-reservations.png)
 
-*Figura 90 (Subscriptions)*
+*Figura 87 (Subscriptions)*
 
-![Subscriptions](../assets/images/execution-fronted/90-subscription.png)
+![Subscriptions](../assets/images/figures/87-subscription.png)
 
-*Figura 91 (Receipts)*
+*Figura 88 (Receipts)*
 
-![Receipts](../assets/images/execution-fronted/91-receipts.png)
+![Receipts](../assets/images/figures/88-receipts.png)
 
-*Figura 92 (Favorites)*
+*Figura 89 (Favorites)*
 
-![Favorites](../assets/images/execution-fronted/92-favorites.png)
+![Favorites](../assets/images/figures/89-favorites.png)
 
-*Figura 93 (History)*
+*Figura 90 (History)*
 
-![History](../assets/images/execution-fronted/93-history.png)
+![History](../assets/images/figures/90-history.png)
 
 ### Vista de Administrador
 
-*Figura 94 (Real Time Map - Overview)*
+*Figura 91 (Real Time Map - Overview)*
 
-![Real Time Map - Overview](../assets/images/execution-fronted/94-overview.png)
+![Real Time Map - Overview](../assets/images/figures/91-overview.png)
 
-*Figura 95 (Real Time Map - Reports)*
+*Figura 92 (Real Time Map - Reports)*
 
-![Real Time Map - Reports](../assets/images/execution-fronted/95-reports.png)
+![Real Time Map - Reports](../assets/images/figures/92-reports.png)
 
-*Figura 96 (Real Time Map - Employees)*
+*Figura 93 (Real Time Map - Employees)*
 
-![Real Time Map - Employees](../assets/images/execution-fronted/96-employees.png)
+![Real Time Map - Employees](../assets/images/figures/93-employees.png)
 
-*Figura 97 (Analytics)*
+*Figura 94 (Analytics)*
 
-![Analytics](../assets/images/execution-fronted/97-analytics.png)
+![Analytics](../assets/images/figures/94-analytics.png)
 
-*Figura 98 (Settings)*
+*Figura 95 (Settings)*
 
-![Settings](../assets/images/execution-fronted/98-settings.png)
+![Settings](../assets/images/figures/95-settings.png)
 
-Video de Demostración de Navegación de la Web App:
-
-https://upcedupe-my.sharepoint.com/:f:/g/personal/u202423752_upc_edu_pe/IgA2kceyaesLRLXekQjDh4ArAVEEAL0OxNcOFE_COv4X7kw?e=JoYpwY
+**Web App Demostration Video:** [https://upcedupe-my.sharepoint.com/:f:/g/personal/u202423752_upc_edu_pe/IgA2kceyaesLRLXekQjDh4ArAVEEAL0OxNcOFE_COv4X7kw?e=JoYpwY](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202423752_upc_edu_pe/IgA2kceyaesLRLXekQjDh4ArAVEEAL0OxNcOFE_COv4X7kw?e=JoYpwY)
 
 #### *5.2.2.6. Services Documentation Evidence for Sprint Review*
 
@@ -217,19 +204,14 @@ A continuación, se presenta la relación de endpoints implementados y documenta
 
 #### *5.2.2.7. Software Deployment Evidence for Sprint Review*
 
-El despliegue continuo del Frontend de la aplicación web (Single Page Application) se encuentra configurado exitosamente en Vercel. 
+Durante el sprint 2 se implementó la infraestructura de despliegue continuo para la aplicación web SpotGo utilizando Vercel. La configuración de despliegue se realizó mediante el archivo `vercel.json`, que define las rutas de redirección, los endpoints de la API simulada y las variables de entorno necesarias para la correcta ejecución de la aplicación en producción.
 
-*Figura 99 (Software Deployment)*
+![Software Deployment](../assets/images/others/s2-deployment.png)
 
-![Software Deployment](../assets/images/figures/99-soft-deploy.png)
-
-
-Enlace al Frontend Desplegado (Angular): https://spotgo-frontend.vercel.app
+**Enlace al Frontend Desplegado (Angular):** [https://spotgo-frontend.vercel.app](https://spotgo-frontend.vercel.app)
 
 #### *5.2.2.8. Team Collaboration Insights during Sprint*
 
 Todos los miembros del equipo han participado activamente en la implementación de los productos del Sprint 2, lo cual se evidencia mediante los reportes de actividad y contribución del repositorio de GitHub de la organización Axiora.
 
-*Figura 100 (Team Insights Sprint 2)*
-
-![Team Insights Sprint 2](../assets/images/figures/100-team-insight-sprint2.png)
+![Team Insights Sprint 2](../assets/images/others/s2-insights.png)

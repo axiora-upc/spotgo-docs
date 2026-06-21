@@ -4,7 +4,7 @@
 
 Esta sección describe el diseño de las entrevistas de validación orientadas a evaluar la navegación y la experiencia de uso de SpotGo. La validación se realizará con los dos segmentos objetivo del proyecto: administradores o personal operativo de estacionamientos y conductores o usuarios finales. Para cada segmento se consideran los principales flujos de interacción dentro de la Web Application, las tareas que deberán realizar los participantes durante la sesión y las preguntas que permitirán identificar el nivel de claridad, utilidad, facilidad de uso y posibles oportunidades de mejora del producto.
 
-## Primer Segmento Objetivo: Administradores o personal operativo de estacionamiento
+**Primer Segmento Objetivo (Administradores o personal operativo de estacionamiento)**
 
 ### User Flows
 
@@ -40,7 +40,7 @@ Esta sección describe el diseño de las entrevistas de validación orientadas a
 8. ¿Las acciones como exportar registros, actualizar sincronización o solicitar soporte técnico son fáciles de encontrar?
 9. ¿Qué parte del sistema administrativo consideras más útil y qué parte podría generar confusión?
 
-## Segundo Segmento Objetivo: Conductores y usuarios finales
+**Segundo Segmento Objetivo (Conductores y usuarios finales (clientes))**
 
 ### User Flows
 
@@ -87,20 +87,77 @@ En esta sección se registrarán las entrevistas de validación realizadas a usu
 
 Para el segmento de administradores o personal operativo de estacionamiento, se buscará validar si el sistema permite supervisar la ocupación, interpretar métricas, reconocer estados de los espacios y realizar acciones administrativas de manera clara. Para el segmento de conductores y usuarios finales, se evaluará si la plataforma facilita la búsqueda de estacionamientos, la reserva de espacios, la consulta de favoritos, la revisión de recibos y el seguimiento del historial de uso.
 
-### Formato sugerido para cada entrevista
+**Validation Interviews Link:** 
 
-- **Entrevista N°**
-- **Segmento objetivo:**
-- **Nombre completo:**
-- **Edad:**
-- **Distrito:**
-- **Ocupación:**
-- **Inicio:**
-- **Duración:**
-- **Evidencia o enlace:**
-- **Tareas realizadas:**
-- **Principales observaciones:**
-- **Resumen de la entrevista:**
+**Primer Segmento Objetivo (Administradores o personal operativo de estacionamiento)**
+
+**Entrevista 1**
+
+| Screenshot: | ![Entrevista S1 1](../assets/images/interviews/validation/entrevista-1-1.png) |
+| --- | --- |
+| Inicia: |  |
+| Duración:|  |
+| Nombre completo: |  |
+| Edad: |  |
+| Distrito: |  |
+| Resumen: |  |
+
+**Entrevista 2**
+
+| Screenshot: | ![Entrevista S1 2](../assets/images/interviews/validation/entrevista-1-2.png) |
+| --- | --- |
+| Inicia: |  |
+| Duración:|  |
+| Nombre completo: |  |
+| Edad: |  |
+| Distrito: |  |
+| Resumen: |  |
+
+**Entrevista 3**
+
+| Screenshot: | ![Entrevista S1 3](../assets/images/interviews/validation/entrevista-1-3.png) |
+| --- | --- |
+| Inicia: |  |
+| Duración:|  |
+| Nombre completo: |  |
+| Edad: |  |
+| Distrito: |  |
+| Resumen: |  |
+
+**Segundo Segmento Objetivo (Conductores y usuarios finales (clientes))**
+
+**Entrevista 1**
+
+| Screenshot: | ![Entrevista S2 1](../assets/images/interviews/validation/entrevista-2-1.png) |
+| --- | --- |
+| Inicia: |  |
+| Duración:|  |
+| Nombre completo: |  |
+| Edad: |  |
+| Distrito: |  |
+| Resumen: |  |
+
+**Entrevista 2**
+
+| Screenshot: | ![Entrevista S2 2](../assets/images/interviews/validation/entrevista-2-2.png) |
+| --- | --- |
+| Inicia: |  |
+| Duración:|  |
+| Nombre completo: |  |
+| Edad: |  |
+| Distrito: |  |
+| Resumen: |  |
+
+**Entrevista 3**
+
+| Screenshot: | ![Entrevista S2 3](../assets/images/interviews/validation/entrevista-2-3.png) |
+| --- | --- |
+| Inicia: |  |
+| Duración:|  |
+| Nombre completo: |  |
+| Edad: |  |
+| Distrito: |  |
+| Resumen: |  |
 
 ## 5.3.3. Evaluaciones según heurísticas
 

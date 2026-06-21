@@ -132,13 +132,13 @@ El sistema incluye un módulo de analítica avanzada para administradores, permi
 
 ### 2.2.2. Registro de entrevistas
 
-Video Link: https://www.capcut.com/sv2/ZS9LoHLMkdL5V-kGTXS/
+**Needfinding Interviews Link:** [https://www.capcut.com/sv2/ZS9LoHLMkdL5V-kGTXS](https://www.capcut.com/sv2/ZS9LoHLMkdL5V-kGTXS)
 
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
 **Entrevista 1**
 
-| Screenshot: | ![Entrevista SO1 1](../assets/images/interviews/needfinding/entrevista-1-1.png) |
+| Screenshot: | ![Entrevista S1 1](../assets/images/interviews/needfinding/entrevista-1-1.png) |
 | --- | --- |
 | Inicia: | 00:00 |
 | Duración:| 4:50 |
@@ -149,7 +149,7 @@ Video Link: https://www.capcut.com/sv2/ZS9LoHLMkdL5V-kGTXS/
 
 **Entrevista 2**
 
-| Screenshot: | ![Entrevista SO1 2](../assets/images/interviews/needfinding/entrevista-1-2.png) |
+| Screenshot: | ![Entrevista S1 2](../assets/images/interviews/needfinding/entrevista-1-2.png) |
 | --- | --- |
 | Inicia: | 04:50 |
 | Duración:| 5:04 |
@@ -160,20 +160,20 @@ Video Link: https://www.capcut.com/sv2/ZS9LoHLMkdL5V-kGTXS/
 
 **Entrevista 3**
 
-| Screenshot: | ![Entrevista SO1 3](../assets/images/interviews/needfinding/entrevista-1-3.png) |
+| Screenshot: | ![Entrevista S1 3](../assets/images/interviews/needfinding/entrevista-1-3.png) |
 | --- | --- |
 | Inicia: | 10:44 |
 | Duración:| 6:16 |
 | Nombre completo: | Juan Vega |
 | Edad: | 30 |
 | Distrito: | La Victoria |
-| Resumen: | La entrevista a Juan Carlos, un administrador de estacionamientos de 30 años, expone las dificultades de una gestión basada en procesos manuales, registros en papel y vigilancia visual, lo que genera desorden en horas pico y un control ineficiente de los espacios reservados. Debido a la falta de un sistema en tiempo real, el personal debe realizar rondas a pie y vocear placas para gestionar la ocupación, una carga operativa que el administrador busca eliminar. En este contexto, la propuesta de la aplicación "Spotg" es recibida con gran optimismo, ya que el uso de sensores para identificar vehículos y un mapa en vivo permitiría automatizar la asignación de lugares, mejorar el control de pagos y proyectar una imagen mucho más profesional y organizada de la empresa. |
+| Resumen: | La entrevista a Juan Carlos, un administrador de estacionamientos de 30 años, expone las dificultades de una gestión basada en procesos manuales, registros en papel y vigilancia visual, lo que genera desorden en horas pico y un control ineficiente de los espacios reservados. Debido a la falta de un sistema en tiempo real, el personal debe realizar rondas a pie y vocear placas para gestionar la ocupación, una carga operativa que el administrador busca eliminar. En este contexto, la propuesta de la aplicación "SpotGo" es recibida con gran optimismo, ya que el uso de sensores para identificar vehículos y un mapa en vivo permitiría automatizar la asignación de lugares, mejorar el control de pagos y proyectar una imagen mucho más profesional y organizada de la empresa. |
 
 **Segundo Segmento Objetivo (Conductores y usuarios finales (clientes))**
 
 **Entrevista 1**
 
-| Screenshot: | ![Entrevista SO2 1](../assets/images/interviews/needfinding/entrevista-2-1.png) |
+| Screenshot: | ![Entrevista S2 1](../assets/images/interviews/needfinding/entrevista-2-1.png) |
 | --- | --- |
 | Inicia: | 17:01 |
 | Duración:| 3:53 |
@@ -184,7 +184,7 @@ Video Link: https://www.capcut.com/sv2/ZS9LoHLMkdL5V-kGTXS/
 
 **Entrevista 2**
 
-| Screenshot: | ![Entrevista SO2 2](../assets/images/interviews/needfinding/entrevista-2-2.png) |
+| Screenshot: | ![Entrevista S2 2](../assets/images/interviews/needfinding/entrevista-2-2.png) |
 | --- | --- |
 | Inicia: | 20:54 |
 | Duración:| 6:34 |
@@ -324,22 +324,22 @@ Se utilizó la guía Step-by-Step Guide de Philippe Bourgau, proporcionada en la
 - Explore
 - Close
 
-Miro Board Link: https://miro.com/welcomeonboard/V2xyaEY4TCtuVTdxSEYvWlJwdFNGZkkvNmJnSDc2dUhrWkQ4MjlvOFB2dVQzd3hadHFBVXpROVE4UGFDbVI3NXY1NDFuam5BMVg3R1hKZEswQWV3TThSN09OOXpNNklYZDlJV2R6Z2hjSFJ6L2NzdGo1MXhGamo1WVVFMFdwaWNyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=953121470391
+**Miro Board Link:** [https://miro.com/welcomeonboard/V2xyaEY4TCtuVTdxSEYvWlJwdFNGZkkvNmJnSDc2dUhrWkQ4MjlvOFB2dVQzd3hadHFBVXpROVE4UGFDbVI3NXY1NDFuam5BMVg3R1hKZEswQWV3TThSN09OOXpNNklYZDlJV2R6Z2hjSFJ6L2NzdGo1MXhGamo1WVVFMFdwaWNyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=953121470391](https://miro.com/welcomeonboard/V2xyaEY4TCtuVTdxSEYvWlJwdFNGZkkvNmJnSDc2dUhrWkQ4MjlvOFB2dVQzd3hadHFBVXpROVE4UGFDbVI3NXY1NDFuam5BMVg3R1hKZEswQWV3TThSN09OOXpNNklYZDlJV2R6Z2hjSFJ6L2NzdGo1MXhGamo1WVVFMFdwaWNyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=953121470391)
 
 *Figura 10 (Big Picture EventStorming)*
 ![Big Picture EventStorming](../assets/images/figures/10-big-picture-event-storming.jpg)
 
 ## 2.5. Ubiquitous Language
 
-* **Parking Spot (Espacio de estacionamiento):** Espacio físico individual delimitado dentro de las instalaciones destinado para que un solo vehículo se estacione.
-* **Parking Zone (Zona de estacionamiento):** Área o sector específico dentro de la playa de estacionamiento que agrupa múltiples *Parking Spots* y que está designada exclusivamente para un *User Profile* en particular (ej. zona verde para visitantes, zona amarilla para taxistas).
-* **User Profile (Perfil de usuario):** Categoría asignada a un conductor que determina sus privilegios, tarifas y la *Parking Zone* a la cual debe dirigirse. Los perfiles principales incluyen *Visitor* (visitante), *Taxi Driver* (taxista) y *Staff* (personal).
-* **Occupancy Status (Estado de ocupación):** Condición actual en tiempo real de un *Parking Spot* o *Parking Zone*. Puede encontrarse en estado *Available* (disponible), *Occupied* (ocupado) o *Reserved* (reservado).
-* **Smart Routing (Enrutamiento inteligente):** Proceso mediante el cual el sistema asigna y guía automáticamente a un vehículo hacia su *Parking Zone* correspondiente basándose en su *User Profile* al momento del ingreso.
-* **Unauthorized Parking (Estacionamiento indebido):** Evento o infracción que ocurre cuando un vehículo ocupa un *Parking Spot* que pertenece a una *Parking Zone* no autorizada para su *User Profile*.
-* **Real-time Monitoring (Monitoreo en tiempo real):** Acción de supervisión continua por parte de los administradores para visualizar el flujo de vehículos y el *Occupancy Status* actualizado al instante gracias a los sensores en la infraestructura.
-* **Check-in / Check-out (Ingreso / Salida):** Eventos que marcan el momento exacto en el que un vehículo cruza la barrera de entrada al estacionamiento (iniciando su estadía) y el momento en el que se retira (finalizando su estadía y procesando el pago).
-* **Availability Alert (Alerta de disponibilidad):** Notificación automática enviada al dispositivo del usuario informando sobre los espacios libres en su zona, o al administrador alertando sobre un *Unauthorized Parking* o capacidad máxima alcanzada.
-* **Dashboard (Panel de control):** Interfaz visual y de gestión utilizada exclusivamente por el personal administrativo para supervisar las zonas, controlar el flujo vehicular y obtener analíticas de ocupación.
-* **IoT Sensor (Sensor IoT):** Dispositivo de hardware físico instalado en cada *Parking Spot* o barrera de acceso que detecta la presencia del vehículo y alimenta al sistema central con datos del entorno físico.
-* **Digital Payment (Pago digital):** Transacción económica realizada directamente desde la aplicación por el usuario (conductor) para cancelar el tiempo de uso de su *Parking Spot* sin necesidad de interactuar con cajeros físicos.
+- **Parking Spot (Espacio de estacionamiento):** Espacio físico individual delimitado dentro de las instalaciones destinado para que un solo vehículo se estacione.
+- **Parking Zone (Zona de estacionamiento):** Área o sector específico dentro de la playa de estacionamiento que agrupa múltiples *Parking Spots* y que está designada exclusivamente para un *User Profile* en particular (ej. zona verde para visitantes, zona amarilla para taxistas).
+- **User Profile (Perfil de usuario):** Categoría asignada a un conductor que determina sus privilegios, tarifas y la *Parking Zone* a la cual debe dirigirse. Los perfiles principales incluyen *Visitor* (visitante), *Taxi Driver* (taxista) y *Staff* (personal).
+- **Occupancy Status (Estado de ocupación):** Condición actual en tiempo real de un *Parking Spot* o *Parking Zone*. Puede encontrarse en estado *Available* (disponible), *Occupied* (ocupado) o *Reserved* (reservado).
+- **Smart Routing (Enrutamiento inteligente):** Proceso mediante el cual el sistema asigna y guía automáticamente a un vehículo hacia su *Parking Zone* correspondiente basándose en su *User Profile* al momento del ingreso.
+- **Unauthorized Parking (Estacionamiento indebido):** Evento o infracción que ocurre cuando un vehículo ocupa un *Parking Spot* que pertenece a una *Parking Zone* no autorizada para su *User Profile*.
+- **Real-time Monitoring (Monitoreo en tiempo real):** Acción de supervisión continua por parte de los administradores para visualizar el flujo de vehículos y el *Occupancy Status* actualizado al instante gracias a los sensores en la infraestructura.
+- **Check-in / Check-out (Ingreso / Salida):** Eventos que marcan el momento exacto en el que un vehículo cruza la barrera de entrada al estacionamiento (iniciando su estadía) y el momento en el que se retira (finalizando su estadía y procesando el pago).
+- **Availability Alert (Alerta de disponibilidad):** Notificación automática enviada al dispositivo del usuario informando sobre los espacios libres en su zona, o al administrador alertando sobre un *Unauthorized Parking* o capacidad máxima alcanzada.
+- **Dashboard (Panel de control):** Interfaz visual y de gestión utilizada exclusivamente por el personal administrativo para supervisar las zonas, controlar el flujo vehicular y obtener analíticas de ocupación.
+- **IoT Sensor (Sensor IoT):** Dispositivo de hardware físico instalado en cada *Parking Spot* o barrera de acceso que detecta la presencia del vehículo y alimenta al sistema central con datos del entorno físico.
+- **Digital Payment (Pago digital):** Transacción económica realizada directamente desde la aplicación por el usuario (conductor) para cancelar el tiempo de uso de su *Parking Spot* sin necesidad de interactuar con cajeros físicos.

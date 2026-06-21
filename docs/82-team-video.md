@@ -1,1 +1,9 @@
-# About-The-Team
+# Video About-The-Team
+
+En esta sección se presenta el video About-the-Team de Axiora, equipo responsable del desarrollo de SpotGo. El video permite conocer a los integrantes del grupo, sus perfiles, responsabilidades y la forma en que colaboraron durante el proyecto para construir una solución orientada a mejorar la gestión clínica y administrativa en establecimientos de salud.
+
+Asimismo, se muestra cómo el equipo organizó el trabajo durante las distintas etapas del proyecto, desde la investigación inicial y el diseño de la propuesta, hasta la implementación del frontend, backend, despliegue y validación de SpotGo.
+
+**Video About-the-Team Link:** 
+
+![Video About-the-Team](../assets/images/others/team-video-evidence.png)

@@ -4,13 +4,13 @@ Repositorio de documentacion del proyecto **SpotGo**, desarrollado por la startu
 
 ## Resumen
 
-SpotGo propone una solucion para mejorar la gestion de estacionamientos con alta demanda, enfocandose en:
+SpotGo propone una solución para mejorar la gestion de estacionamientos con alta demanda, enfocandose en:
 
 - Organizacion de espacios por tipo de usuario.
 - Reduccion del tiempo de busqueda de estacionamiento.
 - Mejor experiencia para conductores y personal administrativo.
 
-Este repositorio contiene el informe completo del trabajo final, incluyendo investigacion, analisis, diseno, arquitectura, implementacion y evidencia de sprint.
+Este repositorio contiene el informe completo del trabajo final, incluyendo investigación, análisis, diseño, arquitectura, implementación y evidencia de sprint.
 
 ## Datos del Proyecto
 
@@ -34,50 +34,24 @@ Este repositorio contiene el informe completo del trabajo final, incluyendo inve
 | Contreras Rojas, Cesar Jair | U20241D995 |
 | Contreras Granados, Johan Alexis | U202423752 |
 
-
 ## Indice del Informe
 
 - [Portada, registro de versiones y tabla de contenidos](docs/00-cover.md)
-- [Capitulo I: Introduccion](docs/10-chap-1.md)
+- [Capítulo I: Introducción](docs/10-chap-1.md)
 - [Capitulo II: Requirements Elicitation & Analysis](docs/20-chap-2.md)
 - [Capitulo III: Requirements Specification](docs/30-chap-3.md)
 - [Capitulo IV: Product Design](docs/40-chap-4.md)
 - [Capitulo V: Product Implementation, Validation & Deployment](docs/50-chap-5.md)
 - [Sprint 1](docs/51-sprint-1.md)
 - [Sprint 2](docs/52-sprint-2.md)
+- [Sprint 3](docs/53-sprint-3.md)
+- [Validation Interviews](docs/60-validation-interviews.md)
+- [Video About-the-Product](docs/70-product-video.md)
 - [Conclusiones](docs/80-conclusions.md)
 - [Recomendaciones](docs/81-recommendations.md)
+- [Video About-the-Team](docs/82-team-video.md)
 - [Bibliografia](docs/90-bibliography.md)
 - [Anexos](docs/99-annexes.md)
-
-## Estructura del Repositorio
-
-```text
-.
-|-- README.md
-|-- assets/
-|   |-- diagrams/
-|   |   `-- class-diagram.puml
-|   `-- images/
-|       |-- figures/
-|       |-- interviews/
-|       |   `-- needfinding/
-|       |-- others/
-|       `-- team-photos/
-`-- docs/
-	|-- 00-cover.md
-	|-- 10-chap-1.md
-	|-- 20-chap-2.md
-	|-- 30-chap-3.md
-	|-- 40-chap-4.md
-	|-- 50-chap-5.md
-	|-- 51-sprint-1.md
-	|-- 52-sprint-2.md
-	|-- 80-conclusions.md
-	|-- 81-recommendations.md
-	|-- 90-bibliography.md
-	`-- 99-annexes.md
-```
 
 ## Como Revisar la Documentacion
 
@@ -96,4 +70,4 @@ En el informe se define el uso de:
 
 ## Estado
 
-Documento actualizado con los entregables registrados hasta mayo de 2026.
+Documento actualizado con los entregables registrados hasta junio de 2026.

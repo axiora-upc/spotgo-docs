@@ -168,7 +168,7 @@ SpotGo – Smart parking, for both sides of the curb.
 - **Meta Description:**
 Drivers find and reserve open spots in seconds with live IoT data. Operators manage spaces, monitor occupancy and grow revenue from a single dashboard.
 - **Keywords:**
-For drivers, For Operators, How it works, Princing, FAQ
+For drivers, For Operators, How it works, Pricing, FAQ
 - **Author:**
 Axiora
 
@@ -181,7 +181,7 @@ SpotGo Dashboard
 - **Meta Description:**
 Access live parking data, view available spots, manage reservations, and monitor your active parking session in real time.
 - **Keywords:**
-Live updates, Availble Nearby, Active Reservation, Saved Locations, Avg.Savings
+Live updates, Available Nearby, Active Reservation, Saved Locations, Avg.Savings
 - **Author:**
 Axiora
 
@@ -190,7 +190,7 @@ Axiora
 - **Title:**
 My Reservations
 - **Meta Description:**
-Manage tour active and upcoming bookings.
+Manage your active and upcoming bookings.
 - **Keywords:**
 Extend Time, Navigate, Active, Upcoming
 - **Author:**
@@ -214,7 +214,7 @@ Digital Receipts
 - **Meta Description:**
 Access, download, and email your parking transaction history
 - **Keywords:**
-Total receipts, Total Spoent, This month, PDF, Email, Paid Refunded
+Total receipts, Total Spent, This month, PDF, Email, Paid Refunded
 - **Author:**
 Axiora
 
@@ -234,7 +234,7 @@ Axiora
 - **Title:**
 Parking History
 - **Meta Description:**
-n° pas reservations
+n° past reservations
 - - **Keywords:**
 Rate, Spot
 - **Author:**
@@ -255,9 +255,9 @@ Axiora
 
 *Employees*
 - **Title:** 
-Watch your employees, their assassinated parking spot if they have one. If they’re on duty or they’re off
+Watch your employees, their assigned parking spot if they have one. If they’re on duty or they’re off
 - **Meta Description:**
-Watch your employees, their assassinated parking spot if they have one. If they’re on duty or they’re off
+Watch your employees, their assigned parking spot if they have one. If they’re on duty or they’re off
 - **Keywords:**
 On Duty
 - **Author:**
@@ -278,9 +278,9 @@ Axiora
 - **Title:**
 Reports
 - **Meta Description:**
-Watch a series of records which englove, accidents inside the building, missing reservations, etc.
+Watch a series of records which include accidents inside the building, missing reservations, etc.
 - **Keywords:**
-Unathorized parking
+Unauthorized parking
 - **Author:**
 Axiora
 
@@ -539,7 +539,7 @@ Se utilizó la guía de Philippe Bourgau, proporcionada en la rúbrica del Final
 - Aggregates
 - Bounded Contexts
 
-Miro Board Link: https://miro.com/welcomeonboard/V2xyaEY4TCtuVTdxSEYvWlJwdFNGZkkvNmJnSDc2dUhrWkQ4MjlvOFB2dVQzd3hadHFBVXpROVE4UGFDbVI3NXY1NDFuam5BMVg3R1hKZEswQWV3TThSN09OOXpNNklYZDlJV2R6Z2hjSFJ6L2NzdGo1MXhGamo1WVVFMFdwaWNyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=953121470391
+**Miro Board Link:** [https://miro.com/welcomeonboard/V2xyaEY4TCtuVTdxSEYvWlJwdFNGZkkvNmJnSDc2dUhrWkQ4MjlvOFB2dVQzd3hadHFBVXpROVE4UGFDbVI3NXY1NDFuam5BMVg3R1hKZEswQWV3TThSN09OOXpNNklYZDlJV2R6Z2hjSFJ6L2NzdGo1MXhGamo1WVVFMFdwaWNyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=953121470391](https://miro.com/welcomeonboard/V2xyaEY4TCtuVTdxSEYvWlJwdFNGZkkvNmJnSDc2dUhrWkQ4MjlvOFB2dVQzd3hadHFBVXpROVE4UGFDbVI3NXY1NDFuam5BMVg3R1hKZEswQWV3TThSN09OOXpNNklYZDlJV2R6Z2hjSFJ6L2NzdGo1MXhGamo1WVVFMFdwaWNyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=953121470391)
 
 *Figura 67 (Design Level EventStorming)*  
 ![Design Level EventStorming](../assets/images/figures/67-design-level-event-storming.jpg)

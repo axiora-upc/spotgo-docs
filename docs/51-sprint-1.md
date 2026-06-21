@@ -2,7 +2,7 @@
 
 #### *5.2.1.1. Sprint Planning 1*
 
-Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing page de nuestra aplicación. Para ello designamos tareas específicas para cada sección, de modo que podamos repartirnos estas tareas entre los integrantes del grupo por seccion de la landing, agilizando su desarrollo. Dentro de la landing se presenta quienes somos, funcionalidades, planes, manera de contactarnos y sobre la organización.
+Para el desarrollo del primer sprint nos centramos en el desarrollo de la landing page de nuestra aplicación. Para ello designamos tareas específicas para cada sección, de modo que podamos repartirnos estas tareas entre los integrantes del grupo por sección de la landing, agilizando su desarrollo. Dentro de la landing se presenta quienes somos, funcionalidades, planes, manera de contactarnos y sobre la organización.
 
 | **Sprint #** | 1 |
 | --- | --- |
@@ -15,7 +15,7 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
 | **Sprint n – 1 Review Summary** | N/A (Primer Sprint del proyecto. Se establecieron las bases de la arquitectura, infraestructura en la nube y repositorios). |
 | **Sprint n – 1 Retrospective Summary** | N/A (Primer Sprint. El equipo acordó usar GitFlow y Conventional Commits rigurosamente desde el primer día). |
 | **Sprint Goal & User Stories** | |
-| **Sprint 1 Goal** | OOur focus is on delivering a fast, static Landing Page (HTML/CSS/JS) with language support to attract clients and validate our value proposition. This will be confirmed when the Landing Page is deployed and fully navigable by users. |
+| **Sprint 1 Goal** | Our focus is on delivering a fast, static Landing Page (HTML/CSS/JS) with language support to attract clients and validate our value proposition. This will be confirmed when the Landing Page is deployed and fully navigable by users. |
 | **Sprint 1 Velocity** | 10 Story Points (Velocidad estimada para el primer ciclo del equipo). |
 | **Sum of Story Points** | 10 |
 
@@ -33,7 +33,11 @@ A continuación se detalla la matriz de liderazgo y colaboración (LACX) para br
 
 #### *5.2.1.3. Sprint Backlog 1*
 
-Se presentan los User Stories asignados a este Sprint y su descomposición en Work-items o tareas técnicas específicas.
+El sprint backlog se estructuró en torno a la creación de una Landing Page estática, rápida y responsiva, con soporte para cambio de idioma (Español/Inglés) y navegación fluida. Cada User Story se descompuso en tareas técnicas concretas, asignadas a los miembros del equipo según sus roles de liderazgo y colaboración definidos en la matriz LACX.
+
+**Trello link:** [https://trello.com/invite/b/6a3044b58529d68c1f19afee/ATTIa322332a59d2dc5bf472752e3591fc3f5CBEB433/axiora-trello](https://trello.com/invite/b/6a3044b58529d68c1f19afee/ATTIa322332a59d2dc5bf472752e3591fc3f5CBEB433/axiora-trello)
+
+![Sprint Backlog 1](../assets/images/others/s1-sprint-backlog.png)
 
 | User Story Id | User Story Title | Work-Item / Task Id | Work-Item / Task Title | Description | Estimation (Hours) | Assigned To | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -49,7 +53,7 @@ En la siguiente tabla se resumen los principales commits realizados en los repos
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on |
 | --- | --- | --- | --- | --- | --- |
-| axiora-upc/spotgo-landing | feature/struct | 0ea6e9e | feat: add initial structure | Implementa la estrucutra principal del proyecto así como el header y el footer. | 2026-04-24 |
+| axiora-upc/spotgo-landing | feature/struct | 0ea6e9e | feat: add initial structure | Implementa la estructura principal del proyecto así como el header y el footer. | 2026-04-24 |
 | axiora-upc/spotgo-landing | feature/hero-trustedbar-drivers | a5693ee | feat: add structure and styles of hero, trustedbar and drivers section | Implementa las secciones de hero, trustedbar y drivers section. | 2026-04-24 |
 | axiora-upc/spotgo-landing | feature/operators-stats | 58c8633 | feat: add operators and stats sections | Implementa las secciones de operators y stats | 2026-04-25 |
 | axiora-upc/spotgo-landing | feature/pricing-faq | 11ed754 | feat: add pricing, testimonials and faq sections | Implementa las secciones de pricing, testimonials y faq | 2026-04-25 |
@@ -75,15 +79,10 @@ N/A. Durante el Sprint 1 el esfuerzo de desarrollo se enfocó exclusivamente en 
 
 Para el despliegue continuo (CI/CD) de este Sprint, se configuró el entorno de GitHub Pages conectado directamente al repositorio de GitHub del Landing Page estático, permitiendo publicaciones automáticas y ultra-rápidas con cada PR fusionado en la rama main.
 
-*Figura 85 (Software Deployment for Sprint 1 1)*
-![Software Deployment for Sprint 1 1](../assets/images/figures/85-software-deployment-s1-1.png)
-
-*Figura 86 (Software Deployment for Sprint 1 2)*
-![Software Deployment for Sprint 1 2](../assets/images/figures/86-software-deployment-s1-2.png)
+![Software Deployment for Sprint 1 2](../assets/images/others/s1-deployment.png)
 
 #### *5.2.1.8. Team Collaboration Insights during Sprint*
 
 Todos los miembros del equipo han participado activamente en la implementación de los productos del Sprint 1, lo cual se evidencia mediante los reportes de actividad y contribución del repositorio de GitHub de la organización Axiora.
 
-*Figura 87 (Team Insights Sprint 1)*
-![Team Insights Sprint 1](../assets/images/figures/87-team-insights-sprint-1.png)
+![Team Insights Sprint 1](../assets/images/others/s1-insights.png)

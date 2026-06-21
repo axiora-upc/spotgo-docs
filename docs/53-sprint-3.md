@@ -2,7 +2,7 @@
 
 #### *5.2.3.1. Sprint Planning 3*
 
-Para el desarrollo del tercer sprint nos centramos en el elaboracion del backend de nuetra aplicación, para ello lo dividimos de acuerdo a la cantidad de bounded context con cada integrante del grupo (fueron 5 bounded context, 1 por cada integrante). El back sera elaborado teniendo en cuenta el flujo de datos del Diagrama de Base de datos.
+Para el desarrollo del tercer sprint nos centramos en el elaboración del backend de nuestra aplicación, para ello lo dividimos de acuerdo a la cantidad de bounded context con cada integrante del grupo (fueron 5 bounded context, 1 por cada integrante). El back sera elaborado teniendo en cuenta el flujo de datos del Diagrama de Base de datos.
 
 | **Sprint #** | 3 |
 | --- | --- |
@@ -34,11 +34,11 @@ A continuación se detalla la matriz de liderazgo y colaboración (LACX) para br
 
 #### *5.2.3.3. Sprint Backlog 3*
 
-El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reemplazar progresivamente los servicios simulados por APIs reales. Las tareas cubren documentación Swagger, persistencia por contexto, endpoints para recivos, planes de clientes, suscripciones, reservas, parking, además de la integración del frontend con datos provenientes del servidor.
+El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reemplazar progresivamente los servicios simulados por APIs reales. Las tareas cubren documentación Swagger, persistencia por contexto, endpoints para recibos, planes de clientes, suscripciones, reservas, parking, además de la integración del frontend con datos provenientes del servidor.
 
-**Trello link:** https://trello.com/invite/b/6a3044b58529d68c1f19afee/ATTIa322332a59d2dc5bf472752e3591fc3f5CBEB433/axiora-trello 
+**Trello link:** [https://trello.com/invite/b/6a3044b58529d68c1f19afee/ATTIa322332a59d2dc5bf472752e3591fc3f5CBEB433/axiora-trello](https://trello.com/invite/b/6a3044b58529d68c1f19afee/ATTIa322332a59d2dc5bf472752e3591fc3f5CBEB433/axiora-trello )
 
-![Sprint Backlog](../assets/images/others/trello-capture-sprint3.png)
+![Sprint Backlog 3](../assets/images/others/s3-sprint-backlog.png)
 
 | User Story Id | User Story Title | Work-Item / Task Id | Work-Item / Task Title | Description | Estimation (Hours) | Assigned To | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -101,11 +101,11 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
 
 #### *5.2.3.5. Execution Evidence for Sprint Review*
 
-Durante el Sprint 3 se logró avanzar en la integración funcional entre el frontend y los servicios backend desarrollados para los principales flujos de SpotGo. Se implementaron y validaron vistas relacionadas, las reservas, suscripciones, recivos, parking favoritos, historial de parkings en lo que respecta a la vista de usuario y mapa en tiempo real, reportes, lista de empleados, sección de analytics y configuración para adiministrador. Reemplazando progresivamente el uso de datos simulados por peticiones reales a la API. Las evidencias de ejecución presentadas en esta sección muestran las principales vistas implementadas y permiten comprobar que los usuarios pueden interactuar con funcionalidades clave del sistema dentro del alcance definido para el Sprint.
+Durante el Sprint 3 se logró avanzar en la integración funcional entre el frontend y los servicios backend desarrollados para los principales flujos de SpotGo. Se implementaron y validaron vistas relacionadas, las reservas, suscripciones, recibos, parking favoritos, historial de parkings en lo que respecta a la vista de usuario y mapa en tiempo real, reportes, lista de empleados, sección de analytics y configuración para adiministrador. Reemplazando progresivamente el uso de datos simulados por peticiones reales a la API. Las evidencias de ejecución presentadas en esta sección muestran las principales vistas implementadas y permiten comprobar que los usuarios pueden interactuar con funcionalidades clave del sistema dentro del alcance definido para el Sprint.
 
 **Principales entregables funcionales:**
 
-- Endpoints REST para gestión de recivos, planes para clientes, suscripciones, reservaciones, parkings, detección de parking spots y croquis.
+- Endpoints REST para gestión de recibos, planes para clientes, suscripciones, reservaciones, parkings, detección de parking spots y croquis.
 - Integración de la capa de consumo del frontend con los servicios backend reales.
 - Validación de flujos de usuario tanto para conductor como para administrador.
 - Despliegue del backend en un entorno de producción para su integración continua con el frontend.
@@ -129,23 +129,34 @@ Durante el Sprint 3 se documentaron los endpoints REST correspondientes a los co
 
 Para mostrar la interacción, ejecutamos algunos endpoints.
 
-1. GET /api/v1/receipts el cual permite buscar recibos a traves de su codigo de reserva.
+1. GET /api/v1/receipts el cual nos permite buscar todos los recibos y/o buscar recibos por bookingCode.
 
-![GET-receipts](../assets/images/others/GET-receipts.png)
+![GET receipts](../assets/images/others/GET-receipts.png)
 
-2. POST /api/v1/receipts el cual añade un recibo a la base de datos.
+2. POST /api/v1/reservations el cual nos permite añadir una reserva a la base de datos.
 
-![POST-receipts](../assets/images/others/POST-receipts.png)
+![POST reservations](../assets/images/others/POST-reservations.png)
 
-3. GET /api/v1/clientPlans el caul nos permite buscar los diversos planes que se lo ofrecen a los clientes
+3. PUT /api/v1/subscriptions/{subscriptionId} el cual nos permite actualizar la información de una suscripción.
 
-![GET-receipts](../assets/images/others/GET-clientPlans.png)
+![PUT subscriptions](../assets/images/others/PUT-subscriptions.png)
 
 #### *5.2.3.7. Software Deployment Evidence for Sprint Review*
 
+Durante el Sprint 3 se realizó el despliegue del backend de SpotGo en un entorno de producción utilizando Railway como plataforma de hosting. Este despliegue permitió validar la correcta configuración del entorno, la conexión a la base de datos PostgreSQL y la disponibilidad de los servicios REST implementados para su consumo desde el frontend. La evidencia presentada en esta sección muestra capturas del proceso de despliegue en Railway, confirmando que el backend está operativo y accesible para su integración con el frontend.
+
+**Swagger Documentation Link:** [https://spotgo-backend-axiora.up.railway.app/swagger-ui/index.html](https://spotgo-backend-axiora.up.railway.app/swagger-ui/index.html)
+
+![Deployment for Sprint 3 Part 1](../assets/images/others/s3-deployment-1.png)
+
+![Deployment for Sprint 3 Part 2](../assets/images/others/s3-deployment-2.png)
+
+![Deployment for Sprint 3 Part 3](../assets/images/others/s3-deployment-3.png)
+
 #### *5.2.3.8. Team Collaboration Insights during Sprint*
 
-Para la organización técnica del desarrollo del Backend, el equipo adoptó un flujo de trabajo basado en GitFlow con ramas de características (feature/) bien definidas (como feature/parking, feature/billing-module, etc.), garantizando una integración ordenada hacia la rama develop.
+Para la organización técnica del desarrollo del Backend, el equipo adoptó un flujo de trabajo basado en GitFlow con ramas de características (feature/) bien definidas (como feature/parking, feature/billing, etc.), garantizando una integración ordenada hacia la rama develop.
 
 A continuación se presenta la evidencia de las interacciones y control de colaboración registrados durante el transcurso de este Sprint:
 
+![Team Insights Sprint 3](../assets/images/others/s3-insights.png)
