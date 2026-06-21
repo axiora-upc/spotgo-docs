@@ -4,6 +4,8 @@
 
 Esta sección describe el diseño de las entrevistas de validación orientadas a evaluar la navegación y la experiencia de uso de SpotGo. La validación se realizará con los dos segmentos objetivo del proyecto: administradores o personal operativo de estacionamientos y conductores o usuarios finales. Para cada segmento se consideran los principales flujos de interacción dentro de la Web Application, las tareas que deberán realizar los participantes durante la sesión y las preguntas que permitirán identificar el nivel de claridad, utilidad, facilidad de uso y posibles oportunidades de mejora del producto.
 
+**Validation Interviews Link:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e321_upc_edu_pe/IQAk4z3kWBHSSIjacQX92K-yAU1F1K-hu-iHICws5o4SayA?e=ZSgRmX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e321_upc_edu_pe/IQAk4z3kWBHSSIjacQX92K-yAU1F1K-hu-iHICws5o4SayA?e=ZSgRmX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 **Primer Segmento Objetivo (Administradores o personal operativo de estacionamiento)**
 
 ### User Flows
@@ -160,22 +162,17 @@ En esta sección se presentará la evaluación heurística de la experiencia de 
 
 La evaluación permitirá identificar problemas de usabilidad en las vistas del usuario y del administrador, priorizar su severidad y proponer mejoras concretas para optimizar la experiencia general del sistema. En el caso del usuario final, se revisarán pantallas como Dashboard, Reservations, Subscriptions, Receipts, Favorites y History. En el caso del administrador, se evaluarán Real-time Map, Analytics Dashboard y Settings.
 
-## UX Heuristics & Principles Evaluation  
-**Usability – Inclusive Design – Information Architecture**
+**UX Heuristics & Principles Evaluation**
 
-**CARRERA:** Ingeniería de Software  
-**CURSO:** Desarrollo de Aplicaciones Open Source  
-**SECCIÓN:** 12029  
-**PROFESORES:** Todos  
-**AUDITOR:** Equipo de evaluación UX SpotGo  
-**CLIENTE(S):** Usuarios del sistema SpotGo  
+**Carrera:** Ingeniería de Software  
+**Curso:** Desarrollo de Aplicaciones Open Source  
+**Sección:** 12029  
+**Profesor:** Mori Paiva, Hugo Allan
+**Auditor:** Equipo de evaluación UX SpotGo  
+**Cliente(S):** Usuarios del sistema SpotGo  
+**Site o App a evaluar:** SpotGo
 
-
-### SITE o APP A EVALUAR:
-**SpotGo**
-
-
-## TAREAS A EVALUAR:
+**Tareas a evaluar**
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
@@ -188,102 +185,75 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 7. Analizar reportes y métricas desde el dashboard  
 8. Administrar empleados  
 
-
-## ESCALA DE SEVERIDAD:
+**Escala de severidad**
 
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 | Nivel | Descripción |
-|------|-------------|
+| --- | --- |
 | 1 | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
 | 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al siguiente release. |
 | 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
 | 4 | Problema muy grave: error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
 
-
-## TABLA RESUMEN:
+**Tabla resumen**
 
 | # | Problema | Escala de severidad | Heurística/Principio violada(o) |
-|---|----------|---------------------|----------------------------------|
+| --- | --- | --- | --- |
 | 1 | La información de disponibilidad en el mapa no diferencia claramente los estados de los espacios. | 2 | Usability: Reconocimiento antes que recuerdo |
 | 2 | Los módulos de Analytics muestran demasiada información en una sola vista. | 2 | Usability: Diseño estético y minimalista |
 | 3 | El historial de reservas mezcla reservas activas y finalizadas sin suficiente diferenciación. | 2 | Usability: Prevención de errores |
 | 4 | Los planes y estados de suscripción no se diferencian claramente por color. | 2 | Usability: Consistencia y estándares |
 | 5 | Algunas acciones importantes no muestran confirmación visual al completarse. | 2 | Usability: Visibilidad del estado del sistema |
 
+**Descripción de problemas**
 
-## DESCRIPCIÓN DE PROBLEMAS:
-
-
-### PROBLEMA #1: La disponibilidad de los espacios en el mapa no se distingue claramente
+*PROBLEMA #1: La disponibilidad de los espacios en el mapa no se distingue claramente*
 
 **Severidad:** 2  
 **Heurística violada:** Usability - Reconocimiento antes que recuerdo  
-
-**Problema:**  
-En el mapa en tiempo real de SpotGo, los espacios disponibles, ocupados y en mantenimiento no presentan diferencias visuales suficientemente claras. Esto obliga al usuario a interpretar cada elemento con mayor atención y dificulta identificar rápidamente los espacios libres disponibles.
+**Problema:** En el mapa en tiempo real de SpotGo, los espacios disponibles, ocupados y en mantenimiento no presentan diferencias visuales suficientemente claras. Esto obliga al usuario a interpretar cada elemento con mayor atención y dificulta identificar rápidamente los espacios libres disponibles.
 
 (Incluir además una captura de pantalla ilustrando el problema).
 
-**Recomendación:**  
-Utilizar colores, íconos o etiquetas más representativas para cada estado de los espacios, además de una leyenda clara que facilite la interpretación del mapa.
+**Recomendación:** Utilizar colores, íconos o etiquetas más representativas para cada estado de los espacios, además de una leyenda clara que facilite la interpretación del mapa.
 
-
-
-### PROBLEMA #2: El módulo de Analytics presenta demasiada información en una sola vista
+*PROBLEMA #2: El módulo de Analytics presenta demasiada información en una sola vista*
 
 **Severidad:** 2  
 **Heurística violada:** Usability - Diseño estético y minimalista  
-
-**Problema:**  
-La vista de Analytics en SpotGo muestra múltiples gráficos y métricas al mismo tiempo, lo que puede dificultar identificar rápidamente la información más importante para la toma de decisiones.
+**Problema:** La vista de Analytics en SpotGo muestra múltiples gráficos y métricas al mismo tiempo, lo que puede dificultar identificar rápidamente la información más importante para la toma de decisiones.
 
 (Incluir además una captura de pantalla ilustrando el problema).
 
-**Recomendación:**  
-Agrupar los indicadores por categorías y priorizar las métricas clave mediante una jerarquía visual más clara.
+**Recomendación:** Agrupar los indicadores por categorías y priorizar las métricas clave mediante una jerarquía visual más clara.
 
-
-
-### PROBLEMA #3: Las reservas finalizadas aparecen junto con las reservas activas
+*PROBLEMA #3: Las reservas finalizadas aparecen junto con las reservas activas*
 
 **Severidad:** 2  
 **Heurística violada:** Usability - Prevención de errores  
-
-**Problema:**  
-El historial de reservas en SpotGo muestra registros activos, completados y cancelados sin una separación visual clara. Esto puede generar confusión e inducir al usuario a interpretar incorrectamente el estado de una reserva.
+**Problema:** El historial de reservas en SpotGo muestra registros activos, completados y cancelados sin una separación visual clara. Esto puede generar confusión e inducir al usuario a interpretar incorrectamente el estado de una reserva.
 
 (Incluir además una captura de pantalla ilustrando el problema).
 
-**Recomendación:**  
-Separar las reservas activas de las finalizadas o utilizar etiquetas y colores diferenciados para cada estado.
+**Recomendación:** Separar las reservas activas de las finalizadas o utilizar etiquetas y colores diferenciados para cada estado.
 
-
-
-### PROBLEMA #4: Los planes y estados de suscripción no se diferencian claramente por color
+*PROBLEMA #4: Los planes y estados de suscripción no se diferencian claramente por color*
 
 **Severidad:** 2  
 **Heurística violada:** Usability - Consistencia y estándares  
-
-**Problema:**  
-En SpotGo, los colores utilizados para los planes (gratuito, mensual, anual) y los estados de suscripción (activo, pendiente, vencido) no permiten una diferenciación clara, generando confusión en la interpretación de la información.
+**Problema:** En SpotGo, los colores utilizados para los planes (gratuito, mensual, anual) y los estados de suscripción (activo, pendiente, vencido) no permiten una diferenciación clara, generando confusión en la interpretación de la información.
 
 (Incluir además una captura de pantalla ilustrando el problema).
 
-**Recomendación:**  
-Definir una convención visual consistente para planes y estados de suscripción, asegurando colores distintos y fácilmente reconocibles para cada categoría.
+**Recomendación:** Definir una convención visual consistente para planes y estados de suscripción, asegurando colores distintos y fácilmente reconocibles para cada categoría.
 
-
-
-### PROBLEMA #5: Algunas acciones importantes no muestran confirmación visual al completarse
+*PROBLEMA #5: Algunas acciones importantes no muestran confirmación visual al completarse*
 
 **Severidad:** 2  
 **Heurística violada:** Usability - Visibilidad del estado del sistema  
-
-**Problema:**  
-En SpotGo, después de realizar acciones como guardar, actualizar o confirmar una operación, el sistema no siempre muestra una retroalimentación clara al usuario, lo que genera incertidumbre sobre si la acción fue completada correctamente.
+**Problema:** En SpotGo, después de realizar acciones como guardar, actualizar o confirmar una operación, el sistema no siempre muestra una retroalimentación clara al usuario, lo que genera incertidumbre sobre si la acción fue completada correctamente.
 
 (Incluir además una captura de pantalla ilustrando el problema).
 
-**Recomendación:**  
-Incluir mensajes de éxito, notificaciones tipo toast o indicadores visuales que confirmen la ejecución correcta de las acciones realizadas.
+**Recomendación:** Incluir mensajes de éxito, notificaciones tipo toast o indicadores visuales que confirmen la ejecución correcta de las acciones realizadas.
