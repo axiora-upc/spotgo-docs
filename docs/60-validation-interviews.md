@@ -4,8 +4,6 @@
 
 Esta sección describe el diseño de las entrevistas de validación orientadas a evaluar la navegación y la experiencia de uso de SpotGo. La validación se realizará con los dos segmentos objetivo del proyecto: administradores o personal operativo de estacionamientos y conductores o usuarios finales. Para cada segmento se consideran los principales flujos de interacción dentro de la Web Application, las tareas que deberán realizar los participantes durante la sesión y las preguntas que permitirán identificar el nivel de claridad, utilidad, facilidad de uso y posibles oportunidades de mejora del producto.
 
-**Validation Interviews Link:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e321_upc_edu_pe/IQAk4z3kWBHSSIjacQX92K-yAU1F1K-hu-iHICws5o4SayA?e=ZSgRmX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e321_upc_edu_pe/IQAk4z3kWBHSSIjacQX92K-yAU1F1K-hu-iHICws5o4SayA?e=ZSgRmX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
 **Primer Segmento Objetivo (Administradores o personal operativo de estacionamiento)**
 
 ### User Flows
@@ -89,21 +87,11 @@ En esta sección se registrarán las entrevistas de validación realizadas a usu
 
 Para el segmento de administradores o personal operativo de estacionamiento, se buscará validar si el sistema permite supervisar la ocupación, interpretar métricas, reconocer estados de los espacios y realizar acciones administrativas de manera clara. Para el segmento de conductores y usuarios finales, se evaluará si la plataforma facilita la búsqueda de estacionamientos, la reserva de espacios, la consulta de favoritos, la revisión de recibos y el seguimiento del historial de uso.
 
-**Validation Interviews Link:** 
+**Validation Interviews Link:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e321_upc_edu_pe/IQAk4z3kWBHSSIjacQX92K-yAU1F1K-hu-iHICws5o4SayA?e=ZSgRmX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241e321_upc_edu_pe/IQAk4z3kWBHSSIjacQX92K-yAU1F1K-hu-iHICws5o4SayA?e=ZSgRmX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Primer Segmento Objetivo (Administradores o personal operativo de estacionamiento)**
 
 **Entrevista 1**
-| Screnshoot: | ![Entrevista S1 1](../assets/images/interviews/validation/entrevista-1-1.png) |
-| --- | --- |
-| Inicia | |
-| Duración: | |
-| Nombre completo: | Nicolas Castro |
-| Edad: | 25 años |
-| Distrito: | Cercado de Lima |
-| Resumen: | El entrevistado indicó que los colores utilizados para representar los espacios disponibles, ocupados y en mantenimiento son fáciles de interpretar y permiten identificar rápidamente el estado del estacionamiento. Asimismo, señaló que las métricas principales del panel y la sección de Analytics proporcionan información relevante para supervisar la operación diaria y facilitan la toma de decisiones. Consideró que los filtros de fecha resultan útiles para analizar y comparar el rendimiento en distintos periodos, mientras que la configuración del perfil y del negocio es sencilla de revisar y administrar. También destacó que las acciones de exportar registros, actualizar información y solicitar soporte técnico son fáciles de encontrar y comprender. Finalmente, mencionó que el mapa en tiempo real y las métricas del panel son las funcionalidades más valiosas del sistema, y sugirió incorporar ayudas o descripciones adicionales para facilitar el uso de funciones más avanzadas y mejorar la experiencia de usuarios con menor familiaridad tecnológica. |
-
-**Entrevista 2**
 | Screnshoot: | ![Entrevista S1 2](../assets/images/interviews/validation/entrevista-1-2.png) |
 | --- | --- |
 | Inicia | |
@@ -112,6 +100,16 @@ Para el segmento de administradores o personal operativo de estacionamiento, se 
 | Edad: | 31 años |
 | Distrito: | Cercado de Lima |
 | Resumen: | El entrevistado manifestó una percepción positiva sobre la interfaz del sistema, indicando que el mapa en tiempo real y el uso de colores para identificar espacios disponibles, ocupados y en mantenimiento son fáciles de interpretar. Asimismo, consideró que las métricas principales y la sección de Analytics proporcionan información relevante para supervisar las operaciones y tomar decisiones rápidas relacionadas con el negocio. También destacó la utilidad de los filtros de fecha y de los indicadores de ingresos, ocupación y disponibilidad, ya que permiten analizar el rendimiento del estacionamiento de manera eficiente. Como aspectos de mejora, señaló que los botones para exportar registros podrían tener una mayor visibilidad y expresó algunas dudas sobre la configuración del perfil y la gestión de información de los trabajadores. En general, resaltó la sección de análisis como la funcionalidad más útil debido a la forma clara y simplificada en que presenta la información necesaria para la administración diaria. |
+
+**Entrevista 2**
+| Screnshoot: | ![Entrevista S1 1](../assets/images/interviews/validation/entrevista-1-1.png) |
+| --- | --- |
+| Inicia | |
+| Duración: | |
+| Nombre completo: | Nicolas Castro |
+| Edad: | 25 años |
+| Distrito: | Cercado de Lima |
+| Resumen: | El entrevistado indicó que los colores utilizados para representar los espacios disponibles, ocupados y en mantenimiento son fáciles de interpretar y permiten identificar rápidamente el estado del estacionamiento. Asimismo, señaló que las métricas principales del panel y la sección de Analytics proporcionan información relevante para supervisar la operación diaria y facilitan la toma de decisiones. Consideró que los filtros de fecha resultan útiles para analizar y comparar el rendimiento en distintos periodos, mientras que la configuración del perfil y del negocio es sencilla de revisar y administrar. También destacó que las acciones de exportar registros, actualizar información y solicitar soporte técnico son fáciles de encontrar y comprender. Finalmente, mencionó que el mapa en tiempo real y las métricas del panel son las funcionalidades más valiosas del sistema, y sugirió incorporar ayudas o descripciones adicionales para facilitar el uso de funciones más avanzadas y mejorar la experiencia de usuarios con menor familiaridad tecnológica. |
 
 **Entrevista 3**
 | Screnshoot: | ![Entrevista S1 3](../assets/images/interviews/validation/entrevista-1-3.png) |
