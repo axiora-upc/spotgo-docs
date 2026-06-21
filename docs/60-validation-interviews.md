@@ -94,7 +94,7 @@ Para el segmento de administradores o personal operativo de estacionamiento, se 
 **Entrevista 1**
 | Entrevistado: | Entrevistador: Paul Espinoza |
 | --- | --- |
-| <img src="" alt="" width="4600"/> | <img src="" width="180"/> |
+| <img src="../assets/images/interviews/validation/01-entrevista-administrador01.png" width="555"/> | <img src="../assets/images/interviews/validation/02-entrevistador01.png" width="140"/> |
 | Inicia | |
 | Duración: | |
 | Nombre completo: | Nicolas Castro Solorza |
@@ -103,15 +103,15 @@ Para el segmento de administradores o personal operativo de estacionamiento, se 
 | Resumen: | El entrevistado indicó que los colores utilizados para representar los espacios disponibles, ocupados y en mantenimiento son fáciles de interpretar y permiten identificar rápidamente el estado del estacionamiento. Asimismo, señaló que las métricas principales del panel y la sección de Analytics proporcionan información relevante para supervisar la operación diaria y facilitan la toma de decisiones. Consideró que los filtros de fecha resultan útiles para analizar y comparar el rendimiento en distintos periodos, mientras que la configuración del perfil y del negocio es sencilla de revisar y administrar. También destacó que las acciones de exportar registros, actualizar información y solicitar soporte técnico son fáciles de encontrar y comprender. Finalmente, mencionó que el mapa en tiempo real y las métricas del panel son las funcionalidades más valiosas del sistema, y sugirió incorporar ayudas o descripciones adicionales para facilitar el uso de funciones más avanzadas y mejorar la experiencia de usuarios con menor familiaridad tecnológica. |
 
 **Entrevista 2**
-
-| Screenshot: | ![Entrevista S1 2](../assets/images/interviews/validation/entrevista-1-2.png) |
+| Entrevistado: | Entrevistador: César Contreras |
 | --- | --- |
-| Inicia: |  |
-| Duración:|  |
-| Nombre completo: |  |
-| Edad: |  |
-| Distrito: |  |
-| Resumen: |  |
+| <img src="../assets/images/interviews/validation/03-entrevista-administrador02.png" width="555"/> | <img src="../assets/images/interviews/validation/04-entrevistador02.png" width="140"/> |
+| Inicia | |
+| Duración: | |
+| Nombre completo: | Renzo Cumpa Rojas |
+| Edad: | 31 años |
+| Distrito: | Cercado de Lima |
+| Resumen: | El entrevistado manifestó una percepción positiva sobre la interfaz del sistema, indicando que el mapa en tiempo real y el uso de colores para identificar espacios disponibles, ocupados y en mantenimiento son fáciles de interpretar. Asimismo, consideró que las métricas principales y la sección de Analytics proporcionan información relevante para supervisar las operaciones y tomar decisiones rápidas relacionadas con el negocio. También destacó la utilidad de los filtros de fecha y de los indicadores de ingresos, ocupación y disponibilidad, ya que permiten analizar el rendimiento del estacionamiento de manera eficiente. Como aspectos de mejora, señaló que los botones para exportar registros podrían tener una mayor visibilidad y expresó algunas dudas sobre la configuración del perfil y la gestión de información de los trabajadores. En general, resaltó la sección de análisis como la funcionalidad más útil debido a la forma clara y simplificada en que presenta la información necesaria para la administración diaria. |
 
 **Entrevista 3**
 
