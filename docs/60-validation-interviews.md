@@ -170,12 +170,10 @@ La evaluación permitirá identificar problemas de usabilidad en las vistas del 
 **AUDITOR:** Equipo de evaluación UX SpotGo  
 **CLIENTE(S):** Usuarios del sistema SpotGo  
 
----
 
 ### SITE o APP A EVALUAR:
 **SpotGo**
 
----
 
 ## TAREAS A EVALUAR:
 
@@ -190,7 +188,6 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 7. Analizar reportes y métricas desde el dashboard  
 8. Administrar empleados  
 
----
 
 ## ESCALA DE SEVERIDAD:
 
@@ -203,7 +200,6 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 | 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
 | 4 | Problema muy grave: error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
 
----
 
 ## TABLA RESUMEN:
 
@@ -215,11 +211,9 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 | 4 | Los planes y estados de suscripción no se diferencian claramente por color. | 2 | Usability: Consistencia y estándares |
 | 5 | Algunas acciones importantes no muestran confirmación visual al completarse. | 2 | Usability: Visibilidad del estado del sistema |
 
----
 
 ## DESCRIPCIÓN DE PROBLEMAS:
 
----
 
 ### PROBLEMA #1: La disponibilidad de los espacios en el mapa no se distingue claramente
 
@@ -234,7 +228,7 @@ En el mapa en tiempo real de SpotGo, los espacios disponibles, ocupados y en man
 **Recomendación:**  
 Utilizar colores, íconos o etiquetas más representativas para cada estado de los espacios, además de una leyenda clara que facilite la interpretación del mapa.
 
----
+
 
 ### PROBLEMA #2: El módulo de Analytics presenta demasiada información en una sola vista
 
@@ -249,7 +243,7 @@ La vista de Analytics en SpotGo muestra múltiples gráficos y métricas al mism
 **Recomendación:**  
 Agrupar los indicadores por categorías y priorizar las métricas clave mediante una jerarquía visual más clara.
 
----
+
 
 ### PROBLEMA #3: Las reservas finalizadas aparecen junto con las reservas activas
 
@@ -264,7 +258,7 @@ El historial de reservas en SpotGo muestra registros activos, completados y canc
 **Recomendación:**  
 Separar las reservas activas de las finalizadas o utilizar etiquetas y colores diferenciados para cada estado.
 
----
+
 
 ### PROBLEMA #4: Los planes y estados de suscripción no se diferencian claramente por color
 
@@ -279,7 +273,7 @@ En SpotGo, los colores utilizados para los planes (gratuito, mensual, anual) y l
 **Recomendación:**  
 Definir una convención visual consistente para planes y estados de suscripción, asegurando colores distintos y fácilmente reconocibles para cada categoría.
 
----
+
 
 ### PROBLEMA #5: Algunas acciones importantes no muestran confirmación visual al completarse
 
