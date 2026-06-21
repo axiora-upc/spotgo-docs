@@ -143,7 +143,7 @@ El sistema incluye un módulo de analítica avanzada para administradores, permi
 | Inicia: | 00:00 |
 | Duración:| 4:50 |
 | Nombre completo: | Cecilia Lopez |
-| Edad: | 31 |
+| Edad: | 31 años |
 | Distrito: | Cercado de Lima |
 | Resumen: | Cecilia nos indica que la gestión del estacionamiento se basa en organización manual y registro mediante boletas y tablas, sin asignación de zonas específicas, ya que los vehículos ocupan cualquier espacio disponible. El monitoreo se realiza con cámaras y control físico, y en horas de alta demanda surgen dificultades para movilizar vehículos debido al espacio reducido. Aunque el sistema actual funciona, depende en gran medida de la intervención manual, incluso solicitando llaves para reorganizar los autos. Considera que un sistema inteligente podría mejorar la organización, visibilidad y control, además de aportar beneficios para atraer más clientes. |
 
@@ -154,7 +154,7 @@ El sistema incluye un módulo de analítica avanzada para administradores, permi
 | Inicia: | 04:50 |
 | Duración:| 5:04 |
 | Nombre completo: | Reinaldo Torres |
-| Edad: | 42 |
+| Edad: | 42 años |
 | Distrito: | Breña |
 | Resumen: | Nos comenta que la gestión de su estacionamiento combina métodos manuales y digitales, registrando a los clientes sin asignación fija de espacios, ya que ocupan cualquier lugar disponible. El monitoreo se realiza mediante un aplicativo que permite control remoto, pero en horas de alta demanda surgen problemas de congestión y necesidad de movilizar vehículo. Él nos destaca que un sistema en tiempo real mejoraría  significativamente la gestión, permitiendo mayor control y reducción de pérdidas económicas. También resalta la importancia de alertas, especialmente para pagos, y considera que la implementación de una solución inteligente sería beneficiosa, aunque requeriría capacitación del personal. |
 
@@ -165,7 +165,7 @@ El sistema incluye un módulo de analítica avanzada para administradores, permi
 | Inicia: | 10:44 |
 | Duración:| 6:16 |
 | Nombre completo: | Juan Vega |
-| Edad: | 30 |
+| Edad: | 30 años |
 | Distrito: | La Victoria |
 | Resumen: | La entrevista a Juan Carlos, un administrador de estacionamientos de 30 años, expone las dificultades de una gestión basada en procesos manuales, registros en papel y vigilancia visual, lo que genera desorden en horas pico y un control ineficiente de los espacios reservados. Debido a la falta de un sistema en tiempo real, el personal debe realizar rondas a pie y vocear placas para gestionar la ocupación, una carga operativa que el administrador busca eliminar. En este contexto, la propuesta de la aplicación "SpotGo" es recibida con gran optimismo, ya que el uso de sensores para identificar vehículos y un mapa en vivo permitiría automatizar la asignación de lugares, mejorar el control de pagos y proyectar una imagen mucho más profesional y organizada de la empresa. |
 
@@ -178,7 +178,7 @@ El sistema incluye un módulo de analítica avanzada para administradores, permi
 | Inicia: | 17:01 |
 | Duración:| 3:53 |
 | Nombre completo: | Emiliano Lozano |
-| Edad: | 51 |
+| Edad: | 51 años |
 | Distrito: | San Martin de Porres |
 | Resumen: | Emiliano nos señala que , como taxista, cuenta con un espacio asignado dentro del estacionamiento, lo que facilita su experiencia y evita dificultades para encontrar lugar. La organización se apoya en señalización básica como carteles, y en algunos casos utilizan conos para asegurar sus espacios. En momentos de alta demanda, otros usuarios ocupan sus espacios, obligándolos a esperar o buscar alternativas. Además, señala que los clientes tienen más dificultades para estacionar. Considera que una solución tecnológica con señales o alertas podría mejorar la organización. |
 
@@ -189,29 +189,29 @@ El sistema incluye un módulo de analítica avanzada para administradores, permi
 | Inicia: | 20:54 |
 | Duración:| 6:34 |
 | Nombre completo: | Fabio Cordova |
-| Edad: | 24 |
+| Edad: | 24 años |
 | Distrito: | San Isidro |
 | Resumen: | Fabio nos indica que su experiencia al buscar estacionamiento puede ser complicada, especialmente en lugares nuevos o muy concurridos como centros comerciales en fines de semana. Aunque en condiciones normales encuentra espacio en pocos minutos, la falta de conocimiento del lugar incrementa el tiempo y genera ansiedad. Señala que la organización suele ser aceptable, pero existen problemas de orientación, señalización y ubicación de salidas, lo que dificulta la experiencia. Además, considera importante contar con información previa como disponibilidad, tarifas y horarios. Él valora positivamente una solución tecnológica que le permita visualizar espacios por zonas o pisos, mejorar la orientación y reducir el tiempo de búsqueda. |
 
 **Entrevista 3**
 
-| Screenshot: | ![Entrevista SO2 3](../assets/images/interviews/needfinding/entrevista-2-3.png) |
+| Screenshot: | ![Entrevista S2 3](../assets/images/interviews/needfinding/entrevista-2-3.png) |
 | --- | --- |
 | Inicia: | 27:28 |
 | Duración:| 3:44 |
 | Nombre completo: | Sebastian Tarro |
-| Edad: | 22 |
+| Edad: | 22 años |
 | Distrito: | Independencia |
 | Resumen: | Nos indica que encontrar estacionamiento en lugares concurridos puede tomar entre 15 y 30 minutos, generando estrés y congestión, especialmente en centros comerciales y universidades. Señala problemas de mala organización en entradas y salidas, así como dificultades para identificar espacios disponibles. También destaca la necesidad de mejor señalización, rutas claras y visualización por zonas, además de información sobre disponibilidad en tiempo real. Considera que la tecnología podría mejorar significativamente la experiencia, reduciendo el tiempo de búsqueda y facilitando el acceso. |
 
 **Entrevista 4**
 
-| Screenshot: | ![Entrevista SO2 4](../assets/images/interviews/needfinding/entrevista-2-4.png) |
+| Screenshot: | ![Entrevista S2 4](../assets/images/interviews/needfinding/entrevista-2-4.png) |
 | --- | --- |
 | Inicia: | 31:12 |
 | Duración:| 5:42 |
 | Nombre completo: | Sergio Evangelista |
-| Edad: | 21 |
+| Edad: | 21 años |
 | Distrito: | San Miguel |
 | Resumen: | Nos menciona que su experiencia varía según el lugar: es positiva en centros comerciales amplios, pero negativa en espacios reducidos o en la vía pública, donde puede tardar más tiempo y sentir frustración. Destaca problemas como la falta de espacios, dificultad para encontrar salidas y seguridad en la calle. Valora positivamente la idea de una aplicación que brinde información sobre disponibilidad, precios y ubicación de espacios, además de un sistema visual por zonas o mapas. Considera que una solución así tendría un alto valor, ya que permitiría ahorrar tiempo en la búsqueda de estacionamiento. |
 

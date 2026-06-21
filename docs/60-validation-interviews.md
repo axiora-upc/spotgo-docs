@@ -92,9 +92,8 @@ Para el segmento de administradores o personal operativo de estacionamiento, se 
 **Primer Segmento Objetivo (Administradores o personal operativo de estacionamiento)**
 
 **Entrevista 1**
-| Entrevistado: | Entrevistador: Paul Espinoza |
+| Screnshoot: | ![Entrevista S1 1](../assets/images/interviews/validation/entrevista-1-1.png) |
 | --- | --- |
-| <img src="../assets/images/interviews/validation/01-entrevista-administrador01.png" width="555"/> | <img src="../assets/images/interviews/validation/02-entrevistador01.png" width="140"/> |
 | Inicia | |
 | Duración: | |
 | Nombre completo: | Nicolas Castro |
@@ -103,9 +102,8 @@ Para el segmento de administradores o personal operativo de estacionamiento, se 
 | Resumen: | El entrevistado indicó que los colores utilizados para representar los espacios disponibles, ocupados y en mantenimiento son fáciles de interpretar y permiten identificar rápidamente el estado del estacionamiento. Asimismo, señaló que las métricas principales del panel y la sección de Analytics proporcionan información relevante para supervisar la operación diaria y facilitan la toma de decisiones. Consideró que los filtros de fecha resultan útiles para analizar y comparar el rendimiento en distintos periodos, mientras que la configuración del perfil y del negocio es sencilla de revisar y administrar. También destacó que las acciones de exportar registros, actualizar información y solicitar soporte técnico son fáciles de encontrar y comprender. Finalmente, mencionó que el mapa en tiempo real y las métricas del panel son las funcionalidades más valiosas del sistema, y sugirió incorporar ayudas o descripciones adicionales para facilitar el uso de funciones más avanzadas y mejorar la experiencia de usuarios con menor familiaridad tecnológica. |
 
 **Entrevista 2**
-| Entrevistado: | Entrevistador: César Contreras |
+| Screnshoot: | ![Entrevista S1 2](../assets/images/interviews/validation/entrevista-1-2.png) |
 | --- | --- |
-| <img src="../assets/images/interviews/validation/03-entrevista-administrador02.png" width="557"/> | <img src="../assets/images/interviews/validation/04-entrevistador02.png" width="145"/> |
 | Inicia | |
 | Duración: | |
 | Nombre completo: | Renzo Cumpa |
@@ -114,22 +112,20 @@ Para el segmento de administradores o personal operativo de estacionamiento, se 
 | Resumen: | El entrevistado manifestó una percepción positiva sobre la interfaz del sistema, indicando que el mapa en tiempo real y el uso de colores para identificar espacios disponibles, ocupados y en mantenimiento son fáciles de interpretar. Asimismo, consideró que las métricas principales y la sección de Analytics proporcionan información relevante para supervisar las operaciones y tomar decisiones rápidas relacionadas con el negocio. También destacó la utilidad de los filtros de fecha y de los indicadores de ingresos, ocupación y disponibilidad, ya que permiten analizar el rendimiento del estacionamiento de manera eficiente. Como aspectos de mejora, señaló que los botones para exportar registros podrían tener una mayor visibilidad y expresó algunas dudas sobre la configuración del perfil y la gestión de información de los trabajadores. En general, resaltó la sección de análisis como la funcionalidad más útil debido a la forma clara y simplificada en que presenta la información necesaria para la administración diaria. |
 
 **Entrevista 3**
-| Entrevistado: | Entrevistador: Adrián Ruiz |
+| Screnshoot: | ![Entrevista S1 3](../assets/images/interviews/validation/entrevista-1-3.png) |
 | --- | --- |
-| <img src="../assets/images/interviews/validation/05-entrevista-administrador03.png" width="555"/> | <img src="../assets/images/interviews/validation/06-entrevistador03.png" width="140"/> |
 | Inicia | |
 | Duración: | |
-| Nombre completo: |  |
-| Edad: |  años |
-| Distrito: |  |
-| Resumen: |  |
+| Nombre completo: | Jimmy Giménez |
+| Edad: | 28 años |
+| Distrito: | Rimac |
+| Resumen: | En esta entrevista, Jimmy Jiménez comparte una perspectiva sumamente positiva y constructiva sobre el panel de SpotGo, afirmando que el Mapa en Tiempo Real es claro, objetivo y cuenta con una paleta de colores muy fácil de interpretar para conocer el estado de los espacios. Asimismo, opina que la sección de Analytics está muy bien orientada para la supervisión diaria y que los filtros por fecha son ideales para realizar predicciones operativas, mientras que el apartado de Settings le parece cómodo e intuitivo, destacando la función de subir el croquis directamente como una herramienta prácticamente obligatoria para agilizar los cambios de diseño. Finalmente, aunque considera que el mapa interactivo es la parte más útil de la plataforma, advierte que la visualización actual podría generar cierta confusión, por lo que sugiere mejorar el orden y la administración de los spots codificándolos por filas y columnas específicas (como A1 o B2). |
 
 **Segundo Segmento Objetivo (Conductores y usuarios finales (clientes))**
 
 **Entrevista 1**
-| Entrevistado: | Entrevistador: Nestor Rojas |
+| Screnshoot: | ![Entrevista S2 1](../assets/images/interviews/validation/entrevista-2-1.png) |
 | --- | --- |
-| <img src="../assets/images/interviews/validation/07-entrevista-conductor01.png" width="560"/> | <img src="../assets/images/interviews/validation/08-entrevistador04.png" width="145"/> |
 | Inicia | |
 | Duración: | |
 | Nombre completo: | Fabio Cordova |
@@ -138,9 +134,8 @@ Para el segmento de administradores o personal operativo de estacionamiento, se 
 | Resumen: | El entrevistado indicó que el dashboard y el mapa permiten identificar rápidamente los estacionamientos cercanos y las zonas con mayor disponibilidad. Asimismo, señaló que la información presentada es clara y no genera sobrecarga visual, por lo que la diferencia entre espacios disponibles y ocupados resulta fácil de comprender. Consideró que las secciones de favoritos, reservas, suscripciones, recibos e historial son intuitivas y muestran la información necesaria para gestionar sus estacionamientos y controlar sus gastos. Además, destacó la utilidad de descargar recibos en PDF y mantener un registro de pagos. Como sugerencia de mejora, propuso incorporar información sobre los espacios más convenientes dentro del estacionamiento y mostrar referencias de acceso cercanas al destino del usuario. Finalmente, mencionó que las reseñas y la posibilidad de verificar la confiabilidad del establecimiento serían factores importantes para aumentar la confianza al momento de realizar una reserva. |
 
 **Entrevista 2**
-| Entrevistado: | Entrevistador: Johan Contreras |
+| Screnshoot: | ![Entrevista S2 2](../assets/images/interviews/validation/entrevista-2-2.png) |
 | --- | --- |
-| <img src="../assets/images/interviews/validation/09-entrevista-conductor02.png" width="555"/> | <img src="../assets/images/interviews/validation/10-entrevistador05.png" width="140"/> |
 | Inicia | |
 | Duración: | |
 | Nombre completo: | Sergio Evangelista |
@@ -150,9 +145,8 @@ Para el segmento de administradores o personal operativo de estacionamiento, se 
 
 **Entrevista 3**
 
-| Entrevistado: | Entrevistador: Johan Contreras |
+| Screnshoot: | ![Entrevista S2 3](../assets/images/interviews/validation/entrevista-2-3.png) |
 | --- | --- |
-| <img src="../assets/images/interviews/validation/11-entrevista-conductor03.png" width="555"/> | <img src="../assets/images/interviews/validation/12-entrevistador06.png" width="140"/> |
 | Inicia | |
 | Duración: | |
 | Nombre completo: | Matthew Oshiko Okuhama |
@@ -166,7 +160,7 @@ En esta sección se presentará la evaluación heurística de la experiencia de 
 
 La evaluación permitirá identificar problemas de usabilidad en las vistas del usuario y del administrador, priorizar su severidad y proponer mejoras concretas para optimizar la experiencia general del sistema. En el caso del usuario final, se revisarán pantallas como Dashboard, Reservations, Subscriptions, Receipts, Favorites y History. En el caso del administrador, se evaluarán Real-time Map, Analytics Dashboard y Settings.
 
-# Tareas a Evaluar
+**Tareas a Evaluar
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
@@ -179,88 +173,64 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 7. Analizar reportes y métricas desde el dashboard  
 8. Administrar empleados  
 
----
-
-# Tabla de resumen
+**Tabla de resumen**
 
 | # | Problema | Severidad | Heurística violada |
-| - | -------- | --------- | ------------------- |
+| --- | --- | --- | --- |
 | 1 | La información de disponibilidad en el mapa no diferencia claramente los estados de los espacios. | 2 | Reconocimiento antes que recuerdo |
 | 2 | Los módulos de Analytics muestran demasiada información en una sola vista. | 2 | Diseño estético y minimalista |
 | 3 | El historial de reservas mezcla reservas activas y finalizadas sin suficiente diferenciación. | 2 | Prevención de errores |
 | 4 | Los planes y estados de suscripción no se diferencian claramente por color. | 2 | Consistencia y estándares |
 | 5 | Algunas acciones importantes no muestran confirmación visual al completarse. | 2 | Visibilidad del estado del sistema |
 
----
+**Descripción del problema**
 
-# Descripción del problema
-
----
-
-## Problema 1: La disponibilidad de los espacios en el mapa no se distingue claramente
+*Problema 1: La disponibilidad de los espacios en el mapa no se distingue claramente*
 
 **Severidad:** 2  
 
 **Heurística violada:** Usabilidad - Reconocimiento antes que recuerdo  
 
-**Problema:**  
-En el mapa en tiempo real los espacios disponibles, ocupados y en mantenimiento no presentan diferencias visuales suficientemente claras. Esto obliga al usuario a interpretar cada elemento con mayor atención y dificulta identificar rápidamente los espacios libres.
+**Problema:** En el mapa en tiempo real los espacios disponibles, ocupados y en mantenimiento no presentan diferencias visuales suficientemente claras. Esto obliga al usuario a interpretar cada elemento con mayor atención y dificulta identificar rápidamente los espacios libres.
 
-**Recomendación:**  
-Utilizar colores, iconos o etiquetas más representativas para cada estado, además de una leyenda clara que facilite la interpretación del mapa.
+**Recomendación:** Utilizar colores, iconos o etiquetas más representativas para cada estado, además de una leyenda clara que facilite la interpretación del mapa.
 
----
-
-## Problema 2: El módulo de Analytics presenta demasiada información en una sola vista
+*Problema 2: El módulo de Analytics presenta demasiada información en una sola vista*
 
 **Severidad:** 2  
 
 **Heurística violada:** Usabilidad - Diseño estético y minimalista  
 
-**Problema:**  
-La vista de Analytics muestra múltiples gráficos y métricas al mismo tiempo, lo que puede dificultar identificar rápidamente la información más importante para la toma de decisiones.
+**Problema:** La vista de Analytics muestra múltiples gráficos y métricas al mismo tiempo, lo que puede dificultar identificar rápidamente la información más importante para la toma de decisiones.
 
-**Recomendación:**  
-Agrupar los indicadores por categorías y priorizar las métricas clave mediante una mejor jerarquía visual.
+**Recomendación:** Agrupar los indicadores por categorías y priorizar las métricas clave mediante una mejor jerarquía visual.
 
----
-
-## Problema 3: Las reservas finalizadas aparecen junto con las reservas activas
+*Problema 3: Las reservas finalizadas aparecen junto con las reservas activas*
 
 **Severidad:** 2  
 
 **Heurística violada:** Usabilidad - Prevención de errores  
 
-**Problema:**  
-El historial de reservas muestra registros activos, completados y cancelados sin una separación visual clara. Esto puede generar confusión y hacer que el usuario interprete incorrectamente el estado de una reserva.
+**Problema:** El historial de reservas muestra registros activos, completados y cancelados sin una separación visual clara. Esto puede generar confusión y hacer que el usuario interprete incorrectamente el estado de una reserva.
 
-**Recomendación:**  
-Separar las reservas activas de las finalizadas o utilizar etiquetas y colores diferenciados para cada estado.
+**Recomendación:** Separar las reservas activas de las finalizadas o utilizar etiquetas y colores diferenciados para cada estado.
 
----
-
-## Problema 4: Los planes y estados de suscripción no se diferencian claramente por color
+*Problema 4: Los planes y estados de suscripción no se diferencian claramente por color*
 
 **Severidad:** 2  
 
 **Heurística violada:** Usabilidad - Consistencia y estándares  
 
-**Problema:**  
-En la sección de suscripciones, los colores no permiten diferenciar claramente entre los tipos de plan (gratuito, mensual y anual) ni entre los estados de la suscripción (activo, pendiente o vencido), lo que genera confusión visual.
+**Problema:** En la sección de suscripciones, los colores no permiten diferenciar claramente entre los tipos de plan (gratuito, mensual y anual) ni entre los estados de la suscripción (activo, pendiente o vencido), lo que genera confusión visual.
 
-**Recomendación:**  
-Definir colores consistentes y diferenciados para planes y estados de suscripción, permitiendo una identificación rápida e intuitiva.
+**Recomendación:** Definir colores consistentes y diferenciados para planes y estados de suscripción, permitiendo una identificación rápida e intuitiva.
 
----
-
-## Problema 5: Las acciones realizadas no siempre muestran retroalimentación inmediata
+*Problema 5: Las acciones realizadas no siempre muestran retroalimentación inmediata*
 
 **Severidad:** 2  
 
 **Heurística violada:** Usabilidad - Visibilidad del estado del sistema  
 
-**Problema:**  
-Después de realizar acciones como guardar o actualizar información, el sistema no siempre muestra mensajes de confirmación claros, lo que genera incertidumbre en el usuario.
+**Problema:** Después de realizar acciones como guardar o actualizar información, el sistema no siempre muestra mensajes de confirmación claros, lo que genera incertidumbre en el usuario.
 
-**Recomendación:**  
-Incluir notificaciones, mensajes de éxito o indicadores visuales que confirmen la ejecución correcta de las acciones.
+**Recomendación:** Incluir notificaciones, mensajes de éxito o indicadores visuales que confirmen la ejecución correcta de las acciones.
