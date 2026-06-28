@@ -1,36 +1,50 @@
-# Informe del trabajo Final
+<div align="center">
 
-![UPC Logo](../assets/images/others/upc-logo.png)
+<img src="../assets/images/others/upc-logo.png" alt="UPC Logo" width="150px">  
 
-**Universidad Peruana de Ciencias Aplicadas (UPC)**
+Universidad Peruana de Ciencias Aplicadas
 
-**Facultad:** Ingeniería
+Carrera de Ingeniería de Software
 
-**Carrera:** Ingeniería de Software
+**1ASI0729**
 
-**Periodo:** 2026-10
+**Desarrollo de Aplicaciones Open Source**
 
-**Curso:** Desarrollo de Aplicaciones Open Source (1ASI0729)
+NRC
 
-**NRC:** 12029
+**12029**
 
-**Profesor:** Mori Paiva, Hugo Allan
+**Informe del Trabajo Final**
 
-**Startup:** Axiora
+Docente
 
-**Product:** SpotGo
+**Mori Paiva, Hugo Allan**
 
-**Relación de integrantes:**
+Equipo
 
-| Apellidos, Nombres | Código |
+**Axiora**
+
+Proyecto
+
+**SpotGo**
+
+**Integrantes**
+
+| Código | Apellidos y Nombres |
 | --- | --- |
-| Ruiz Mideyros, Adrian | U20241E177 |
-| Rojas Tello, Nestor Alonso | U202317099 |
-| Espinoza Lopez, Paul Alexandro | U20241E321 |
-| Contreras Rojas, Cesar Jair | U20241D995 |
-| Contreras Granados, Johan Alexis | U202423752 |
+| U20241E177 | Ruiz Mideyros, Adrian |
+| U202317099 | Rojas Tello, Nestor Alonso |
+| U20241E321 | Espinoza Lopez, Paul Alexandro |
+| U20241D995 | Contreras Rojas, Cesar Jair |
+| U202423752 | Contreras Granados, Johan Alexis |
 
-**Junio, 2026**
+**Período 202610**
+
+**Julio 2026**
+
+</div>
+
+---
 
 # Registro de versiones del informe
 
@@ -69,18 +83,23 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 
 **AV1**
 
-*Report Insights AV1*
+*Report Insights AV1*  
 ![Report Insights AV1](../assets/images/others/report-insights-av1.png)
 
 **TB1**
 
-*Report Insights TB1*
+*Report Insights TB1*  
 ![Report Insights TB1](../assets/images/others/report-insights-tb1.png)
 
 **AV2**
 
-*Report Insights AV2*
+*Report Insights AV2*  
 ![Report Insights AV2](../assets/images/others/report-insights-av2.png)
+
+**TB2**
+
+*Report Insights TB2*  
+
 
 # Tabla de contenidos
 
@@ -189,6 +208,15 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 5.2.3.6. Services Documentation Evidence for Sprint Review  
 5.2.3.7. Software Deployment Evidence for Sprint Review  
 5.2.3.8. Team Collaboration Insights during Sprint  
+[**5.2.4. Sprint 4**](54-sprint-4.md)  
+5.2.4.1. Sprint Planning 4  
+5.2.4.2. Aspect Leaders and Collaborators  
+5.2.4.3. Sprint Backlog 4  
+5.2.4.4. Development Evidence for Sprint Review  
+5.2.4.5. Execution Evidence for Sprint Review  
+5.2.4.6. Services Documentation Evidence for Sprint Review  
+5.2.4.7. Software Deployment Evidence for Sprint Review  
+5.2.4.8. Team Collaboration Insights during Sprint  
 [**5.3. Validation Interviews**](60-validation-interviews.md)  
 5.3.1. Diseño de Entrevistas  
 5.3.2. Registro de Entrevistas  
