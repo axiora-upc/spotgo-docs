@@ -73,7 +73,7 @@ Para este mapa, hemos definido la siguiente estructura:
 | 3 | US03 | B2B Tenant Registration | **As a** SuperAdmin,<br>**I want** to register a new parking lot facility,<br>**so that** I can generate administrator credentials for our B2B clients. | 3 |
 | 4 | US04 | Staff Profile Assignment | **As an** Administrator,<br>**I want** to assign a "Staff" profile to specific vehicles,<br>**so that** employees can access restricted parking zones. | 2 |
 | 5 | US05 | Upload Parking Croquis | **As an** Administrator,<br>**I want** to upload a floor plan (croquis) of my parking lot,<br>**so that** the system can automatically generate a digital map. | 5 |
-| 6 | US06 | Automatic Digital Map Generation | **As an** Administrator,<br>**I want** the system to process my croquis,<br>**so that** it initializes Parking Spots and Zones automatically. | 8 |
+| 6 | US06 | Automatic Digital Map Generation | **As an** Administrator,<br>**I want** the system to process my croquis,<br>**so that** it initializes Parking Spots and Zones automatically. | 5 |
 | 7 | US07 | Configure Parking Zones | **As an** Administrator,<br>**I want** to create and assign Parking Zones,<br>**so that** I can separate areas for Visitors, Taxis, and Staff. | 3 |
 | 8 | US08 | Smart Routing Execution | **As a** Routing Engine,<br>**I want** to execute smart routing based on the scanned plate,<br>**so that** the user is directed to the correct zone. | 5 |
 | 9 | US09 | Virtual Receipt Generation | **As a** Client,<br>**I want** to receive a virtual ticket on my phone,<br>**so that** I know exactly which spot was assigned to me. | 3 |
