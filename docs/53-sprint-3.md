@@ -47,7 +47,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
 | US08 | Virtual Receipt Generation | TS08.1 | Develop Virtual Receipt Module | Llevar a cabo la generación y visualización de recibos virtuales con información del espacio asignado. | 3 | @nes-ro | Done |
 | US09 | Spot Occupancy Detection | TS09.1 | Develop Occupancy Detection Logic | Aplicar la lógica de actualización automática del estado de ocupación mediante sensores IoT. | 3 | @johancg04 | Done |
 | US10 | Spot Availability Detection | TS10.1 | Develop Spot Availability Tracker | Poner en marcha la actualización automática de disponibilidad de espacios mediante sensores IoT. | 4 | @CesarJrCR | Done |
-| US21 | Product Promotional Video | TS21.1 | Embed Promotional Video | Integrar video promocional de YouTube con fallback a imagen estática. | 2 | @nes-ro | Done |
+| US21 | Product Promotional Video | TS21.2 | Embed Promotional Video | Integrar video promocional de YouTube con fallback a imagen estática. | 2 | @nes-ro | Done |
 | US23 | Screen Reader Accessibility | TS23.1 | Implement Accessibility Enhancements | Configurar atributos ARIA y navegación accesible mediante teclado en la Web App. | 4 | @R3memo | Done |
 | US25 | API Integration Documentation | TS25.1 | Generate Swagger API Documentation | Generar documentación OpenAPI mediante Swagger para todos los endpoints RESTful. | 3 | @johancg04 | Done |
 
