@@ -41,11 +41,11 @@ El sprint backlog se estructuró en torno a la creación de una Landing Page est
 
 | User Story Id | User Story Title | Work-Item / Task Id | Work-Item / Task Title | Description | Estimation (Hours) | Assigned To | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| US23 | Landing Page Value Proposition | TS28.1 | Setup Static Proj | Inicializar el repositorio del Landing con la estructura base HTML5 y CSS (Tailwind/CSS puro). | 2 | @nes-ro | Done |
-| US23 | Landing Page Value Proposition | TS28.2 | Implement Hero Section | Desarrollar la sección principal responsiva con Flexbox/Grid. | 4 | @johancg04 | Done |
-| US24 | Landing Page Navigation | TS29.1 | Vanilla JS Smooth Scroll | Implementar el script JS para navegación interna y el anchor tag externo hacia la Web App. | 2 | @AdrixRyz | Done |
-| US25 | Product Promotional Video | TS30.1 | Embed YouTube Iframe | Integrar el componente de video nativo con fallbacks de imagen vía CSS. | 2 | @R3memo | Done |
-| US30 | Landing Page Language Switcher | TS36.1 | Implement JS Dictionary | Crear el script Vanilla JS para alternar los nodos de texto entre Español e Inglés del DOM. | 3 | @CesarJrCR | Done |
+| US19 | Landing Page Value Proposition | TS28.1 | Setup Static Proj | Inicializar el repositorio del Landing con la estructura base HTML5 y CSS (Tailwind/CSS puro). | 2 | @nes-ro | Done |
+| US19 | Landing Page Value Proposition | TS28.2 | Implement Hero Section | Desarrollar la sección principal responsiva con Flexbox/Grid. | 4 | @johancg04 | Done |
+| US20 | Landing Page Navigation | TS29.1 | Vanilla JS Smooth Scroll | Implementar el script JS para navegación interna y el anchor tag externo hacia la Web App. | 2 | @AdrixRyz | Done |
+| US21 | Product Promotional Video | TS30.1 | Embed YouTube Iframe | Integrar el componente de video nativo con fallbacks de imagen vía CSS. | 2 | @R3memo | Done |
+| US26 | Landing Page Language Switcher | TS36.1 | Implement JS Dictionary | Crear el script Vanilla JS para alternar los nodos de texto entre Español e Inglés del DOM. | 3 | @CesarJrCR | Done |
 
 #### *5.2.1.4. Development Evidence for Sprint Review*
 
