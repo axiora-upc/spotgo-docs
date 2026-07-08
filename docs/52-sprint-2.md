@@ -42,15 +42,15 @@ El sprint Backlog se centra en la elaboración del frontend principal de SpotGo,
 | User Story Id | User Story Title | Work-Item / Task Id | Work-Item / Task Title | Description | Estimation (Hours) | Assigned To | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | US05 | Upload Parking Croquis | TS05.1 | Develop Croquis Upload Module | Implementar el módulo de carga de croquis permitiendo subir imágenes PNG/JPG y validar formatos soportados. | 4 | @nes-ro | In Progress |
-| US09 | Virtual Receipt Generation | TS09.1 | Develop Virtual Receipt Module | Llevar a cabo la generación y visualización de recibos virtuales con información del espacio asignado. | 3 | @nes-ro | In Progress |
-| US10 | Spot Occupancy Detection | TS10.1 | Develop Occupancy Detection Logic | Aplicar la lógica de actualización automática del estado de ocupación. | 3 | @johancg04 | In Progress |
-| US11 | Spot Availability Detection | TS11.1 | Develop Spot Availability Tracker | Poner en marcha la actualización automática de disponibilidad de espacios. | 4 | @CesarJrCR | In Progress |
-| US13 | Availability Alerts | TS13.1 | Develop Alert Notification System | Poner en marcha sistema de alertas en tiempo real para ocupación alta e infracciones. | 4 | @nes-ro | Done |
-| US14 | Real-time Admin Dashboard | TS14.1 | Develop Real-time Monitoring Dashboard | Poner en marcha dashboard en tiempo real con visualización dinámica de ocupación y filtros por zonas. | 4 | @CesarJrCR | Done |
-| US15 | Client Occupancy View | TS15.1 | Develop Client Parking Map View | Implementar vista interactiva para clientes mostrando espacios disponibles y rutas asignadas. | 3 | @CesarJrCR | Done |
-| US20 | Automated Electronic Billing | TS20.1 | Develop Electronic Billing Integration | Llevar a cabo generación automática de comprobantes electrónicos compatibles con SUNAT. | 3 | @CesarJrCR | Done |
-| US21 | View Digital Receipts | TS21.1 | Develop Digital Receipt Viewer | Implementar módulo para visualizar y descargar comprobantes electrónicos en PDF. | 3 | @CesarJrCR | Done |
-| US28 | Platform Language Selection | TS28.1 | Implement Internationalization Support | Configurar soporte i18n para Inglés y Español en la aplicación Angular. | 3 | @johancg04 | Done |
+| US08 | Virtual Receipt Generation | TS08.1 | Develop Virtual Receipt Module | Llevar a cabo la generación y visualización de recibos virtuales con información del espacio asignado. | 3 | @nes-ro | In Progress |
+| US09 | Spot Occupancy Detection | TS09.1 | Develop Occupancy Detection Logic | Aplicar la lógica de actualización automática del estado de ocupación. | 3 | @johancg04 | In Progress |
+| US10 | Spot Availability Detection | TS10.1 | Develop Spot Availability Tracker | Poner en marcha la actualización automática de disponibilidad de espacios. | 4 | @CesarJrCR | In Progress |
+| US11 | Availability Alerts | TS11.1 | Develop Alert Notification System | Poner en marcha sistema de alertas en tiempo real para ocupación alta e infracciones. | 4 | @nes-ro | Done |
+| US12 | Real-time Admin Dashboard | TS12.1 | Develop Real-time Monitoring Dashboard | Poner en marcha dashboard en tiempo real con visualización dinámica de ocupación y filtros por zonas. | 4 | @CesarJrCR | Done |
+| US13 | Client Occupancy View | TS13.1 | Develop Client Parking Map View | Implementar vista interactiva para clientes mostrando espacios disponibles y rutas asignadas. | 3 | @CesarJrCR | Done |
+| US16 | Automated Electronic Billing | TS16.1 | Develop Electronic Billing Integration | Llevar a cabo generación automática de comprobantes electrónicos compatibles con SUNAT. | 3 | @CesarJrCR | Done |
+| US17 | View Digital Receipts | TS17.1 | Develop Digital Receipt Viewer | Implementar módulo para visualizar y descargar comprobantes electrónicos en PDF. | 3 | @CesarJrCR | Done |
+| US24 | Platform Language Selection | TS24.1 | Implement Internationalization Support | Configurar soporte i18n para Inglés y Español en la aplicación Angular. | 3 | @johancg04 | Done |
 
 ## 5.2.2.4. Development Evidence for Sprint Review
 
