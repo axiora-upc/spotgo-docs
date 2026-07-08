@@ -17,8 +17,8 @@ Para el desarrollo del tercer sprint nos centramos en el elaboración del backen
 | **Sprint Goal & User Stories** | |
 | **Sprint 3 Goal** | El objetivo de este tercer sprint es elaborar el backend de nuestro aplicativo. Se han implementado las API's Restful para nuestro aplicativo y se ha realizado la documentación de los EndPoint en swagger. |
 | **Sprint 1 Velocity** | 10 Story Points (Velocidad estimada para el primer ciclo del equipo). |
-| **Sprint 2 Velocity** | 34 Story Points (Velocidad estimada para el segundo ciclo del equipo). |
-| **Sum of Story Points** | 44 |
+| **Sprint 2 Velocity** | 37 Story Points (Velocidad estimada para el segundo ciclo del equipo). |
+| **Sum of Story Points** | 47 |
 
 #### *5.2.3.2. Aspect Leaders and Collaborators*
 
