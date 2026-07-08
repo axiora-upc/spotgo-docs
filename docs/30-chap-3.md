@@ -71,22 +71,22 @@ Para este mapa, hemos definido la siguiente estructura:
 | 5 | US05 | Upload Parking Croquis | **As an** Administrator,<br>**I want** to upload a floor plan (croquis) of my parking lot,<br>**so that** the system can automatically generate a digital map. | 5 |
 | 6 | US06 | Automatic Digital Map Generation | **As an** Administrator,<br>**I want** the system to process my croquis,<br>**so that** it initializes Parking Spots and Zones automatically. | 5 |
 | 7 | US07 | Configure Parking Zones | **As an** Administrator,<br>**I want** to create and assign Parking Zones,<br>**so that** I can separate areas for Visitors, Taxis, and Staff. | 3 |
-| 8 | US09 | Virtual Receipt Generation | **As a** Client,<br>**I want** to receive a virtual ticket on my phone,<br>**so that** I know exactly which spot was assigned to me. | 3 |
-| 9 | US10 | Spot Occupancy Detection | **As the** System,<br>**I want** to report when client reserves a spot,<br>**so that** the system updates the spot status to Occupied. | 5 |
-| 10 | US11 | Spot Availability Detection | **As the** System,<br>**I want** to report when a resevation ends,<br>**so that** the system updates the spot status to Available. | 3 |
-| 11 | US13 | Availability Alerts | **As an** Administrator,<br>**I want** to receive real-time alerts,<br>**so that** I can react immediately to parking infractions. | 3 |
-| 12 | US14 | Real-time Admin Dashboard | **As an** Administrator,<br>**I want** to view the live occupancy map,<br>**so that** I can monitor the parking lot's status at a glance. | 5 |
-| 13 | US15 | Client Occupancy View | **As a** Client,<br>**I want** to view available spots on the app map,<br>**so that** I can easily navigate to my designated area. | 3 |
-| 14 | US16 | B2C Digital Payment | **As a** Client,<br>**I want** to pay for my parking stay digitally,<br>**so that** I don't have to wait in line at a physical cashier. | 5 |
-| 15 | US17 | B2C Monthly Subscription | **As a** Client,<br>**I want** to purchase a monthly parking pass,<br>**so that** I can enter and exit without paying per hour. | 3 |
-| 16 | US20 | Automated Electronic Billing | **As the** System,<br>**I want** to automatically generate an electronic receipt (Boleta/Factura),<br>**so that** the transaction complies with SUNAT tax regulations. | 5 |
-| 17 | US21 | View Digital Receipts | **As a** Client,<br>**I want** to view my payment history and download receipts,<br>**so that** I can track my parking expenses. | 2 |
-| 18 | US22 | Admin B2B Billing Panel | **As an** Administrator,<br>**I want** to access a B2B billing panel,<br>**so that** I can view the invoices for my SpotGo SaaS subscription. | 3 |
-| 19 | US23 | Landing Page Value Proposition | **As a** Visitor,<br>**I want** view a fast, static landing page built purely with HTML, CSS, and JS,<br>**so that** I can understand the SpotGo system without loading delays. | 3 |
-| 20 | US24 | Landing Page Navigation | **As a** Visitor,<br>**I want** to click on clear HTML anchor links and buttons,<br>**so that** I can easily navigate the page or be redirected to the Web App. | 2 |
-| 21 | US25 | Product Promotional Video | **As a** Visitor,<br>**I want** to watch a promotional video directly on the static page,<br>**so that** I can see the system in action. | 2 |
-| 22 | US26 | Asynchronous Payment Confirmation | **As a** Developer,<br>**I want** to implement a Stripe webhook endpoint,<br>**so that** the system can listen to asynchronous payment confirmations. | 3 |
-| 23 | US27 | Screen Reader Accessibility | **As a** Developer,<br>**I want** to configure ARIA attributes in the Angular Web App,<br>**so that** the application complies with a11y accessibility standards. | 2 |
-| 24 | US28 | Platform Language Selection | **As a** Developer,<br>**I want** to configure i18n support for English and Spanish,<br>**so that** users can choose their preferred language. | 3 |
-| 25 | US29 | API Integration Documentation | **As a** Developer,<br>**I want** to generate OpenAPI documentation via Swagger,<br>**so that** front-end developers can easily integrate the RESTful API. | 2 |
-| 26 | US30 | Landing Page Language Switcher | **As a** Visitor,<br>**I want** toggle the landing page language between Spanish and English using a simple JS script,<br>**so that** I can read it in my preferred language. | 3 |
+| 8 | US08 | Virtual Receipt Generation | **As a** Client,<br>**I want** to receive a virtual ticket on my phone,<br>**so that** I know exactly which spot was assigned to me. | 3 |
+| 9 | US09 | Spot Occupancy Detection | **As the** System,<br>**I want** to report when client reserves a spot,<br>**so that** the system updates the spot status to Occupied. | 5 |
+| 10 | US10 | Spot Availability Detection | **As the** System,<br>**I want** to report when a resevation ends,<br>**so that** the system updates the spot status to Available. | 3 |
+| 11 | US11 | Availability Alerts | **As an** Administrator,<br>**I want** to receive real-time alerts,<br>**so that** I can react immediately to parking infractions. | 3 |
+| 12 | US12 | Real-time Admin Dashboard | **As an** Administrator,<br>**I want** to view the live occupancy map,<br>**so that** I can monitor the parking lot's status at a glance. | 5 |
+| 13 | US13 | Client Occupancy View | **As a** Client,<br>**I want** to view available spots on the app map,<br>**so that** I can easily navigate to my designated area. | 3 |
+| 14 | US14 | B2C Digital Payment | **As a** Client,<br>**I want** to pay for my parking stay digitally,<br>**so that** I don't have to wait in line at a physical cashier. | 5 |
+| 15 | US15 | B2C Monthly Subscription | **As a** Client,<br>**I want** to purchase a monthly parking pass,<br>**so that** I can enter and exit without paying per hour. | 3 |
+| 16 | US16 | Automated Electronic Billing | **As the** System,<br>**I want** to automatically generate an electronic receipt (Boleta/Factura),<br>**so that** the transaction complies with SUNAT tax regulations. | 5 |
+| 17 | US17 | View Digital Receipts | **As a** Client,<br>**I want** to view my payment history and download receipts,<br>**so that** I can track my parking expenses. | 2 |
+| 18 | US18 | Admin B2B Billing Panel | **As an** Administrator,<br>**I want** to access a B2B billing panel,<br>**so that** I can view the invoices for my SpotGo SaaS subscription. | 3 |
+| 19 | US19 | Landing Page Value Proposition | **As a** Visitor,<br>**I want** view a fast, static landing page built purely with HTML, CSS, and JS,<br>**so that** I can understand the SpotGo system without loading delays. | 3 |
+| 20 | US20 | Landing Page Navigation | **As a** Visitor,<br>**I want** to click on clear HTML anchor links and buttons,<br>**so that** I can easily navigate the page or be redirected to the Web App. | 2 |
+| 21 | US21 | Product Promotional Video | **As a** Visitor,<br>**I want** to watch a promotional video directly on the static page,<br>**so that** I can see the system in action. | 2 |
+| 22 | US22 | Asynchronous Payment Confirmation | **As a** Developer,<br>**I want** to implement a Stripe webhook endpoint,<br>**so that** the system can listen to asynchronous payment confirmations. | 3 |
+| 23 | US23 | Screen Reader Accessibility | **As a** Developer,<br>**I want** to configure ARIA attributes in the Angular Web App,<br>**so that** the application complies with a11y accessibility standards. | 2 |
+| 24 | US24 | Platform Language Selection | **As a** Developer,<br>**I want** to configure i18n support for English and Spanish,<br>**so that** users can choose their preferred language. | 3 |
+| 25 | US25 | API Integration Documentation | **As a** Developer,<br>**I want** to generate OpenAPI documentation via Swagger,<br>**so that** front-end developers can easily integrate the RESTful API. | 2 |
+| 26 | US26 | Landing Page Language Switcher | **As a** Visitor,<br>**I want** toggle the landing page language between Spanish and English using a simple JS script,<br>**so that** I can read it in my preferred language. | 3 |
