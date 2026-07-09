@@ -95,17 +95,13 @@ Esto debería reflejarse en una reducción en los tiempos de búsqueda, una mejo
 
 #### *1.2.2.1. Lean UX Problem Statements*
 
-**Contexto**
 
-Un estudio de IBM indica que los conductores pueden gastar entre el 25% y 30% de su tiempo buscando estacionamiento, llegando en algunos casos a más de 600 minutos perdidos al mes. En distritos como San Isidro, donde la afluencia vehicular es muy alta, esta situación se intensifica. Según el INEUR, la demanda de estacionamiento se divide en estadías largas (más de 4 horas) y cortas (menos de 4 horas). En el centro financiero, la demanda de corta estadía supera los 5,000 espacios en la mañana, lo que dificulta que vecinos y abonados encuentren lugares disponibles para estadías prolongadas.
- 
-**Problema**
+Creemos que los conductores y administradores de estacionamientos tienen un problema cuando necesitan encontrar, gestionar y distribuir espacios disponibles en zonas de alta demanda sin contar con información actualizada sobre la ocupación y clasificación de usuarios.
 
-La alta demanda y la falta de información en tiempo real sobre la disponibilidad de espacios provoca pérdida de tiempo para los conductores, congestión vehicular y dificultades en la administración de los estacionamientos. Esto impacta tanto en la experiencia de los usuarios como en la eficiencia de la gestión de los espacios disponibles.
- 
-**Pregunta clave**
+Este problema genera largos tiempos de búsqueda para los conductores, congestión dentro de los estacionamientos, una distribución ineficiente de espacios y dificultades para que los administradores controlen correctamente la operación.
 
-¿De qué manera una aplicación de estacionamientos inteligentes, basada en sensores y notificaciones en tiempo real, puede optimizar la administración de espacios y mejorar la experiencia tanto de conductores como de administradores en zonas de alta demanda como San Isidro o Cercado de Lima? 
+Creemos que una plataforma inteligente de estacionamiento basada en monitoreo en tiempo real, clasificación de usuarios y asignación de zonas permitirá mejorar la organización del estacionamiento y optimizar el uso de los espacios disponibles.
+
 
 #### *1.2.2.2. Lean UX Assumptions*
 
