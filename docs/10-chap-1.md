@@ -89,10 +89,6 @@ La magnitud varía según el tamaño del problema y la afluencia del estacionami
 
 ### 1.2.2. Lean UX Process
 
-Queremos saber si el uso constante de nuestra aplicación puede mejorar la organización y gestión de los estacionamientos mediante la clasificación de usuarios y asignación de zonas específicas, permitiendo a los administradores registrar y controlar eficientemente el ingreso de vehículos.
-
-Esto debería reflejarse en una reducción en los tiempos de búsqueda, una mejor distribución de los espacios según el tipo de usuario y una experiencia más ordenada y satisfactoria tanto para conductores como para el personal administrativo.
-
 #### *1.2.2.1. Lean UX Problem Statements*
 
 
