@@ -106,6 +106,16 @@ Durante el Sprint 4 se documentaron los endpoints REST correspondientes a el con
 
 Para mostrar la interacción, ejecutamos algunos endpoints.
 
+1. Creamos un nuevo usuario usando POST Sign-up.
+
+![Sign-up](../assets/images/others/POST-sign-up.png)
+![Sign-up-response](../assets/images/others/POST-sign-up-response.png)
+
+2. Ingresamos con el nuevo usuario creado usando POST Sign-in.
+
+![Sign-in](../assets/images/others/POST-sign-in.png)
+![Sign-in-response](../assets/images/others/POST-sign-in-response.png)
+
 #### *5.2.4.7. Software Deployment Evidence for Sprint Review*
 
 N/A. No sé ha agregado ninguna nueva configuración de despliegue, es la misma configuración del sprint 3.
