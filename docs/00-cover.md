@@ -98,7 +98,7 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 
 **TB2**
 
-*Report Insights TB2*  
+![Report Insights TB2](../assets/images/others/report-insights-tb2.png)
 
 
 # Tabla de contenidos
