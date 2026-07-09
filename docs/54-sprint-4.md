@@ -117,3 +117,7 @@ Las tareas fueron distribuidas equitativamente entre los cinco integrantes segú
 La comunicación del equipo se sostuvo mediante reuniones virtuales periódicas y coordinación continua a través de los canales establecidos, lo que facilitó la resolución oportuna de dependencias entre módulos, especialmente en la integración del módulo IAM con los demás servicios del backend y la conexión con el frontend desplegado en Vercel.
 
 A continuación se presenta la evidencia de las interacciones y control de colaboración registrados durante el transcurso de este Sprint:
+
+![Team Insights Sprint 4.1](../assets/images/others/s4-insights-1.png)
+
+![Team Insights Sprint 4.2](../assets/images/others/s4-insights-2.png)
