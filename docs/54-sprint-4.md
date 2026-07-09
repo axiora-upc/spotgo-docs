@@ -75,6 +75,8 @@ El backlog del Sprint 4 se orienta a desarrollar el componente IAM de nuestro ap
 | spotgo-frontend | develop | ff0225c | feat: add MIT License to the project | 	R3memo | 2026-07-07 |
 | spotgo-frontend | develop | b0af3f0 | feat: improve some details, like screens, modals, backend connections, and fix a lot of bugs | 	R3memo | 2026-07-07 |
 | spotgo-frontend | develop | ade31d7 | feat: improve analytics view | 	R3memo | 2026-07-08 |
+| spotgo-frontend | develop | 7b3bce9 | feat: add employees spot asignment function and fix many bugs |	AdrixRyz | 2026-07-09 |
+| spotgo-frontend | develop | 2cdbdfd | feat: add employees spot asignment function and fix many bugs | AdrixRyz | 2026-07-09 |
 
 #### *5.2.4.5. Execution Evidence for Sprint Review*
 
