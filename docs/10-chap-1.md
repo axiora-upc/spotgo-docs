@@ -101,51 +101,21 @@ Creemos que una plataforma inteligente de estacionamiento basada en monitoreo en
 
 #### *1.2.2.2. Lean UX Assumptions*
 
-**Assumptions**
+**Bussiness Assumptions**
 
-1. ¿Quiénes son nuestros usuarios?
-* Personal administrativo de estacionamiento
-* Usuarios (clientes y colaboradores)
-
-2. ¿Dónde encaja nuestro servicio en su trabajo o vida?
-* Ayuda a los usuarios a encontrar y ubicarse en el estacionamiento de forma ordenada.
-* Permite a los administradores gestionar y supervisar el estacionamiento por zonas.
-* Facilita el control del uso adecuado de los espacios según el tipo de usuario.
-
-3. ¿Qué problemas tiene nuestro producto?
-* Requiere inversión inicial en sensores o cámaras.
-* Depende del registro correcto de usuarios por parte del administrador.
-* Necesita mantenimiento técnico periódico.
-* Puede existir resistencia al cambio en el uso del sistema.
-
-4. ¿Cómo y cuándo es usado nuestro producto?
-* Se utiliza al momento de ingresar al estacionamiento para guiar al usuario.
-* Funciona durante toda la permanencia del vehículo en el lugar.
-* Los administradores lo utilizan constantemente para monitoreo y control.
-
-5. ¿Qué características son importantes?
-* Monitoreo en tiempo real por zonas
-* Registro de usuarios
-* Alertas por uso indebido de espacios
-* Interfaz simple y clara
-* Panel de control para administradores
-* Sistema confiable y fácil de usar
-
-6. ¿Cómo debe verse nuestro producto y cómo comportarse?
-* Interfaz intuitiva y fácil de interpretar
-* Visualización clara de zonas disponibles
-* Respuesta rápida del sistema
-* Alertas precisas y oportunas
-* Funcionamiento continuo y estable
+* Creemos que los estacionamientos ubicados en zonas de alta demanda necesitan mejorar la administración y distribución de sus espacios disponibles.
+* Suponemos que los administradores requieren información actualizada para tomar decisiones operativas más eficientes.
+* Suponemos que los clientes valoran soluciones que reduzcan el tiempo y esfuerzo empleado en encontrar estacionamiento.
+* Creemos que los administradores estarán dispuestos a adoptar una solución digital que optimice sus procesos actuales.
 
 **Business outcomes**
 
-* Reducción del tiempo de búsqueda de estacionamiento.
-* Mejora en la organización y distribución de espacios.
-* Disminución de conflictos por uso indebido de zonas.
-* Mayor control y monitoreo en tiempo real para administradores.
-* Optimización del uso de espacios disponibles.
-* Mejora en la experiencia de los usuarios.
+* Reducir el tiempo promedio de búsqueda de estacionamiento.
+* Mejorar la organización y distribución de espacios disponibles.
+* Disminuir conflictos ocasionados por el uso indebido de zonas.
+* Garantizar mayor control y monitoreo en tiempo real para los administradores.
+* Optimizar la utilización de espacios disponibles.
+* Mejorar la eficiencia del servicio ofrecido a los usuarios.
 
 **Users**
 
@@ -155,15 +125,17 @@ Creemos que una plataforma inteligente de estacionamiento basada en monitoreo en
 **Users outcomes**
 
 * Administradores o personal operativo de estacionamiento
-  * Encontrar espacios disponibles de forma rápida
-  * Ubicarse en la zona que les corresponde
-  * Reducir el tiempo de búsqueda y el estrés
+  * Tener mayor control y supervisión del estacionamiento.
+  * Visualizar la ocupación de espacios en tiempo real.
+  * Gestionar zonas según tipo de usuario.
+  * Detectar usos indebidos de espacios.
+  * Tomar decisiones operativas con información actualizada.
 
 * Conductores y usuarios finales (clientes)
-  * Mejor control y supervisión del estacionamiento
-  * Organización eficiente por tipo de usuario
-  * Reducción de conflictos por uso indebido de zonas
-  * Mejor toma de decisiones
+  * Encontrar espacios disponibles rápidamente.
+  * Reducir el tiempo de búsqueda y el estrés.
+  * Ubicarse correctamente en la zona asignada.
+  * Tener una experiencia de estacionamiento más organizada.
 
 **Features**
 
