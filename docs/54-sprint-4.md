@@ -55,26 +55,26 @@ El backlog del Sprint 4 se orienta a desarrollar el componente IAM de nuestro ap
 
 | Repository | Branch | Commit Id | Commit Message | Committed By | Commit Date |
 | --- | --- | --- | --- | --- | --- |
-| spotgo-frontend | feature/iam | 0493802 | feat(iam): add User domain entity and Role type | Johan Contreras | 2026-07-05 |
-| spotgo-frontend | feature/iam | ee77d7b | feat(iam): add IAM infrastructure layer (users/roles API, assembler, IamApi) | Johan Contreras | 2026-07-05 |
-| spotgo-frontend | feature/iam | 75b0f60 | feat(iam): add AuthStore and auth/guest route guards | Johan Contreras | 2026-07-05 |
-| spotgo-frontend | feature/iam | 6936c76 | feat(iam): add IAM routes and role-based redirect view | Johan Contreras | 2026-07-05 |
-| spotgo-frontend | feature/iam | a32f7df | feat(iam): add shared styles for auth views (login/register layout) | Johan Contreras | 2026-07-05 |
-| spotgo-frontend | feature/iam | 35dc179 | feat(iam): add Login view with driver/operator selector and password toggle | Johan Contreras | 2026-07-05 |
-| spotgo-frontend | feature/iam | 4f37515 | feat(iam): add Register view with driver/operator selector and password toggle | Johan Contreras | 2026-07-05 |
-| spotgo-frontend | feature/iam | 854ccce | feat(app): make login/register the landing experience, gate app routes behind auth | Johan Contreras | 2026-07-05 |
-| spotgo-frontend | feature/iam | d3f1f46 | feat(toolbar): remove manual user/admin view switcher, add logout and change-password menu | Johan Contreras | 2026-07-05 |
-| spotgo-frontend | feature/iam | e8659ff | feat(iam): add change-password dialog and forgot-password flow | Johan Contreras | 2026-07-05 |
-| spotgo-frontend | feature/iam | 08f105e | feat(iam): add i18n keys for auth flows, seed test accounts, fix null parkingId crashing json-server DELETE cascade | Johan Contreras | 2026-07-05 |
+| spotgo-frontend | feature/iam | 0493802 | feat(iam): add User domain entity and Role type | johancg04 | 2026-07-05 |
+| spotgo-frontend | feature/iam | ee77d7b | feat(iam): add IAM infrastructure layer (users/roles API, assembler, IamApi) | johancg04 | 2026-07-05 |
+| spotgo-frontend | feature/iam | 75b0f60 | feat(iam): add AuthStore and auth/guest route guards | johancg04 | 2026-07-05 |
+| spotgo-frontend | feature/iam | 6936c76 | feat(iam): add IAM routes and role-based redirect view | johancg04 | 2026-07-05 |
+| spotgo-frontend | feature/iam | a32f7df | feat(iam): add shared styles for auth views (login/register layout) | johancg04 | 2026-07-05 |
+| spotgo-frontend | feature/iam | 35dc179 | feat(iam): add Login view with driver/operator selector and password toggle | johancg04 | 2026-07-05 |
+| spotgo-frontend | feature/iam | 4f37515 | feat(iam): add Register view with driver/operator selector and password toggle | johancg04 | 2026-07-05 |
+| spotgo-frontend | feature/iam | 854ccce | feat(app): make login/register the landing experience, gate app routes behind auth | johancg04 | 2026-07-05 |
+| spotgo-frontend | feature/iam | d3f1f46 | feat(toolbar): remove manual user/admin view switcher, add logout and change-password menu | johancg04 | 2026-07-05 |
+| spotgo-frontend | feature/iam | e8659ff | feat(iam): add change-password dialog and forgot-password flow | johancg04 | 2026-07-05 |
+| spotgo-frontend | feature/iam | 08f105e | feat(iam): add i18n keys for auth flows, seed test accounts, fix null parkingId crashing json-server DELETE cascade | johancg04 | 2026-07-05 |
 | spotgo-backend | develop | 08ca217 | feat: add spring security config | AdrixRyz | 2026-07-06 |
 | spotgo-backend | develop | b068ebd | feat: add iam module, add missing endpoints, improve structure and fix a lot of bugs | AdrixRyz | 2026-07-06 |
-| spotgo-frontend | develop | 6623d43 | feat: add routes security | AdrixRyz | 2026-07-06 |
-| spotgo-frontend | develop | ce6b0be | feat: add final connection to backend, refactor entitys structure and fix a lot of bugs | AdrixRyz | 2026-07-06 |
-| spotgo-backend | develop | b2d99e5 | feat: add MIT License to the project | AdrixRyz | 2026-07-07 |
-| spotgo-backend | develop | d795358 | feat: add more security and fix a lot of bugs | AdrixRyz | 2026-07-07 |
-| spotgo-frontend | develop | ff0225c | feat: add MIT License to the project | AdrixRyz | 2026-07-07 |
-| spotgo-frontend | develop | b0af3f0 | feat: improve some details, like screens, modals, backend connections, and fix a lot of bugs | AdrixRyz | 2026-07-07 |
-| spotgo-frontend | develop | ade31d7 | feat: improve analytics view | AdrixRyz | 2026-07-08 |
+| spotgo-frontend | develop | 6623d43 | feat: add routes security | CesarJrCR | 2026-07-06 |
+| spotgo-frontend | develop | ce6b0be | feat: add final connection to backend, refactor entitys structure and fix a lot of bugs | CesarJrCR | 2026-07-06 |
+| spotgo-backend | develop | b2d99e5 | feat: add MIT License to the project | nes-ro | 2026-07-07 |
+| spotgo-backend | develop | d795358 | feat: add more security and fix a lot of bugs | nes-ro | 2026-07-07 |
+| spotgo-frontend | develop | ff0225c | feat: add MIT License to the project | 	R3memo | 2026-07-07 |
+| spotgo-frontend | develop | b0af3f0 | feat: improve some details, like screens, modals, backend connections, and fix a lot of bugs | 	R3memo | 2026-07-07 |
+| spotgo-frontend | develop | ade31d7 | feat: improve analytics view | 	R3memo | 2026-07-08 |
 
 #### *5.2.4.5. Execution Evidence for Sprint Review*
 
