@@ -27,7 +27,7 @@ El uso limitado de pesos tipográficos (medium, semibold, bold) evita ruido visu
 
 La paleta de colores sigue un enfoque semántico, donde cada color representa un estado o acción específica dentro del sistema:
 
-- **Primary (Azul oscuro #1A237E):** acciones principales, ---navegación activa
+- **Primary (Azul oscuro #1A237E):** acciones principales, navegación activa
 - **Secondary (Azul brillante #2979FF):** interacciones, enlaces, foco
 - **Success (Verde #00C853):** espacios disponibles, acciones exitosas
 - **Warning (Naranja):** alertas de tiempo o expiración
@@ -104,8 +104,8 @@ Esto permite al usuario entender rápidamente el resultado de sus acciones y el 
 
 Se consideran principios de accesibilidad como:
 
-- Contraste adecuado-
-- Tamaños mínimos de interacción-
+- Contraste adecuado
+- Tamaños mínimos de interacción
 - Navegación mediante teclado
 - Uso de múltiples indicadores (color + texto + iconos)
 
@@ -159,7 +159,7 @@ Finalmente, todas las etiquetas han sido diseñadas con el objetivo de reducir a
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-En esta sección se definen los SEO Tags y Meta Tags de SpotGo, considerando tanto el Landing Page como las principales vistas de la aplicación web. Estos elementos han sido diseñados estratégicamente para reflejar la propuesta de valor del sistema optimizar la experiencia de estacionamiento para conductores y operadores y mejorar su posicionamiento en motores de búsqueda.
+En esta sección se definen los SEO Tags y Meta Tags de SpotGo, considerando tanto el Landing Page como las principales vistas de la aplicación web. Estos elementos han sido diseñados estratégicamente para reflejar la propuesta de valor del sistema, optimizar la experiencia de estacionamiento para conductores y operadores y mejorar su posicionamiento en motores de búsqueda.
 
 **Landing Page**
 
@@ -223,7 +223,7 @@ Axiora
 - **Title:**
 Favorites
 - **Meta Description:**
- n° saved locations
+n° saved locations
 - **Keywords:**
 Navigate, Reserve
 - **Author:**
@@ -235,7 +235,7 @@ Axiora
 Parking History
 - **Meta Description:**
 n° past reservations
-- - **Keywords:**
+- **Keywords:**
 Rate, Spot
 - **Author:**
 Axiora

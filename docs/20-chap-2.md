@@ -158,7 +158,7 @@ El sistema incluye un módulo de analítica avanzada para administradores, permi
 | Nombre completo: | Reinaldo Torres |
 | Edad: | 42 años |
 | Distrito: | Breña |
-| Resumen: | Nos comenta que la gestión de su estacionamiento combina métodos manuales y digitales, registrando a los clientes sin asignación fija de espacios, ya que ocupan cualquier lugar disponible. El monitoreo se realiza mediante un aplicativo que permite control remoto, pero en horas de alta demanda surgen problemas de congestión y necesidad de movilizar vehículo. Él nos destaca que un sistema en tiempo real mejoraría  significativamente la gestión, permitiendo mayor control y reducción de pérdidas económicas. También resalta la importancia de alertas, especialmente para pagos, y considera que la implementación de una solución inteligente sería beneficiosa, aunque requeriría capacitación del personal. |
+| Resumen: | Nos comenta que la gestión de su estacionamiento combina métodos manuales y digitales, registrando a los clientes sin asignación fija de espacios, ya que ocupan cualquier lugar disponible. El monitoreo se realiza mediante un aplicativo que permite control remoto, pero en horas de alta demanda surgen problemas de congestión y necesidad de movilizar vehículo. Él nos destaca que un sistema en tiempo real mejoraría significativamente la gestión, permitiendo mayor control y reducción de pérdidas económicas. También resalta la importancia de alertas, especialmente para pagos, y considera que la implementación de una solución inteligente sería beneficiosa, aunque requeriría capacitación del personal. |
 
 **Entrevista 3**
 
@@ -182,7 +182,7 @@ El sistema incluye un módulo de analítica avanzada para administradores, permi
 | Nombre completo: | Emiliano Lozano |
 | Edad: | 51 años |
 | Distrito: | San Martin de Porres |
-| Resumen: | Emiliano nos señala que , como taxista, cuenta con un espacio asignado dentro del estacionamiento, lo que facilita su experiencia y evita dificultades para encontrar lugar. La organización se apoya en señalización básica como carteles, y en algunos casos utilizan conos para asegurar sus espacios. En momentos de alta demanda, otros usuarios ocupan sus espacios, obligándolos a esperar o buscar alternativas. Además, señala que los clientes tienen más dificultades para estacionar. Considera que una solución tecnológica con señales o alertas podría mejorar la organización. |
+| Resumen: | Emiliano nos señala que, como taxista, cuenta con un espacio asignado dentro del estacionamiento, lo que facilita su experiencia y evita dificultades para encontrar lugar. La organización se apoya en señalización básica como carteles, y en algunos casos utilizan conos para asegurar sus espacios. En momentos de alta demanda, otros usuarios ocupan sus espacios, obligándolos a esperar o buscar alternativas. Además, señala que los clientes tienen más dificultades para estacionar. Considera que una solución tecnológica con señales o alertas podría mejorar la organización. |
 
 **Entrevista 2**
 
@@ -229,7 +229,7 @@ Se trata de administradores y personal operativo encargados de supervisar el est
 * Se encargan del control de ingresos, ocupación y organización de los vehículos.
 * En muchos casos, deben intervenir directamente para reordenar los autos.
 
-*¿Qué les preocupa y  anhelan?*
+*¿Qué les preocupa y anhelan?*
 - Desorden en la ocupación: No existen zonas definidas, los usuarios ocupan cualquier espacio disponible.
 - Congestión en horas pico: Dificultad para movilizar vehículos en espacios reducidos.
 - Dependencia de procesos manuales: Uso de boletas, registros y control físico. 

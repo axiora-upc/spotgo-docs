@@ -1,6 +1,6 @@
 #### *5.2.4.1. Sprint Planning 4*
 
-Para el desarrollo del cuarto sprint nos centramos completar las caracteristicas faltantes de nuestro proyecto así como implementar el componente IAM de este, Para ello hemos dividido la carga de trabajo en 5 segmentos.
+Para el desarrollo del cuarto sprint nos centramos en completar las características faltantes de nuestro proyecto así como implementar el componente IAM de este, para ello hemos dividido la carga de trabajo en 5 segmentos.
 
 | **Sprint #** | 4 |
 | --- | --- |
@@ -10,13 +10,13 @@ Para el desarrollo del cuarto sprint nos centramos completar las caracteristicas
 | **Location** | Reunión virtual |
 | **Prepared By** | Adrian Ruiz Mideyros |
 | **Attendees** | Adrian Ruiz Mideyros, Nestor Alonso Rojas Tello, Paul Alexandro Espinoza Lopez, Cesar Jair Contreras Rojas, Johan Alexis Contreras Granados |
-| **Sprint 3 Review Summary** | Durante el Sprint 3, el equipo logró implementar exitosamente el equipo logro desarrollar y desplegar el Backend (API's Restful) de nuestra aplicación. Se desarrollaron los principales módulos backend del sistema, incluyendo: Upload Parking Croquis (US05), Spot Occupancy Detection (US10), Spot Availability Detection (US11), Availability Alerts (US13), Real-time Admin Dashboard (US14), Automated Electronic Billing (US20), View Digital Receipts (US21), Product Promotional Video (US25). |
+| **Sprint 3 Review Summary** | Durante el Sprint 3, el equipo logró implementar y desplegar exitosamente el Backend (APIs RESTful) de nuestra aplicación. Se desarrollaron los principales módulos backend del sistema, incluyendo: Upload Parking Croquis (US05), Spot Occupancy Detection (US10), Spot Availability Detection (US11), Availability Alerts (US13), Real-time Admin Dashboard (US14), Automated Electronic Billing (US20), View Digital Receipts (US21), Product Promotional Video (US25). |
 | **Sprint 3 Retrospective Summary** | Durante el Sprint 3, el equipo logró desarrollar e integrar exitosamente el backend de SpotGo, implementando APIs REST para los bounded contexts de Parking, Billing, Reservations y Subscriptions, documentadas mediante OpenAPI/Swagger y desplegadas en Railway con PostgreSQL como base de datos en producción. Como fortalezas, se destacó la efectiva distribución de tareas por bounded context y el uso de GitFlow con ramas feature/ bien definidas, lo que garantizó una integración ordenada hacia develop. Como oportunidades de mejora, el equipo identificó la necesidad de fortalecer la cobertura de pruebas, mejorar el manejo de errores en los endpoints y completar los módulos de autenticación y registro de usuarios que quedaron pendientes. Se acordó priorizar en el Sprint 4 la integración end-to-end completa, la validación de flujos con datos reales y el refinamiento de la experiencia de usuario en los módulos conectados al backend. |
 | **Sprint Goal & User Stories** | |
 | **Sprint 4 Goal** | El objetivo de este cuarto sprint es elaborar el IAM de nuestro aplicativo así como acabar con los bounded context que hayan incompleto o parcialmente completos. |
 | **Sprint 1 Velocity** | 10 Story Points (Velocidad estimada para el primer ciclo del equipo). |
 | **Sprint 2 Velocity** | 26 Story Points (Velocidad estimada para el segundo ciclo del equipo). |
-| **Sprint 3 Velocity** | 27 Story Points (Velocidad estimada para el segundo ciclo del equipo). |
+| **Sprint 3 Velocity** | 27 Story Points (Velocidad estimada para el tercer ciclo del equipo). |
 | **Sum of Story Points** | 63 |
 
 #### *5.2.4.2. Aspect Leaders and Collaborators*
@@ -35,7 +35,7 @@ A continuación se detalla la matriz de liderazgo y colaboración (LACX) para br
 
 El backlog del Sprint 4 se orienta a desarrollar el componente IAM de nuestro aplicativo y completar los bounded context que hayan quedado parcialmente completos.
 
-**Trello link:** [https://trello.com/invite/b/6a3044b58529d68c1f19afee/ATTIa322332a59d2dc5bf472752e3591fc3f5CBEB433/axiora-trello](https://trello.com/invite/b/6a3044b58529d68c1f19afee/ATTIa322332a59d2dc5bf472752e3591fc3f5CBEB433/axiora-trello )
+**Trello link:** [https://trello.com/invite/b/6a3044b58529d68c1f19afee/ATTIa322332a59d2dc5bf472752e3591fc3f5CBEB433/axiora-trello](https://trello.com/invite/b/6a3044b58529d68c1f19afee/ATTIa322332a59d2dc5bf472752e3591fc3f5CBEB433/axiora-trello)
 
 ![Sprint Backlog 4](../assets/images/others/s4-sprint-backlog.png)
 
@@ -72,9 +72,9 @@ El backlog del Sprint 4 se orienta a desarrollar el componente IAM de nuestro ap
 | spotgo-frontend | develop | ce6b0be | feat: add final connection to backend, refactor entitys structure and fix a lot of bugs | CesarJrCR | 2026-07-06 |
 | spotgo-backend | develop | b2d99e5 | feat: add MIT License to the project | nes-ro | 2026-07-07 |
 | spotgo-backend | develop | d795358 | feat: add more security and fix a lot of bugs | nes-ro | 2026-07-07 |
-| spotgo-frontend | develop | ff0225c | feat: add MIT License to the project | 	R3memo | 2026-07-07 |
-| spotgo-frontend | develop | b0af3f0 | feat: improve some details, like screens, modals, backend connections, and fix a lot of bugs | 	R3memo | 2026-07-07 |
-| spotgo-frontend | develop | ade31d7 | feat: improve analytics view | 	R3memo | 2026-07-08 |
+| spotgo-frontend | develop | ff0225c | feat: add MIT License to the project | R3memo | 2026-07-07 |
+| spotgo-frontend | develop | b0af3f0 | feat: improve some details, like screens, modals, backend connections, and fix a lot of bugs | R3memo | 2026-07-07 |
+| spotgo-frontend | develop | ade31d7 | feat: improve analytics view | R3memo | 2026-07-08 |
 | spotgo-frontend | develop | 7b3bce9 | feat: add employees spot asignment function and fix many bugs |	AdrixRyz | 2026-07-09 |
 | spotgo-frontend | develop | 2cdbdfd | feat: add employees spot asignment function and fix many bugs | AdrixRyz | 2026-07-09 |
 
@@ -96,7 +96,7 @@ Durante el Sprint 4 se documentaron los endpoints REST correspondientes a el con
 
 | Recurso | Endpoint Base | Acciones Implementadas |
 | --- | --- | --- |
-| Authentication | `/api/v1/authentication` | POST sign-up , POST sign-in,  POST password-reset/request, POST password-reset/confirm |
+| Authentication | `/api/v1/authentication` | POST sign-up, POST sign-in, POST password-reset/request, POST password-reset/confirm |
 | Users | `/api/v1/users` | GET, GET by id, PATCH update user, PATCH update password |
 | Vehicles | `/api/v1/vehicles` | GET, POST, DELETE by id, PATCH update by id |
 | Analytics | `/api/v1/analytics` | GET |
@@ -118,7 +118,7 @@ Para mostrar la interacción, ejecutamos algunos endpoints.
 
 #### *5.2.4.7. Software Deployment Evidence for Sprint Review*
 
-N/A. No sé ha agregado ninguna nueva configuración de despliegue, es la misma configuración del sprint 3.
+N/A. No se ha agregado ninguna nueva configuración de despliegue, es la misma configuración de los sprints anteriores.
 
 #### *5.2.4.8. Team Collaboration Insights during Sprint* 
 

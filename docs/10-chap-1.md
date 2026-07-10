@@ -38,7 +38,7 @@ Axiora se posiciona en la frontera de la innovación colaborativa. A diferencia 
 
 | Foto | Nombre | Descripción |
 | --- | --- | --- |
-| ![Adrian Photo](../assets/images/team-photos/adrian-photo.png) | Ruiz Mideyros, Adrian (U2024IE177) | Estudiante de Ingeniería de Software, apasionado por la tecnología desde pequeño. Desarrollador de aplicaciones y videojuegos, con conocimientos en C++, Python, WebSocket y otras tecnologías. Me considero una persona proactiva, con gran disposición para aprender constantemente y apoyar en lo que se necesite. |
+| ![Adrian Photo](../assets/images/team-photos/adrian-photo.png) | Ruiz Mideyros, Adrian (U20241E177) | Estudiante de Ingeniería de Software, apasionado por la tecnología desde pequeño. Desarrollador de aplicaciones y videojuegos, con conocimientos en C++, Python, WebSocket y otras tecnologías. Me considero una persona proactiva, con gran disposición para aprender constantemente y apoyar en lo que se necesite. |
 | ![Nestor Photo](../assets/images/team-photos/nestor-photo.png) | Rojas Tello, Nestor Alonso (U202317099) | Estudiante de Ingeniería de Software. Tengo conocimientos en C++, Python, JavaScript y CSS. Me considero una persona colaborativa, responsable y con disposición para resolver dudas y proponer soluciones ante cualquier desafío. |
 | ![Paul Photo](../assets/images/team-photos/paul-photo.png) | Espinoza Lopez, Paul Alexandro (U20241E321) | Estudiante de Ingeniería de Software con conocimientos en C++, SQL y Python. Me considero una persona responsable que no duda para tomar decisiones fuertes en el momento que se presentan, suelo ser muy autocrítico y siempre estoy para ayudar y escuchar a mis demás compañeros.|
 | ![Cesar Photo](../assets/images/team-photos/cesar-photo.png) | Contreras Rojas, Cesar Jair (U20241D995) | Estudiante de ingeniería de Software. He practicado con Python, C++, Java entre otros. Me considero alguien responsable, colaborativo, amable y dispuesto a ayudar a mis compañeros, soy alguien que se esfuerza por encontrar soluciones a problemas. |
@@ -63,11 +63,11 @@ Además, los conductores enfrentan demoras para encontrar un lugar adecuado seg�
 3. ¿Cuándo se presenta el problema? (When?)
 
 Este problema ocurre principalmente en horas de alta demanda, como en las mañanas o tardes durante los días laborales, y con mayor frecuencia los fines de semana o feriados, cuando los centros comerciales, oficinas y estacionamientos privados reciben un gran número de vehículos. 
-También se presenta en momentos de eventos especiales, como conciertos, partidos o ferias, donde la afluencia de personas se incrementa de manera significativa. En estas situaciones , la falta de información real sobre los espacios disponibles provoca demoras, congestión vehicular dentro del estacionamiento y desorganización en la gestión de los accesos. 
+También se presenta en momentos de eventos especiales, como conciertos, partidos o ferias, donde la afluencia de personas se incrementa de manera significativa. En estas situaciones, la falta de información real sobre los espacios disponibles provoca demoras, congestión vehicular dentro del estacionamiento y desorganización en la gestión de los accesos. 
 
 4. ¿Dónde sucede? (Where?)
 
-Este problema se presenta en estacionamientos con gran afluencia de vehículos, como los centros comerciales, supermercados, aeropuertos, universidades, oficinas corporativas y hospitales. También ocurre en estacionamientos privados o públicos de alta rotación donde no existe un sistema  automatizado de control de espacios disponibles.
+Este problema se presenta en estacionamientos con gran afluencia de vehículos, como los centros comerciales, supermercados, aeropuertos, universidades, oficinas corporativas y hospitales. También ocurre en estacionamientos privados o públicos de alta rotación donde no existe un sistema automatizado de control de espacios disponibles.
 
 5. ¿Por qué ocurre? (Why?)
 
@@ -101,7 +101,7 @@ Creemos que una plataforma inteligente de estacionamiento basada en monitoreo en
 
 #### *1.2.2.2. Lean UX Assumptions*
 
-**Bussiness Assumptions**
+**Business Assumptions**
 
 * Creemos que los estacionamientos ubicados en zonas de alta demanda necesitan mejorar la administración y distribución de sus espacios disponibles.
 * Suponemos que los administradores requieren información actualizada para tomar decisiones operativas más eficientes.

@@ -30,13 +30,40 @@ Proyecto
 
 **Integrantes**
 
-| Código | Apellidos y Nombres |
-| --- | --- |
-| U20241E177 | Ruiz Mideyros, Adrian |
-| U202317099 | Rojas Tello, Nestor Alonso |
-| U20241E321 | Espinoza Lopez, Paul Alexandro |
-| U20241D995 | Contreras Rojas, Cesar Jair |
-| U202423752 | Contreras Granados, Johan Alexis |
+<div style="text-align: center;">
+<div style="display: inline-block;">
+<table style="width: auto; border-collapse: collapse; text-align: center;">
+  <thead>
+    <tr>
+      <th style="padding: 8px; border: 1px solid #666; text-align: center;">Código</th>
+      <th style="padding: 8px; border: 1px solid #666; text-align: center;">Apellidos y Nombres</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #666; text-align: center;">U20241E177</td>
+      <td style="padding: 8px; border: 1px solid #666; text-align: center;">Ruiz Mideyros, Adrian</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #666; text-align: center;">U202317099</td>
+      <td style="padding: 8px; border: 1px solid #666; text-align: center;">Rojas Tello, Nestor Alonso</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #666; text-align: center;">U20241E321</td>
+      <td style="padding: 8px; border: 1px solid #666; text-align: center;">Espinoza Lopez, Paul Alexandro</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #666; text-align: center;">U20241D995</td>
+      <td style="padding: 8px; border: 1px solid #666; text-align: center;">Contreras Rojas, Cesar Jair</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #666; text-align: center;">U202423752</td>
+      <td style="padding: 8px; border: 1px solid #666; text-align: center;">Contreras Granados, Johan Alexis</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
 
 **Período 202610**
 
@@ -74,6 +101,9 @@ Proyecto
 | 0.3.0 | 15/6/26 | @nes-ro | docs: añadir correcciones de la revisión del tb1 |
 | 0.3.1 | 19/6/26 | @CesarJrCR | docs: añadir todos los puntos del sprint 3 |
 | 0.3.2 | 20/6/26 | @R3memo | docs: añadir los puntos de validation interviews |
+| 0.4.0 | 3/7/26 | @nes-ro | docs: añadir correcciones de la revisión del av2 |
+| 0.4.1 | 6/7/26 | @CesarJrCR | docs: añadir todos los puntos del sprint 4 |
+| 1.0.0 | 9/7/26 | @AdrixRyz | docs: añadir correcciones finales del trabajo |
 
 # Project Report Collaboration Insights
 
@@ -99,7 +129,6 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 **TB2**
 
 ![Report Insights TB2](../assets/images/others/report-insights-tb2.png)
-
 
 # Tabla de contenidos
 
@@ -221,11 +250,11 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 5.3.1. Diseño de Entrevistas  
 5.3.2. Registro de Entrevistas  
 5.3.3. Evaluaciones según heurísticas  
-[**5.4. Video-About-the-Product**](70-product-video.md)  
+[**5.4. Video About-the-Product**](70-product-video.md)  
 
 [**Conclusiones**](80-conclusions.md)  
 [**Recomendaciones**](81-recommendations.md)  
-[**Video-About-the-Team**](82-team-video.md)  
+[**Video About-the-Team**](82-team-video.md)  
 [**Bibliografía**](90-bibliography.md)  
 [**Anexos**](99-annexes.md)  
 

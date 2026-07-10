@@ -2,7 +2,7 @@
 
 #### *5.2.2.1. Sprint Planning 2*
 
-Para el desarrollo del segundo sprint nos centramos en el elaboración del frontend de nuestra aplicación, para ello lo  dividimos de acuerdo a la cantidad de bounded context con cada integrante del grupo (fueron 5 bounded context, 1 por cada integrante). En el Frontend podemos encontrar Dashboard, Reservaciones de estacionamiento, Suscripciones, Recibos, Favoritos y Historial de estacionamientos visitados.
+Para el desarrollo del segundo sprint nos centramos en la elaboración del frontend de nuestra aplicación, para ello lo dividimos de acuerdo a la cantidad de bounded context con cada integrante del grupo (fueron 5 bounded context, 1 por cada integrante). En el Frontend podemos encontrar Dashboard, Reservaciones de estacionamiento, Suscripciones, Recibos, Favoritos y Historial de estacionamientos visitados.
 
 | **Sprint #** | 2 |
 | --- | --- |
@@ -15,7 +15,7 @@ Para el desarrollo del segundo sprint nos centramos en el elaboración del front
 | **Sprint 1 Review Summary** | During Sprint 1, the team successfully established the initial project foundations, including repository configuration, cloud infrastructure setup, GitFlow workflow definition, and collaborative development standards using Conventional Commits. In addition, the team refined the Lean UX process to better align the value proposition with the identified User Personas and business problem. The initial Product Backlog was reorganized to improve traceability between User Stories, acceptance criteria, Impact Mapping, and the defined project scope. |
 | **Sprint 1 Retrospective Summary** | During the retrospective, the team identified the need to improve the specificity and consistency of User Stories and acceptance criteria to ensure complete alignment with the project scope and Lean UX Canvas. The team also agreed to strengthen documentation quality, maintain consistent English writing standards, and include more alternative user flows and responsive design considerations in future prototypes. Additionally, the team reinforced the mandatory use of GitFlow, Conventional Commits, branch naming conventions, and task estimation practices for all future sprints. |
 | **Sprint Goal & User Stories** | |
-| **Sprint 2 Goal** | Our focus is on delivering a responsive, fast, and fully navigable static Landing Page using HTML, CSS, and JavaScript, including multilingual support and a clear value proposition aligned with the identified User Personas. This sprint also aims to strengthen the visual identity, improve user flows, and validate the business idea through an accessible and responsive user experience. Success will be confirmed when users can navigate the deployed Landing Page seamlessly across different devices and clearly understand the platform’s innovative value proposition. |
+| **Sprint 2 Goal** | Our focus is on delivering the responsive Angular Web Application for SpotGo, implementing the main frontend modules for both driver and administrator roles. This includes real-time monitoring dashboards, parking occupancy visualization, user subscription and payment management, and analytics panels with i18n support. Success will be confirmed when users can navigate the deployed Web Application across different devices and interact with the core functionalities of the platform. |
 | **Sprint 1 Velocity** | 10 Story Points (Velocidad estimada para el primer ciclo del equipo). |
 | **Sum of Story Points** | 10 |
 
@@ -33,7 +33,7 @@ A continuación se detalla la matriz de liderazgo y colaboración (LACX) para br
 
 #### *5.2.2.3. Sprint Backlog 2*
 
-El sprint Backlog se centra en la elaboración del frontend principal de SpotGo, esto incluye el diseño responsivo, el dashboard y el acceso por roles tanto el de administrador como el de conductor. Es gracias a estas implementaciones que hemos logrado una aplicación interactiva conectada a servicios simulados para validar la experiencia antes de agregar las API's
+El sprint Backlog se centra en la elaboración del frontend principal de SpotGo, esto incluye el diseño responsivo, el dashboard y el acceso por roles tanto el de administrador como el de conductor. Es gracias a estas implementaciones que hemos logrado una aplicación interactiva conectada a servicios simulados para validar la experiencia antes de agregar las APIs
 
 **Trello link:** [https://trello.com/invite/b/6a3044b58529d68c1f19afee/ATTIa322332a59d2dc5bf472752e3591fc3f5CBEB433/axiora-trello](https://trello.com/invite/b/6a3044b58529d68c1f19afee/ATTIa322332a59d2dc5bf472752e3591fc3f5CBEB433/axiora-trello)
 
@@ -151,7 +151,7 @@ A continuación, se presenta la evidencia visual de las principales vistas, mód
 
 ![Settings](../assets/images/figures/95-settings.png)
 
-**Web App Demostration Video:** [https://upcedupe-my.sharepoint.com/:f:/g/personal/u202423752_upc_edu_pe/IgA2kceyaesLRLXekQjDh4ArAVEEAL0OxNcOFE_COv4X7kw?e=JoYpwY](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202423752_upc_edu_pe/IgA2kceyaesLRLXekQjDh4ArAVEEAL0OxNcOFE_COv4X7kw?e=JoYpwY)
+**Web App Demonstration Video:** [https://upcedupe-my.sharepoint.com/:f:/g/personal/u202423752_upc_edu_pe/IgA2kceyaesLRLXekQjDh4ArAVEEAL0OxNcOFE_COv4X7kw?e=JoYpwY](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202423752_upc_edu_pe/IgA2kceyaesLRLXekQjDh4ArAVEEAL0OxNcOFE_COv4X7kw?e=JoYpwY)
 
 #### *5.2.2.6. Services Documentation Evidence for Sprint Review*
 
